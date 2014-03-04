@@ -1,0 +1,17 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Muttley's_Bar_&_Coffee_Lounge_Address.html",
+  "label" : "This is the address resource for Muttley's Bar & Coffee Lounge",
+  "country-name" : "Malta",
+  "extended-address" : "Andrew Cunningham Street",
+  "locality" : "Qawra",
+  "postal-code" : "SPB1745",
+  "street-address" : "Qawra rd. Qawra"
+}

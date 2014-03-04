@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Malta_Nights_Extravaganza.html">
+    <schema:name>Malta Nights Extravaganza</schema:name>
+    <foaf:based_near>http://sws.geonames.org/8299754/</foaf:based_near>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g1929915-d2141135-Reviews-Malta_Nights_Extravaganza-Siggiewi_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://dbpedia.org/resource/Siggiewi</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Malta_Nights_Extravaganza_Address.html"/>
+    <vcard:hasTelephone>+356 2203 3000</vcard:hasTelephone>
+    <foaf:based_near>http://dbpedia.org/resource/Siggiewi</foaf:based_near>
+    <j.0:city>http://sws.geonames.org/8299754/</j.0:city>
+    <schema:description>An unforgettable experience of a unique Maltese folklore show and dinner, giving eager audiences a glimpse of Malta through the ages, as this tiny but... more » An unforgettable experience of a unique Maltese folklore show and dinner, giving eager audiences a glimpse of Malta through the ages, as this tiny but significant Island of ours journeys from the prehistoric to present times… with special emphasis on one of the greatest chapters in Maltese history … the Knights of St. John and the Great Siege, when a small garrison of the famous Knights of St. John together with our heroic Maltese defenders managed to defeat the mighty Ottoman Empire. A talented cast of dancers and entertainers dressed in rich medieval costumes and shining armour together with our magnificent horses, will entertain, excite and amuse you during two hours of non-stop action, song and dance. Witness a colourful fusion of tribal music, folk dancing, carnival, fire dancers, knights on horseback, live battles and much more highlighting Maltese culture, traditions and folk.</schema:description>
+    <foaf:name>Malta Nights Extravaganza</foaf:name>
+    <vcard:hasEmail>sales@mkleisure.com</vcard:hasEmail>
+    <rdfs:label>Malta Nights Extravaganza is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

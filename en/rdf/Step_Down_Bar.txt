@@ -1,0 +1,29 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Amenities.html">
+    <en:hasAmenity>Bathroom facilities</en:hasAmenity>
+    <en:hasAmenity>Food available for purchase</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar.html">
+    <schema:name>Step Down Bar</schema:name>
+    <j.0:city>http://sws.geonames.org/8299755/</j.0:city>
+    <foaf:based_near>http://sws.geonames.org/8299755/</foaf:based_near>
+    <vcard:hasTelephone>+(356)99592730</vcard:hasTelephone>
+    <rdfs:label>Step Down Bar is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasEmail>davsaliba@hotmail.com</vcard:hasEmail>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Address.html"/>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Amenities.html"/>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <j.0:city>http://dbpedia.org/resource/Sliema</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Sliema</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190327-d4243522-Reviews-Step_Down_Bar-Sliema_Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:name>Step Down Bar</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

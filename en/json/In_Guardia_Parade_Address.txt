@@ -1,0 +1,13 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/In_Guardia_Parade_Address.html",
+  "label" : "This is the address resource for In Guardia Parade",
+  "country-name" : "Malta",
+  "locality" : "Birgu (Vittoriosa)",
+  "street-address" : "St. John_s Cavalier"
+}

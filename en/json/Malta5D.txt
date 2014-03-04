@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "recommendedVisitLength" : "http://newcsa3221.azurewebsites.net/en/html/recommendedVisitLength",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "aggregateRating" : "http://www.w3.org/2006/vcard/ns#aggregateRating",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Malta5D.html",
+  "city" : [ "http://sws.geonames.org/8334638/", "http://dbpedia.org/resource/Valletta" ],
+  "recommendedVisitLength" : "Less than 1 hour",
+  "name" : "Malta5D",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+  "label" : "Malta5D is an entertainment venue in Malta.",
+  "aggregateRating" : "4.5",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Malta5D_Address.html",
+  "hasTelephone" : "356 99682617",
+  "based_near" : [ "http://sws.geonames.org/8334638/", "http://dbpedia.org/resource/Valletta" ],
+  "name_" : "Malta5D",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190328-d3443225-Reviews-Malta5D-Valletta_Island_of_Malta.html"
+}

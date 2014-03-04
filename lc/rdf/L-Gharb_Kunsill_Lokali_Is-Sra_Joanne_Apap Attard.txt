@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Gharb_Kunsill_Lokali_Is-Sra_Joanne_Apap Attard.html">
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Gharb_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sra</foaf:title>
+    <foaf:family_name>Apap Attard</foaf:family_name>
+    <j.0:abstract>Is-Sra Joanne Apap Attard is a member of L-Għarb Local Council</j.0:abstract>
+    <foaf:based_near>http://www.geonames.org/8299711</foaf:based_near>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <rdfs:label>Is-Sra Joanne Apap Attard</rdfs:label>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Għarb"/>
+    <foaf:firstName>Joanne</foaf:firstName>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "region" : "http://www.w3.org/2006/vcard/ns#region",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Ix-Xewkija Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Ix-Xewkija site address",
+  "country-name" : "Malta",
+  "extended-address" : "Triq it-Torri Tingi",
+  "hasTelephoneURI" : [ "21565719", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali_Fax.html"
+  }, "21558822" ],
+  "locality" : "Ix-Xewkija",
+  "postal-code" : "XWK 2231",
+  "region" : "Gozo",
+  "street-address" : "2Malta"
+}

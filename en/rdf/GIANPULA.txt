@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/GIANPULA_Amenities.html">
+    <en:hasAmenity>Wedding Receptions</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Countryside Location</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/GIANPULA.html">
+    <schema:description>Gianpula is Malta's largest open air night club Complex situated in Rabat.  Established in 1980 and has 3 different clubs in one open air complex with restaurants, pools, vip huts just to name a few .  The club has brought over the biggest djs and has the best club nights on the island. Opens Fridays Saturdays during the Summer Season,  (June-September).  Check out www.gianpula.com for full listings.</schema:description>
+    <rdfs:label>GIANPULA is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasAddress>limits of Rabat, RBT 5032, Malta</vcard:hasAddress>
+    <vcard:hasWebsite>http://www.gianpula.com</vcard:hasWebsite>
+    <foaf:homepage>http://www.gianpula.com</foaf:homepage>
+    <en:openingHours>Saturday</en:openingHours>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/GIANPULA_Amenities.html"/>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/gianpula</foaf:primaryTopic>
+    <vcard:hasEmail>info@gianpula.com</vcard:hasEmail>
+    <vcard:hasTelephone>+356 99472133</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+    <schema:name>GIANPULA</schema:name>
+    <foaf:name>GIANPULA</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

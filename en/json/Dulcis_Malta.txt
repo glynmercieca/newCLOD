@@ -1,0 +1,28 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Dulcis_Malta.html",
+  "city" : [ "http://dbpedia.org/resource/Pieta", "http://sws.geonames.org/8299740/" ],
+  "name" : "Dulcis Malta",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Dulcis Malta is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Dulcis_Malta_Address.html",
+  "hasEmail" : "contact@dulcismalta.com",
+  "hasTelephone" : "+(356)99913287",
+  "based_near" : [ "http://dbpedia.org/resource/Pieta", "http://sws.geonames.org/8299740/" ],
+  "name_" : "Dulcis Malta",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g1792310-d4176825-Reviews-Dulcis_Malta-Pieta_Island_of_Malta.html"
+}

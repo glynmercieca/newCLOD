@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali_Is-Sur_Mario_Salerno.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/St._Paul&apos;s_Bay"/>
+    <foaf:based_near>http://www.geonames.org/8299751</foaf:based_near>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali.html"/>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali.html"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <j.0:abstract>Is-Sur Mario Salerno is a member of San Pawl il-Baħar Local Council</j.0:abstract>
+    <rdfs:label>Is-Sur Mario Salerno</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Mario</foaf:firstName>
+    <foaf:family_name>Salerno</foaf:family_name>
+    <foaf:title>Is-Sur</foaf:title>
+  </rdf:Description>
+</rdf:RDF>

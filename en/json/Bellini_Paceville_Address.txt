@@ -1,0 +1,11 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Bellini_Paceville_Address.html",
+  "label" : "This is the address resource for Bellini Paceville",
+  "country-name" : "Malta",
+  "street-address" : "https://it-it.facebook.com/pages/Bellini-Paceville/194187434006987"
+}

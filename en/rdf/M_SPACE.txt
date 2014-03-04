@@ -1,0 +1,32 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/M_SPACE.html">
+    <rdfs:label>M SPACE is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+356 21246619</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <en:openingHours>Saturday</en:openingHours>
+    <foaf:name>M SPACE</foaf:name>
+    <schema:description>M SPACE – a hub for the performing arts. This new culture venue includes state-of-the-art studios, rehearsal spaces and administrative facilities. It also incorporates a unique intimate theatre space – BLUE BOX.</schema:description>
+    <vcard:hasEmail>info@masquerademalta.com</vcard:hasEmail>
+    <vcard:hasAddress>Oscar Zammit Street, Msida Msida, MSD 1280, Malta</vcard:hasAddress>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/m-space</foaf:primaryTopic>
+    <vcard:hasWebsite>http://www.masquerademalta.com/</vcard:hasWebsite>
+    <foaf:homepage>http://www.masquerademalta.com/</foaf:homepage>
+    <schema:name>M SPACE</schema:name>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Amenities.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Amenities.html">
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>No Pets</en:hasAmenity>
+    <en:hasAmenity>Lifts/Elevators</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

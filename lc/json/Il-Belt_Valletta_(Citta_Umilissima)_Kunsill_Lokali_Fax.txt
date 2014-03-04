@@ -1,0 +1,13 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasValueURI" : "http://www.w3.org/2006/vcard/ns#hasValueURI"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Belt_Valletta_(Citta_Umilissima)_Kunsill_Lokali_Fax.html",
+  "abstract" : "This represents the fax of the Il-Belt Valletta (Città Umilissima) Kunsill Lokali.",
+  "type" : "http://www.w3.org/2006/vcard/ns#Fax",
+  "label" : "Il-Belt Valletta (Città Umilissima) fax",
+  "hasValueURI" : "+35621251397"
+}

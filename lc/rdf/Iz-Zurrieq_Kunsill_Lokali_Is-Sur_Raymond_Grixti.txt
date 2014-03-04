@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Iz-Zurrieq_Kunsill_Lokali_Is-Sur_Raymond_Grixti.html">
+    <rdfs:label>Is-Sur Raymond Grixti</rdfs:label>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Żurrieq"/>
+    <j.0:abstract>Is-Sur Raymond Grixti is a member of Iż-Żurrieq Local Council</j.0:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:family_name>Grixti</foaf:family_name>
+    <foaf:based_near>http://www.geonames.org/8299766</foaf:based_near>
+    <foaf:firstName>Raymond</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Iz-Zurrieq_Kunsill_Lokali.html"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+  </rdf:Description>
+</rdf:RDF>

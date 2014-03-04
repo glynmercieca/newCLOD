@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Kirkop_Kunsill_Lokali_Address.html">
+    <j.0:abstract>This Site Address is the address of the Ħal Kirkop Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Kirkop_Kunsill_Lokali_Fax.html"/>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>Ħal Kirkop site address</rdfs:label>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:extended-address>Ħal Kirkop Kunsill Lokali</vcard:extended-address>
+    <vcard:locality>Ħal Kirkop</vcard:locality>
+    <vcard:postal-code>KKP 1243</vcard:postal-code>
+    <vcard:hasTelephoneURI>21680099</vcard:hasTelephoneURI>
+    <vcard:street-address>31Triq San Benedittu</vcard:street-address>
+  </rdf:Description>
+</rdf:RDF>

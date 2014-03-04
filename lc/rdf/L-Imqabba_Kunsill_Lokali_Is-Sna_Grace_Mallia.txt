@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sna_Grace_Marie_Mallia.html">
+    <rdfs:label>Is-Sna Grace Marie Mallia</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Grace</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali.html"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:family_name>Mallia</foaf:family_name>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Mqabba"/>
+    <foaf:based_near>http://www.geonames.org/8299721</foaf:based_near>
+    <j.0:abstract>Is-Sna Grace Marie Mallia is a member of L-Imqabba Local Council</j.0:abstract>
+    <foaf:title>Is-Sna</foaf:title>
+  </rdf:Description>
+</rdf:RDF>

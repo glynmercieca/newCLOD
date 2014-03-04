@@ -1,0 +1,46 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "city" : {
+      "@id" : "http://dbpedia.org/ontology/city",
+      "@type" : "@id"
+    },
+    "type" : "http://dbpedia.org/ontology/type",
+    "type_" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "Post" : {
+      "@id" : "http://www.w3.org/ns/org#Post",
+      "@type" : "@id"
+    },
+    "hasMember" : {
+      "@id" : "http://www.w3.org/ns/org#hasMember",
+      "@type" : "@id"
+    },
+    "hasSite" : {
+      "@id" : "http://www.w3.org/ns/org#hasSite",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali.html",
+  "abstract" : "Il-Birgu (Città Vittoriosa) Kunsill Lokali is a local council in Malta.",
+  "city" : "http://dbpedia.org/resource/Birgu",
+  "http://dbpedia.org/ontology/city" : "8299702",
+  "type" : "http://dbpedia.org/ontology/Local_councils_of_Malta",
+  "type_" : "http://www.w3.org/ns/org#FormalOrganization",
+  "label" : "Il-Birgu (Città Vittoriosa) Kunsill Lokali",
+  "hasEmail" : "birgu.lc@gov.mt",
+  "hasWebsite" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=45",
+  "Post" : [ "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Executive_Secretary.html", "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html" ],
+  "hasMember" : [ "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sra_Isabella_Testaferrata_de_Noto.html", "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Lawrence_Attard.html", "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Anthony_Gellel.html", "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Alan_Cassar.html", "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Trevor_Mizzi.html", "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_John_Boxall.html" ],
+  "hasSite" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Site.html",
+  "based_near" : "http://www.geonames.org/8299702",
+  "homepage" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=45",
+  "name" : "Il-Birgu (Città Vittoriosa) Kunsill Lokali",
+  "primaryTopic" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=45"
+}

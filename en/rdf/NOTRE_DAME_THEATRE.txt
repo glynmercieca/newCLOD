@@ -1,0 +1,22 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/NOTRE_DAME_THEATRE.html">
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/notredametheatre</foaf:primaryTopic>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:homepage>http://www.mmg.com.mt</foaf:homepage>
+    <vcard:hasTelephone>+356 99261793</vcard:hasTelephone>
+    <schema:description>The Notre Dame Theatre is a community theatre in Zabbar which falls under the responsibility of the Zabbar Parish. It is located in Mediatrix Place, on the right hand side of the Zabbar Parish Church. The theatre was built in the 1950s and has a capacity of around 650. In the past it was also used as a cinema. Various plays, concerts and other soirees are staged throughout the year by local organisations, acting groups, the Zabbar Local Council and the Zabbar Parish Church.</schema:description>
+    <foaf:name>NOTRE DAME THEATRE</foaf:name>
+    <schema:name>NOTRE DAME THEATRE</schema:name>
+    <vcard:hasEmail>cizzim40@go.net.mt</vcard:hasEmail>
+    <vcard:hasWebsite>http://www.mmg.com.mt</vcard:hasWebsite>
+    <vcard:hasAddress>Ħaż-Żabbar, Malta</vcard:hasAddress>
+    <rdfs:label>NOTRE DAME THEATRE is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Is-Sra_Mary_Ann_Sultana.html">
+    <foaf:based_near>http://www.geonames.org/8299719</foaf:based_near>
+    <foaf:firstName>Mary</foaf:firstName>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Mdina"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sra</foaf:title>
+    <rdfs:label>Is-Sra Mary Ann Sultana</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:abstract>Is-Sra Mary Ann Sultana is a member of L-Imdina (Città Notabile) Local Council</j.0:abstract>
+    <foaf:family_name>Sultana</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

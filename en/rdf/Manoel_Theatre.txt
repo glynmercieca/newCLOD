@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE.html">
+    <foaf:homepage>http://www.teatrumanoel.com.mt</foaf:homepage>
+    <vcard:hasAddress>115 Old Theatre Street, Valletta, VLT 1426, Malta</vcard:hasAddress>
+    <schema:name>MANOEL THEATRE</schema:name>
+    <rdfs:label>MANOEL THEATRE is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasWebsite>http://www.teatrumanoel.com.mt</vcard:hasWebsite>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE_Amenities.html"/>
+    <schema:description>The Manoel Theatre, or Teatru Manoel as it is known in Maltese, is an architectural gem. Commissioned and personally funded by António Manoel de Vilhena, Grand Master of the Knights of Malta, the theatre was constructed in just ten months. As stated in the Latin motto inscribed above the main entrance - "ad honestam populi oblectationem" – the theatre was built to provide the general public with ‘honest’ entertainment` Opened on the 19th January 1732 with a performance of ‘Merope’, the Manoel has had a long and colourful history. Today it offers a full calendar, ranging from comedy to classics in both English and Maltese. The theatre runs guided tours of the auditorium, back stage and the theatre museum.</schema:description>
+    <en:openingHours>Sunday</en:openingHours>
+    <vcard:hasTelephone>+356 21222618</vcard:hasTelephone>
+    <foaf:name>MANOEL THEATRE</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/manoeltheatre</foaf:primaryTopic>
+    <vcard:hasEmail>bookings@teatrumanoel.com.mt</vcard:hasEmail>
+  </rdf:Description>
+</rdf:RDF>

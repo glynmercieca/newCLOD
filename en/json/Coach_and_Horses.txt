@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "aggregateRating" : "http://www.w3.org/2006/vcard/ns#aggregateRating",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Coach_and_Horses.html",
+  "city" : [ "http://sws.geonames.org/8299722/", "http://dbpedia.org/resource/Msida" ],
+  "name" : "Coach and Horses",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Coach and Horses is an entertainment venue in Malta.",
+  "aggregateRating" : "4.5",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Coach_and_Horses_Address.html",
+  "hasEmail" : "coachandhorsesmalta@gmail.com",
+  "hasTelephone" : "9984 8199",
+  "based_near" : [ "http://dbpedia.org/resource/Msida", "http://sws.geonames.org/8299722/" ],
+  "name_" : "Coach and Horses",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g1854775-d3742625-Reviews-Coach_and_Horses-Msida_Island_of_Malta.html"
+}

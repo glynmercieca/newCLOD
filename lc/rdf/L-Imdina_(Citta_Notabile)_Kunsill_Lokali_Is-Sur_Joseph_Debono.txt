@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Is-Sur_Joseph_Debono.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Mdina"/>
+    <j.0:abstract>Is-Sur Joseph Debono is a member of L-Imdina (Città Notabile) Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:family_name>Debono</foaf:family_name>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label>Is-Sur Joseph Debono</rdfs:label>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali.html"/>
+    <foaf:firstName>Joseph</foaf:firstName>
+    <foaf:based_near>http://www.geonames.org/8299719</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

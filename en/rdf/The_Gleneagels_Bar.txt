@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/The_Gleneagels_Bar.html">
+    <rdfs:label>The Gleneagels Bar is an entertainment venue in Malta.</rdfs:label>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <foaf:based_near>http://sws.geonames.org/8299720/</foaf:based_near>
+    <j.0:city>http://dbpedia.org/resource/Mgarr</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <j.0:city>http://sws.geonames.org/8299720/</j.0:city>
+    <vcard:hasTelephone>21556543</vcard:hasTelephone>
+    <foaf:name>The Gleneagels Bar</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/The_Gleneagels_Bar_Address.html"/>
+    <schema:name>The Gleneagels Bar</schema:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g230153-d4551417-Reviews-The_Gleneagels_Bar-Mgarr_Island_of_Gozo.html</foaf:primaryTopic>
+    <foaf:based_near>http://dbpedia.org/resource/Mgarr</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,17 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Valletta_Living_History_Address.html",
+  "label" : "This is the address resource for Valletta Living History",
+  "country-name" : "Malta",
+  "extended-address" : "St Lucy Street",
+  "locality" : "Valletta",
+  "postal-code" : "VLT 1185",
+  "street-address" : "The Embassy Complex"
+}

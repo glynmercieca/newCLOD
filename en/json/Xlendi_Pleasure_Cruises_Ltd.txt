@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Xlendi_Pleasure_Cruises_Ltd.html",
+  "city" : [ "http://sws.geonames.org/2562619/", "http://dbpedia.org/resource/Victoria,_Gozo" ],
+  "description" : "With our boat trips you will discover in comfort and style all the beautiful places around Gozo and Comino: Blue Lagoon, Crystal Lagoon, Comino Caves,... more » With our boat trips you will discover in comfort and style all the beautiful places around Gozo and Comino: Blue Lagoon, Crystal Lagoon, Comino Caves, Dwejra Lagoon (where is the Azure Window and the Fungus Rock), Ramla Bay, San Blas Bay, Mgarr Ix-xini and many others.",
+  "name" : "Xlendi Pleasure Cruises Ltd",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/BoatTours",
+  "label" : "Xlendi Pleasure Cruises Ltd is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Xlendi_Pleasure_Cruises_Ltd_Address.html",
+  "hasEmail" : "info@xlendicruises.com",
+  "hasTelephone" : "00356 99478119",
+  "based_near" : [ "http://sws.geonames.org/2562619/", "http://dbpedia.org/resource/Victoria,_Gozo" ],
+  "name_" : "Xlendi Pleasure Cruises Ltd",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190317-d2178356-Reviews-Xlendi_Pleasure_Cruises_Ltd-Victoria_Island_of_Gozo.html"
+}

@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Gharghur_Kunsill_Lokali_Address.html">
+    <vcard:hasTelephoneURI>27414111</vcard:hasTelephoneURI>
+    <rdfs:label>Ħal Għargħur site address</rdfs:label>
+    <vcard:street-address>Triq San Nikola</vcard:street-address>
+    <vcard:locality>Ħal Għargħur</vcard:locality>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:extended-address>Ħal Għargħur Kunsill Lokali</vcard:extended-address>
+    <vcard:postal-code>GHR 1162</vcard:postal-code>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Gharghur_Kunsill_Lokali_Fax.html"/>
+    <j.0:abstract>This Site Address is the address of the Ħal Għargħur Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI>21414111</vcard:hasTelephoneURI>
+  </rdf:Description>
+</rdf:RDF>

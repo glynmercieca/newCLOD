@@ -1,0 +1,34 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Safi_Kunsill_Lokali_Is-Sur_Johan_Mula.html",
+  "@type" : "Person",
+  "abstract" : "Is-Sur Johan Mula is a member of Ħal Safi Local Council",
+  "label" : "Is-Sur Johan Mula",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Safi_Kunsill_Lokali.html",
+  "based_near" : [ "http://www.geonames.org/8299746", {
+    "@id" : "http://dbpedia.org/resource/Safi,_Malta"
+  } ],
+  "family_name" : "Mula",
+  "firstName" : "Johan",
+  "title" : "Is-Sur"
+}

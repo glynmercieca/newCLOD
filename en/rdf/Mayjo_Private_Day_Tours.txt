@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Mayjo_Private_Day_Tours.html">
+    <schema:name>Mayjo Private Day Tours</schema:name>
+    <j.0:city>http://sws.geonames.org/2562619/</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <vcard:hasEmail>info@mayjocarhire.com</vcard:hasEmail>
+    <rdfs:label>Mayjo Private Day Tours is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>356 21 55 6678</vcard:hasTelephone>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Mayjo_Private_Day_Tours_Address.html"/>
+    <foaf:based_near>http://sws.geonames.org/2562619/</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190317-d2624771-Reviews-Mayjo_Private_Day_Tours-Victoria_Island_of_Gozo.html</foaf:primaryTopic>
+    <schema:description>We provide private day tours on the wonderful island of Gozo. This means the guests will not be with other unknown people on the taxi or minibus,... more » We provide private day tours on the wonderful island of Gozo. This means the guests will not be with other unknown people on the taxi or minibus, depending on the amount of people. Discover the best sights of Gozo at your own pace!</schema:description>
+    <foaf:name>Mayjo Private Day Tours</foaf:name>
+    <foaf:based_near>http://dbpedia.org/resource/Victoria,_Gozo</foaf:based_near>
+    <j.0:city>http://dbpedia.org/resource/Victoria,_Gozo</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

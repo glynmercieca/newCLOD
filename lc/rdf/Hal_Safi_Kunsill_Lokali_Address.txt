@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Safi_Kunsill_Lokali_Address.html">
+    <vcard:locality>Ħal Safi</vcard:locality>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Safi_Kunsill_Lokali_Fax.html"/>
+    <vcard:hasTelephoneURI>21641487</vcard:hasTelephoneURI>
+    <vcard:hasTelephoneURI>21689168</vcard:hasTelephoneURI>
+    <vcard:street-address>40Triq l-Iskola</vcard:street-address>
+    <j.0:abstract>This Site Address is the address of the Ħal Safi Kunsill Lokali Site.</j.0:abstract>
+    <rdfs:label>Ħal Safi site address</rdfs:label>
+    <vcard:extended-address>'Dar il-Kunsill'</vcard:extended-address>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:hasTelephoneURI>21640290</vcard:hasTelephoneURI>
+    <vcard:postal-code>SFI 1404</vcard:postal-code>
+  </rdf:Description>
+</rdf:RDF>

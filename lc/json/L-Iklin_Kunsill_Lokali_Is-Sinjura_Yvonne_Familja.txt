@@ -1,0 +1,39 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "role" : {
+      "@id" : "http://www.w3.org/ns/org#role",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sinjura_Yvonne_Bartolo_ Kunsilliera_Familja.html",
+  "@type" : "Person",
+  "abstract" : "Is-Sinjura Yvonne Bartolo  Kunsilliera Familja is a member of L-Iklin Local Council",
+  "label" : "Is-Sinjura Yvonne Bartolo  Kunsilliera Familja",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html",
+  "role" : [ "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Drittijiet_tan-Nisa_u_Agenziji_Pubblici..html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Edukazzjoni.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Kultura.html" ],
+  "based_near" : [ "http://www.geonames.org/8299718", {
+    "@id" : "http://dbpedia.org/resource/Iklin"
+  } ],
+  "family_name" : "Familja",
+  "firstName" : "Yvonne",
+  "title" : "Is-Sinjura"
+}

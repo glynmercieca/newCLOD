@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Ghaxaq_Kunsill_Lokali_Is-Sra_Rose_Agius.html">
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Għaxaq"/>
+    <foaf:family_name>Agius</foaf:family_name>
+    <rdfs:label>Is-Sra Rose Agius</rdfs:label>
+    <foaf:firstName>Rose</foaf:firstName>
+    <foaf:title>Is-Sra</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Ghaxaq_Kunsill_Lokali.html"/>
+    <foaf:based_near>http://www.geonames.org/8299714</foaf:based_near>
+    <j.0:abstract>Is-Sra Rose Agius is a member of Ħal Għaxaq Local Council</j.0:abstract>
+  </rdf:Description>
+</rdf:RDF>

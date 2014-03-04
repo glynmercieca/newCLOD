@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MEDITERRANEO_MARINE_PARK_Amenities.html">
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Outdoor Pool</en:hasAmenity>
+    <en:hasAmenity>Garden</en:hasAmenity>
+    <en:hasAmenity>Disabled Parking</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Coastal Location</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MEDITERRANEO_MARINE_PARK.html">
+    <vcard:hasEmail>mediterraneo@waldonet.net.mt</vcard:hasEmail>
+    <en:openingHours>Sunday</en:openingHours>
+    <schema:name>MEDITERRANEO MARINE PARK</schema:name>
+    <foaf:homepage>http://www.mediterraneo.com.mt</foaf:homepage>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/MEDITERRANEO_MARINE_PARK_Amenities.html"/>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/mediterraneomarinepark</foaf:primaryTopic>
+    <vcard:hasAddress>White Rocks, Baħar iċ-Ċagħaq, Malta</vcard:hasAddress>
+    <rdfs:label>MEDITERRANEO MARINE PARK is an entertainment venue in Malta.</rdfs:label>
+    <schema:description>Experience the magic of the sea and its enchanting creatures at close quarters as you interact with dolphins, sea lions and more at the Mediterraneo Marine Park at any time of the year. Ever dreamt of swimming with dolphins? Being kissed by sea lions? Or maybe holding parrots and petting snakes or iguanas? The Mediterraneo Marine Park makes dreams come true for holiday-makers and locals alike by introducing this concept of close interaction with the lovable residents at this complex. A hive of colourful activity, the place is run to a high standard of professionalism and offers an ideal day out for families and groups, with various entertainment options, a special area for the children and a well-equipped restaurant/cafeteria. Visitors can choose between viewing a number of Shows, an Interactive tour or even a once-in-a-lifetime swim with the resident dolphins.</schema:description>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <vcard:hasWebsite>http://www.mediterraneo.com.mt</vcard:hasWebsite>
+    <vcard:hasTelephone>+356 21372218</vcard:hasTelephone>
+    <foaf:name>MEDITERRANEO MARINE PARK</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

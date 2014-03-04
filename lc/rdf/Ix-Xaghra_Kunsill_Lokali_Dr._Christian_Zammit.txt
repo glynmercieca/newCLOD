@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xaghra_Kunsill_Lokali_Dr._Christian_Zammit.html">
+    <foaf:firstName>Christian</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:family_name>Zammit</foaf:family_name>
+    <foaf:based_near>http://www.geonames.org/8299759</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:title>Dr.</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Xagħra"/>
+    <rdfs:label>Dr. Christian Zammit</rdfs:label>
+    <j.0:abstract>Dr. Christian Zammit is a member of Ix-Xagħra Local Council</j.0:abstract>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xaghra_Kunsill_Lokali.html"/>
+  </rdf:Description>
+</rdf:RDF>

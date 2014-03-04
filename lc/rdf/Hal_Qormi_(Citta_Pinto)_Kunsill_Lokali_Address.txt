@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Address.html">
+    <vcard:extended-address>Ħal Qormi (Città Pinto) Kunsill Lokali</vcard:extended-address>
+    <vcard:hasTelephoneURI>21440101</vcard:hasTelephoneURI>
+    <rdfs:label>Ħal Qormi (Città Pinto) site address</rdfs:label>
+    <vcard:street-address>Triq il-Vitorja</vcard:street-address>
+    <j.0:abstract>This Site Address is the address of the Ħal Qormi (Città Pinto) Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI>21440107</vcard:hasTelephoneURI>
+    <vcard:postal-code>QRM2507</vcard:postal-code>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Fax.html"/>
+    <vcard:locality>Ħal Qormi (Città Pinto)</vcard:locality>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,23 @@
+{
+  "@context" : {
+    "hasTelephone" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+      "@type" : "@id"
+    },
+    "Fax" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#Fax",
+      "@type" : "@id"
+    },
+    "value" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#value",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/M_SPACE.html",
+    "hasTelephone" : "http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Fax.html"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Fax.html",
+    "@type" : "Fax",
+    "value" : "+356 21242224",
+    "label" : "This is the fax resource for M SPACE"
+  } ]
+}

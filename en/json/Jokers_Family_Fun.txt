@@ -1,0 +1,24 @@
+{
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Jokers_Family_Fun.html",
+  "name" : "Jokers Family Fun",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Jokers Family Fun is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Jokers_Family_Fun_Address.html",
+  "hasEmail" : "info@jokersfamilyfun.com",
+  "hasTelephone" : "00356-21-333653",
+  "name_" : "Jokers Family Fun",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190320-d1463756-Reviews-Jokers_Family_Fun-Island_of_Malta.html"
+}

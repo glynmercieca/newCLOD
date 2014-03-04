@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/BJ&apos;S_LIVE_MUSIC_CLUB_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/BJ&apos;S_LIVE_MUSIC_CLUB.html">
+    <vcard:hasAddress>Ball Street, Paceville, St. Julian’s, Malta</vcard:hasAddress>
+    <schema:name>BJ'S LIVE MUSIC CLUB</schema:name>
+    <vcard:hasEmail>Philipfenech@gmail.com</vcard:hasEmail>
+    <schema:description>BJ's is for all those who search beyond what any mainstream entertainment has to offer. Its for individuals who like to discover the unknown and the unpredictable. Music that provoke and stimulate the mind. Art for Art's sake. A place where Virtuosity, Sophisticated Artistic Creativity and Achievements are appreciated. Where Art and Technology meet. The Club is equipped with best brand names. Amps, Drums, Percussion and Piano/ Keyboards, and stage mixer are available. So just get your Guitar, Bass, or whatever plug in and play. Also a state of the art full PA system, At the edge of technology Lighting and Audio Video equipment for any LIVE performance situation, or any other similar events.. Come and enjoy a very warm friendly welcome atmosphere with different Genre of music each day of the week. So surely at least once a week, you gonna have a day you don't wanna miss. From soft Jazz, Acoustic, Bluegrass and Classical music on a Monday, Progressive Classic Rock on Tuesdays, Funk, Soul and Dancing on Wednesday, Jazz Night on Thurs, Blues to Rock for both Friday and Saturday. Open day Live on Sunday. Its The Haven for all Local and Foreign Musicians and Artists in the center of Paceville Malta. MAKE LIFE CREATIVE! Come and enjoy our music at the Cafe', Bar and Lounge.</schema:description>
+    <vcard:hasTelephone>+356 21337642</vcard:hasTelephone>
+    <rdfs:label>BJ'S LIVE MUSIC CLUB is an entertainment venue in Malta.</rdfs:label>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+    <vcard:hasWebsite>http://www.facebook.com/BJSLiveMu ...</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/bjsclub</foaf:primaryTopic>
+    <foaf:homepage>http://www.facebook.com/BJSLiveMu ...</foaf:homepage>
+    <en:openingHours>Sunday</en:openingHours>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/BJ&apos;S_LIVE_MUSIC_CLUB_Amenities.html"/>
+    <foaf:name>BJ'S LIVE MUSIC CLUB</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

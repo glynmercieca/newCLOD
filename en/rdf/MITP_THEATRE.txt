@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MITP_THEATRE_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MITP_THEATRE.html">
+    <schema:description>The MITP theatre is situated at the Old University Campus. Over the past 23 years the theatre has had multi-purpose usage of dance, theatre and music events. For many years the theatre was managed by Koperattiva Kulturali Universitarja (KKU) until the School of Performing Arts took over the management of the theatre in 2012. This shift in management provided for the combination of teaching space usage with internal and external rentals for the University for local community performances, specifically over the weekends. The MITP is currently the only ‘black box' venue of any size in the city of Valletta with a seating capacity of 130.</schema:description>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/mitptheatre</foaf:primaryTopic>
+    <vcard:hasWebsite>http://www.um.edu.mt/performingar ...</vcard:hasWebsite>
+    <rdfs:label>MITP THEATRE is an entertainment venue in Malta.</rdfs:label>
+    <foaf:homepage>http://www.um.edu.mt/performingar ...</foaf:homepage>
+    <foaf:name>MITP THEATRE</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <en:openingHours>Sunday</en:openingHours>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/MITP_THEATRE_Amenities.html"/>
+    <vcard:hasEmail>teresa.parry@um.edu.mt</vcard:hasEmail>
+    <vcard:hasAddress>St. Christopher Street, Valletta, Malta</vcard:hasAddress>
+    <vcard:hasTelephone>+356 23402048</vcard:hasTelephone>
+    <schema:name>MITP THEATRE</schema:name>
+  </rdf:Description>
+</rdf:RDF>

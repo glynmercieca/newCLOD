@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CITADEL_CINEMA_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CITADEL_CINEMA.html">
+    <vcard:hasTelephone>+356 21559955</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/citadel-cinema</foaf:primaryTopic>
+    <rdfs:label>CITADEL CINEMA is an entertainment venue in Malta.</rdfs:label>
+    <foaf:homepage>http://www.citadelcinema.com</foaf:homepage>
+    <schema:description>Cinema theatre in the heart of Victoria - Gozo.</schema:description>
+    <vcard:hasWebsite>http://www.citadelcinema.com</vcard:hasWebsite>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/CITADEL_CINEMA_Amenities.html"/>
+    <vcard:hasEmail>info@citadelcinema.com</vcard:hasEmail>
+    <schema:name>CITADEL CINEMA</schema:name>
+    <foaf:name>CITADEL CINEMA</foaf:name>
+    <vcard:hasAddress>Castle Hill Street, Victoria, VCT 103, Gozo</vcard:hasAddress>
+  </rdf:Description>
+</rdf:RDF>

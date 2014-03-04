@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Malta5D.html">
+    <foaf:based_near>http://sws.geonames.org/8334638/</foaf:based_near>
+    <foaf:based_near>http://dbpedia.org/resource/Valletta</foaf:based_near>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Malta5D_Address.html"/>
+    <en:recommendedVisitLength>Less than 1 hour</en:recommendedVisitLength>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190328-d3443225-Reviews-Malta5D-Valletta_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://sws.geonames.org/8334638/</j.0:city>
+    <vcard:hasTelephone>356 99682617</vcard:hasTelephone>
+    <schema:name>Malta5D</schema:name>
+    <rdfs:label>Malta5D is an entertainment venue in Malta.</rdfs:label>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <foaf:name>Malta5D</foaf:name>
+    <j.0:city>http://dbpedia.org/resource/Valletta</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

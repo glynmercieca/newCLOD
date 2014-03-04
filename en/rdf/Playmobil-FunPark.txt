@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Playmobil-FunPark.html">
+    <j.0:city>http://dbpedia.org/resource/Hal_Far</j.0:city>
+    <foaf:based_near>http://www.geonames.org/2567540/</foaf:based_near>
+    <vcard:hasTelephone>356-22242445</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/AmusementPark</rdf:type>
+    <foaf:based_near>http://dbpedia.org/resource/Hal_Far</foaf:based_near>
+    <vcard:hasEmail>funpark@playmobilmalta.com</vcard:hasEmail>
+    <foaf:name>Playmobil-FunPark</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Playmobil-FunPark_Address.html"/>
+    <schema:name>Playmobil-FunPark</schema:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g1438793-d627585-Reviews-Playmobil_FunPark-Hal_Far_Island_of_Malta.html</foaf:primaryTopic>
+    <rdfs:label>Playmobil-FunPark is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://www.geonames.org/2567540/</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

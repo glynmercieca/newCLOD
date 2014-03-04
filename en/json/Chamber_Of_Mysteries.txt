@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Chamber_Of_Mysteries.html",
+  "city" : [ "http://sws.geonames.org/8299742/", "http://dbpedia.org/resource/Qormi" ],
+  "description" : "The Chamber of Mysteries is Malta's exclusive Nightlife event for those seeking something unique and different! Enjoy a great night out in Malta... more » The Chamber of Mysteries is Malta's exclusive Nightlife event for those seeking something unique and different! Enjoy a great night out in Malta complete with a traditional Maltese cuisine (three courses), flowing wine and great entertainment combined of music, illusion, magic, mind reading and other amazing feats that defy explanation. The show, presented by top award winning magicians, is set in a secret chamber within an authentic 18th century building. An unforgettable night out whilst in Malta!",
+  "name" : "Chamber Of Mysteries",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/DinnerTheater",
+  "label" : "Chamber Of Mysteries is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Chamber_Of_Mysteries_Address.html",
+  "hasEmail" : "info@chamberofmysteries.com",
+  "hasTelephone" : "356-21470221",
+  "based_near" : [ "http://sws.geonames.org/8299742/", "http://dbpedia.org/resource/Qormi" ],
+  "name_" : "Chamber Of Mysteries",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g2137518-d2304934-Reviews-Chamber_Of_Mysteries-Qormi_Island_of_Malta.html"
+}

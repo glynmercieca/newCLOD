@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Palazzo_de_Piro.html",
+  "city" : [ "http://sws.geonames.org/8299719/", "http://dbpedia.org/resource/Mdina" ],
+  "description" : "Unique in its flexibility as a venue, Palazzo de Piro has been transformed into one of Malta’s premier hubs of culture and activity. The Palazzo... more » Unique in its flexibility as a venue, Palazzo de Piro has been transformed into one of Malta’s premier hubs of culture and activity. The Palazzo features a program of various collections held by the Metropolitan Cathedral Museum and is also host to a wide variety of artistic events (independant art exhibitions, concerts, theatre plays, seminars...) Palazzo de Piro also hosts the Xpresso Cafe which enjoys spectacular views over the Maltese countryside and provides visitors with nothing but the freshest, top class and healthy Maltese dishes and delicacies.",
+  "name" : "Palazzo de Piro",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+  "label" : "Palazzo de Piro is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Palazzo_de_Piro_Address.html",
+  "hasEmail" : "events@xarapalace.com.mt",
+  "hasTelephone" : "0035621450560",
+  "based_near" : [ "http://sws.geonames.org/8299719/", "http://dbpedia.org/resource/Mdina" ],
+  "name_" : "Palazzo de Piro",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190324-d2639595-Reviews-Palazzo_de_Piro-Mdina_Island_of_Malta.html"
+}

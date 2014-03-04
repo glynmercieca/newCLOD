@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Tal-Pieta_Kunsill_Lokali_Is-Sur_Anthony_Camilleri.html">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:firstName>Anthony</foaf:firstName>
+    <foaf:based_near>http://www.geonames.org/8299740</foaf:based_near>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Tal-Pieta_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sur Anthony Camilleri</rdfs:label>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Pietà,_Malta"/>
+    <foaf:family_name>Camilleri</foaf:family_name>
+    <j.0:abstract>Is-Sur Anthony Camilleri is a member of Tal-Pietà Local Council</j.0:abstract>
+  </rdf:Description>
+</rdf:RDF>

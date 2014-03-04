@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ARIA.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/ARIA_Amenities.html",
+    "name" : "ARIA",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/NightClub",
+    "label" : "ARIA is an entertainment venue in Malta.",
+    "hasAddress" : "Limits of Tal-Balal San Ġwann, Malta",
+    "hasEmail" : "info@visitmalta.com",
+    "name_" : "ARIA",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/aria"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ARIA_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Public Toilets", "Major Credit Cards Accepted", "Bar" ]
+  } ]
+}

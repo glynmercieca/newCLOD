@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA.html">
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA_Amenities.html"/>
+    <vcard:hasEmail>info@embassy.com.mt</vcard:hasEmail>
+    <foaf:name>EMBASSY CINEMA</foaf:name>
+    <rdfs:label>EMBASSY CINEMA is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+356 21227436</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:homepage>http://www.embassycomplex.com.mt</foaf:homepage>
+    <schema:description>Multi-theatre cinema complex in Valletta.</schema:description>
+    <vcard:hasAddress>Embassy Complex, St. Lucia Street, Valletta, Malta</vcard:hasAddress>
+    <vcard:hasWebsite>http://www.embassycomplex.com.mt</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/embassy-cinema</foaf:primaryTopic>
+    <schema:name>EMBASSY CINEMA</schema:name>
+    <en:openingHours>Sunday</en:openingHours>
+  </rdf:Description>
+</rdf:RDF>

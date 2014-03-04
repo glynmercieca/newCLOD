@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Is-Sinjorina_Rosianne_Cutajar.html">
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:based_near>http://www.geonames.org/8299742</foaf:based_near>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sinjorina Rosianne Cutajar</rdfs:label>
+    <foaf:title>Is-Sinjorina</foaf:title>
+    <j.0:abstract>Is-Sinjorina Rosianne Cutajar is a member of Ħal Qormi (Città Pinto) Local Council</j.0:abstract>
+    <foaf:family_name>Cutajar</foaf:family_name>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Qormi"/>
+    <foaf:firstName>Rosianne</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali.html"/>
+  </rdf:Description>
+</rdf:RDF>

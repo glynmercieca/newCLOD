@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Django_Jazz_Bar.html">
+    <vcard:hasTelephone>+(356)99907249</vcard:hasTelephone>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <j.0:city>http://sws.geonames.org/8334638/</j.0:city>
+    <schema:name>Django Jazz Bar</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190328-d4108020-Reviews-Django_Jazz_Bar-Valletta_Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:name>Django Jazz Bar</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Django_Jazz_Bar_Address.html"/>
+    <vcard:hasEmail>djangojazzbar@gmail.com</vcard:hasEmail>
+    <foaf:based_near>http://dbpedia.org/resource/Valletta</foaf:based_near>
+    <rdfs:label>Django Jazz Bar is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://dbpedia.org/resource/Valletta</j.0:city>
+    <foaf:based_near>http://sws.geonames.org/8334638/</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

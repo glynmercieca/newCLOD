@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/In_Guardia_Parade.html">
+    <schema:name>In Guardia Parade</schema:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g674784-d3911881-Reviews-In_Guardia_Parade-Birgu_Vittoriosa_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://dbpedia.org/resource/Birgu</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/In_Guardia_Parade_Address.html"/>
+    <rdfs:label>In Guardia Parade is an entertainment venue in Malta.</rdfs:label>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <vcard:hasTelephone>00356 22915440/1/2</vcard:hasTelephone>
+    <j.0:city>http://sws.geonames.org/8299702/</j.0:city>
+    <foaf:name>In Guardia Parade</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:based_near>http://sws.geonames.org/8299702/</foaf:based_near>
+    <foaf:based_near>http://dbpedia.org/resource/Birgu</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

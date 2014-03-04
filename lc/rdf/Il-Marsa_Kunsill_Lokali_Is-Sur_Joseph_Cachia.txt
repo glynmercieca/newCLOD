@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Marsa_Kunsill_Lokali_Is-Sur_Joseph_Cachia.html">
+    <foaf:based_near>http://www.geonames.org/8299730</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Marsa_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Marsa,_Malta"/>
+    <j.0:abstract>Is-Sur Joseph Cachia is a member of Il-Marsa Local Council</j.0:abstract>
+    <foaf:firstName>Joseph</foaf:firstName>
+    <foaf:family_name>Cachia</foaf:family_name>
+    <rdfs:label>Is-Sur Joseph Cachia</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

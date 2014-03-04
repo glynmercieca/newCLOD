@@ -1,0 +1,11 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://www.w3.org/2006/vcard/ns#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Mediterraneo_Bio_Park_Address.html">
+    <rdfs:label>This is the address resource for Mediterraneo Bio Park</rdfs:label>
+    <j.0:country-name>Malta</j.0:country-name>
+    <j.0:locality>Bahar ic-Caghaq</j.0:locality>
+    <j.0:street-address>Bahar ic-Caghaq</j.0:street-address>
+  </rdf:Description>
+</rdf:RDF>

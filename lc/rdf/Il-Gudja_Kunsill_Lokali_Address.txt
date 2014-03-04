@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Gudja_Kunsill_Lokali_Address.html">
+    <j.0:abstract>This Site Address is the address of the Il-Gudja Kunsill Lokali Site.</j.0:abstract>
+    <vcard:extended-address>Il-Gudja Kunsill Lokali</vcard:extended-address>
+    <vcard:street-address>88Triq Ray Caruana</vcard:street-address>
+    <vcard:postal-code>GDJ 1010</vcard:postal-code>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Gudja_Kunsill_Lokali_Fax.html"/>
+    <vcard:hasTelephoneURI>21672020</vcard:hasTelephoneURI>
+    <vcard:locality>Il-Gudja</vcard:locality>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>Il-Gudja site address</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

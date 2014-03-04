@@ -1,0 +1,28 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Twenty_Two.html",
+  "city" : [ "http://dbpedia.org/resource/St._Julian's", "http://sws.geonames.org/8299748/" ],
+  "name" : "Twenty Two",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/BarOrPub",
+  "label" : "Twenty Two is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Twenty_Two_Address.html",
+  "hasEmail" : "info@twentytwo.com.mt",
+  "hasTelephone" : "00356 2138 6802",
+  "based_near" : [ "http://sws.geonames.org/8299748/", "http://dbpedia.org/resource/St._Julian's" ],
+  "name_" : "Twenty Two",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g227101-d2420322-Reviews-Twenty_Two-Saint_Julian_s_Island_of_Malta.html"
+}

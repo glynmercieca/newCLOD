@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/H&apos;Attard_Kunsill_Lokali_Address.html">
+    <vcard:extended-address>Ħ'Attard Kunsill Lokali</vcard:extended-address>
+    <j.0:abstract>This Site Address is the address of the Ħ'Attard Kunsill Lokali Site.</j.0:abstract>
+    <vcard:postal-code>ATD 1021</vcard:postal-code>
+    <vcard:street-address>6Triq il-Kbira</vcard:street-address>
+    <vcard:locality>Ħ'Attard</vcard:locality>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/H&apos;Attard_Kunsill_Lokali_Fax.html"/>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:hasTelephoneURI>21411111</vcard:hasTelephoneURI>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>Ħ'Attard site address</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

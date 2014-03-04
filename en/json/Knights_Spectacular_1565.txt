@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Knights_Spectacular_1565.html",
+  "city" : [ "http://sws.geonames.org/8334638/", "http://dbpedia.org/resource/Valletta" ],
+  "description" : "Action packed and highly entertaining 3 course family dinner show based on the Great Siege of Malta. 50 performers and 8 trained horses, staged at... more » Action packed and highly entertaining 3 course family dinner show based on the Great Siege of Malta. 50 performers and 8 trained horses, staged at \"The Arena\" at Montekristo Estates. Not a historical re-enactment but a truly spectacular show where cannons boom and swords clash as knights in shining armour and sumptuous dressed oriental warriors confront each other. An unforgettable music score, beautifully choreographed classical and contemporary dance routines and equestrian displays.",
+  "name" : "Knights Spectacular 1565",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/DinnerTheater",
+  "label" : "Knights Spectacular 1565 is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Knights_Spectacular_1565_Address.html",
+  "hasEmail" : "info@mkleisure.com",
+  "hasTelephone" : "35699991565",
+  "based_near" : [ "http://sws.geonames.org/8334638/", "http://dbpedia.org/resource/Valletta" ],
+  "name_" : "Knights Spectacular 1565",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190328-d661922-Reviews-Knights_Spectacular_1565-Valletta_Island_of_Malta.html"
+}

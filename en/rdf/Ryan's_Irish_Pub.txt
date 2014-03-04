@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Ryan&apos;s_Irish_Pub.html">
+    <j.0:city>http://sws.geonames.org/8299748/</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <j.0:city>http://dbpedia.org/resource/St._Julian's</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/St._Julian's</foaf:based_near>
+    <vcard:hasEmail>ryans@ryans.com.mt</vcard:hasEmail>
+    <foaf:based_near>http://sws.geonames.org/8299748/</foaf:based_near>
+    <schema:name>Ryan's Irish Pub</schema:name>
+    <vcard:hasTelephone>356 21 350680</vcard:hasTelephone>
+    <foaf:name>Ryan's Irish Pub</foaf:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g227101-d523719-Reviews-Ryan_s_Irish_Pub-Saint_Julian_s_Island_of_Malta.html</foaf:primaryTopic>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Ryan&apos;s_Irish_Pub_Address.html"/>
+    <rdfs:label>Ryan's Irish Pub is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

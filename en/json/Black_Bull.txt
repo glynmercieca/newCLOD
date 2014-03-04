@@ -1,0 +1,20 @@
+{
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Black_Bull.html",
+  "name" : "Black Bull",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Black Bull is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Black_Bull_Address.html",
+  "name_" : "Black Bull",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190320-d4504048-Reviews-Black_Bull-Island_of_Malta.html"
+}

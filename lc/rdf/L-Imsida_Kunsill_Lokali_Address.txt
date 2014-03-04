@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Address.html">
+    <j.0:abstract>This Site Address is the address of the L-Imsida Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Fax.html"/>
+    <vcard:postal-code></vcard:postal-code>
+    <vcard:hasTelephoneURI>21334343</vcard:hasTelephoneURI>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:extended-address>L-Imsida Kunsill Lokali</vcard:extended-address>
+    <vcard:locality>L-Imsida</vcard:locality>
+    <vcard:street-address>Pjazza Menqa</vcard:street-address>
+    <rdfs:label>L-Imsida site address</rdfs:label>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

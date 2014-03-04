@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Malta_Nights_Extravaganza.html",
+  "city" : [ "http://dbpedia.org/resource/Siggiewi", "http://sws.geonames.org/8299754/" ],
+  "description" : "An unforgettable experience of a unique Maltese folklore show and dinner, giving eager audiences a glimpse of Malta through the ages, as this tiny but... more » An unforgettable experience of a unique Maltese folklore show and dinner, giving eager audiences a glimpse of Malta through the ages, as this tiny but significant Island of ours journeys from the prehistoric to present times… with special emphasis on one of the greatest chapters in Maltese history … the Knights of St. John and the Great Siege, when a small garrison of the famous Knights of St. John together with our heroic Maltese defenders managed to defeat the mighty Ottoman Empire. A talented cast of dancers and entertainers dressed in rich medieval costumes and shining armour together with our magnificent horses, will entertain, excite and amuse you during two hours of non-stop action, song and dance. Witness a colourful fusion of tribal music, folk dancing, carnival, fire dancers, knights on horseback, live battles and much more highlighting Maltese culture, traditions and folk.",
+  "name" : "Malta Nights Extravaganza",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+  "label" : "Malta Nights Extravaganza is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Malta_Nights_Extravaganza_Address.html",
+  "hasEmail" : "sales@mkleisure.com",
+  "hasTelephone" : "+356 2203 3000",
+  "based_near" : [ "http://sws.geonames.org/8299754/", "http://dbpedia.org/resource/Siggiewi" ],
+  "name_" : "Malta Nights Extravaganza",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g1929915-d2141135-Reviews-Malta_Nights_Extravaganza-Siggiewi_Island_of_Malta.html"
+}

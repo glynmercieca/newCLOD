@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "Multi-theatre cinema complex in Valletta.",
+    "name" : "EMBASSY CINEMA",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+    "label" : "EMBASSY CINEMA is an entertainment venue in Malta.",
+    "hasAddress" : "Embassy Complex, St. Lucia Street, Valletta, Malta",
+    "hasEmail" : "info@embassy.com.mt",
+    "hasTelephone" : "+356 21227436",
+    "hasWebsite" : "http://www.embassycomplex.com.mt",
+    "homepage" : "http://www.embassycomplex.com.mt",
+    "name_" : "EMBASSY CINEMA",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/embassy-cinema"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/EMBASSY_CINEMA_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Shops within 1 km", "Public Toilets", "Public Payphone", "No Smoking", "Major Credit Cards Accepted", "Bar" ]
+  } ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/The_Magro_Food_Village.html",
+  "city" : [ "http://sws.geonames.org/8299760/", "http://dbpedia.org/resource/Xewkija" ],
+  "description" : "The Magro Food Village offers a unique experience in Maltese food-making and crafts. This tour is a great learning experience and loads of fun with... more » The Magro Food Village offers a unique experience in Maltese food-making and crafts. This tour is a great learning experience and loads of fun with the possibility of free tastings of food just as it is made. Visits may include an artisan cheese making workshop, tomato processing factory (when in season) and other Maltese traditional delicacies in the making at the various Savina workshops.",
+  "name" : "The Magro Food Village",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "The Magro Food Village is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/The_Magro_Food_Village_Address.html",
+  "hasEmail" : "visits@magro.com.mt.",
+  "hasTelephone" : "+(356)21 556 663",
+  "based_near" : [ "http://dbpedia.org/resource/Xewkija", "http://sws.geonames.org/8299760/" ],
+  "name_" : "The Magro Food Village",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190319-d5482114-Reviews-The_Magro_Food_Village-Xewkija_Island_of_Gozo.html"
+}

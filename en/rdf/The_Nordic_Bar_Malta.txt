@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta.html">
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Address.html"/>
+    <en:recommendedVisitLength>More than 3 hours</en:recommendedVisitLength>
+    <j.0:city>http://dbpedia.org/resource/Paceville</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <schema:description>The Nordic Bar pride itself in running a classic "fun bar" where the focus is on creating an environment where people party hard, sing along, dance... more » The Nordic Bar pride itself in running a classic "fun bar" where the focus is on creating an environment where people party hard, sing along, dance and laugh and where the bartenders, DJs and managers participate in the party.Early in the evening the bar will screen all types of sporting events.Check out the Facebook page where the sports program and bar offers are updated daily.</schema:description>
+    <foaf:based_near>http://www.geonames.org/7302254/</foaf:based_near>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Amenities.html"/>
+    <foaf:name>The Nordic Bar Malta</foaf:name>
+    <j.0:city>http://www.geonames.org/7302254/</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Paceville</foaf:based_near>
+    <vcard:hasTelephone>+(356)27532314</vcard:hasTelephone>
+    <rdfs:label>The Nordic Bar Malta is an entertainment venue in Malta.</rdfs:label>
+    <schema:name>The Nordic Bar Malta</schema:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g776428-d5257016-Reviews-The_Nordic_Bar_Malta-Paceville_Island_of_Malta.html</foaf:primaryTopic>
+    <vcard:hasEmail>info@nordicbar.eu</vcard:hasEmail>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Amenities.html">
+    <en:hasAmenity>Bathroom facilities</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

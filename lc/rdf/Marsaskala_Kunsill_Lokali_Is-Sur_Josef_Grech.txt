@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Josef_Grech.html">
+    <foaf:firstName>Josef</foaf:firstName>
+    <foaf:based_near>http://www.geonames.org/8299731</foaf:based_near>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Marsaskala"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdfs:label>Is-Sur Josef Grech</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Executive_Secretary.html"/>
+    <foaf:family_name>Grech</foaf:family_name>
+    <j.0:abstract>Is-Sur Josef Grech is a member of Marsaskala Local Council</j.0:abstract>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali.html"/>
+  </rdf:Description>
+</rdf:RDF>

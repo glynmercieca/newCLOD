@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/La_Valletta.html">
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/La_Valletta_Address.html"/>
+    <schema:name>La Valletta</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190320-d4133616-Reviews-La_Valletta-Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:name>La Valletta</foaf:name>
+    <rdfs:label>La Valletta is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

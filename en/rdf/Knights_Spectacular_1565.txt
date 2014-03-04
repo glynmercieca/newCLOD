@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Knights_Spectacular_1565.html">
+    <schema:name>Knights Spectacular 1565</schema:name>
+    <foaf:based_near>http://sws.geonames.org/8334638/</foaf:based_near>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Knights_Spectacular_1565_Address.html"/>
+    <vcard:hasTelephone>35699991565</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/DinnerTheater</rdf:type>
+    <foaf:name>Knights Spectacular 1565</foaf:name>
+    <foaf:based_near>http://dbpedia.org/resource/Valletta</foaf:based_near>
+    <rdfs:label>Knights Spectacular 1565 is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://sws.geonames.org/8334638/</j.0:city>
+    <vcard:hasEmail>info@mkleisure.com</vcard:hasEmail>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190328-d661922-Reviews-Knights_Spectacular_1565-Valletta_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://dbpedia.org/resource/Valletta</j.0:city>
+    <schema:description>Action packed and highly entertaining 3 course family dinner show based on the Great Siege of Malta. 50 performers and 8 trained horses, staged at... more » Action packed and highly entertaining 3 course family dinner show based on the Great Siege of Malta. 50 performers and 8 trained horses, staged at "The Arena" at Montekristo Estates. Not a historical re-enactment but a truly spectacular show where cannons boom and swords clash as knights in shining armour and sumptuous dressed oriental warriors confront each other. An unforgettable music score, beautifully choreographed classical and contemporary dance routines and equestrian displays.</schema:description>
+  </rdf:Description>
+</rdf:RDF>

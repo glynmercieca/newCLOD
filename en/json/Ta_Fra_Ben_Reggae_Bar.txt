@@ -1,0 +1,24 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Ta_Fra_Ben_Reggae_Bar.html",
+  "city" : [ "http://www.geonames.org/2562641/", "http://dbpedia.org/resource/Qawra" ],
+  "name" : "Ta Fra Ben Reggae Bar",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/BarOrPub",
+  "label" : "Ta Fra Ben Reggae Bar is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Ta_Fra_Ben_Reggae_Bar_Address.html",
+  "based_near" : [ "http://dbpedia.org/resource/Qawra", "http://www.geonames.org/2562641/" ],
+  "name_" : "Ta Fra Ben Reggae Bar",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g608947-d2302639-Reviews-Ta_Fra_Ben_Reggae_Bar-Qawra_Island_of_Malta.html"
+}

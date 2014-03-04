@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Footloose_Fun_Bar.html">
+    <j.0:city>http://sws.geonames.org/8299748/</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Footloose_Fun_Bar_Address.html"/>
+    <foaf:based_near>http://dbpedia.org/resource/St._Julian's</foaf:based_near>
+    <foaf:name>Footloose Fun Bar</foaf:name>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <j.0:city>http://dbpedia.org/resource/St._Julian's</j.0:city>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g227101-d670227-Reviews-Footloose_Fun_Bar-Saint_Julian_s_Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:based_near>http://sws.geonames.org/8299748/</foaf:based_near>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+    <schema:name>Footloose Fun Bar</schema:name>
+    <rdfs:label>Footloose Fun Bar is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

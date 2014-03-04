@@ -1,0 +1,13 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://www.w3.org/2006/vcard/ns#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Valletta_Living_History_Address.html">
+    <rdfs:label>This is the address resource for Valletta Living History</rdfs:label>
+    <j.0:extended-address>St Lucy Street</j.0:extended-address>
+    <j.0:country-name>Malta</j.0:country-name>
+    <j.0:postal-code>VLT 1185</j.0:postal-code>
+    <j.0:locality>Valletta</j.0:locality>
+    <j.0:street-address>The Embassy Complex</j.0:street-address>
+  </rdf:Description>
+</rdf:RDF>

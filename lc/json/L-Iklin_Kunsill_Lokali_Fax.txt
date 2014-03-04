@@ -1,0 +1,13 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasValueURI" : "http://www.w3.org/2006/vcard/ns#hasValueURI"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Fax.html",
+  "abstract" : "This represents the fax of the L-Iklin Kunsill Lokali.",
+  "type" : "http://www.w3.org/2006/vcard/ns#Fax",
+  "label" : "L-Iklin fax",
+  "hasValueURI" : "+35621416441"
+}

@@ -1,0 +1,46 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "city" : {
+      "@id" : "http://dbpedia.org/ontology/city",
+      "@type" : "@id"
+    },
+    "type" : "http://dbpedia.org/ontology/type",
+    "type_" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "Post" : {
+      "@id" : "http://www.w3.org/ns/org#Post",
+      "@type" : "@id"
+    },
+    "hasMember" : {
+      "@id" : "http://www.w3.org/ns/org#hasMember",
+      "@type" : "@id"
+    },
+    "hasSite" : {
+      "@id" : "http://www.w3.org/ns/org#hasSite",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali.html",
+  "abstract" : "Floriana Kunsill Lokali is a local council in Malta.",
+  "city" : "http://dbpedia.org/resource/Floriana",
+  "http://dbpedia.org/ontology/city" : "8299708",
+  "type" : "http://dbpedia.org/ontology/Local_councils_of_Malta",
+  "type_" : "http://www.w3.org/ns/org#FormalOrganization",
+  "label" : "Floriana Kunsill Lokali",
+  "hasEmail" : "floriana.lc@gov.mt",
+  "hasWebsite" : "www.florianalocalcouncil.com",
+  "Post" : [ "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html", "http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html" ],
+  "hasMember" : [ "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Nigel_Holland.html", "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Matthew_Paris.html", "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Vincent_Borg.html", "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Edward_Torpiano.html", "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sinjorina_Davina_Sammut_Hili.html", "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Svetlick_Flores.html" ],
+  "hasSite" : "http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Site.html",
+  "based_near" : "http://www.geonames.org/8299708",
+  "homepage" : "www.florianalocalcouncil.com",
+  "name" : "Floriana Kunsill Lokali",
+  "primaryTopic" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=41"
+}

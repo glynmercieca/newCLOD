@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Arthur_Perici.html">
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <foaf:based_near>http://www.geonames.org/8299724</foaf:based_near>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:family_name>Perici</foaf:family_name>
+    <foaf:firstName>Arthur</foaf:firstName>
+    <j.0:abstract>Is-Sur Arthur Perici is a member of L-Isla (Città Invicta) Local Council</j.0:abstract>
+    <rdfs:label>Is-Sur Arthur Perici</rdfs:label>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Senglea"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,29 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MDINA_DUNGEONS.html">
+    <vcard:hasAddress>St. Publius Square, Mdina, Malta</vcard:hasAddress>
+    <vcard:hasEmail>info@dungeonsmalta.com</vcard:hasEmail>
+    <rdfs:label>MDINA DUNGEONS is an entertainment venue in Malta.</rdfs:label>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/VisitorAttractions</rdf:type>
+    <en:openingHours>Sunday</en:openingHours>
+    <schema:description>Located just inside the city’s main gate, the Mdina Dungeons house a series of life-size glass fibre tableaux representing characters, famous and infamous, from Malta’s history. The exhibits present vivid pictures of sufferance and cruelties experienced and the life-like figures in period costume are shown handling instruments, tools and utensils associated with that subterranean environment. The sound and light effects impart an impression of interaction with the figures on display. Some graphic scenes of torture are not for the squeamish and very young children.</schema:description>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/mdinadungeons</foaf:primaryTopic>
+    <vcard:hasTelephone>+356 21450267</vcard:hasTelephone>
+    <schema:name>MDINA DUNGEONS</schema:name>
+    <foaf:homepage>http://www.dungeonsmalta.com</foaf:homepage>
+    <vcard:hasWebsite>http://www.dungeonsmalta.com</vcard:hasWebsite>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/MDINA_DUNGEONS_Amenities.html"/>
+    <foaf:name>MDINA DUNGEONS</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MDINA_DUNGEONS_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

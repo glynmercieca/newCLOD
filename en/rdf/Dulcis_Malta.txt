@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Dulcis_Malta.html">
+    <schema:name>Dulcis Malta</schema:name>
+    <vcard:hasEmail>contact@dulcismalta.com</vcard:hasEmail>
+    <foaf:name>Dulcis Malta</foaf:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g1792310-d4176825-Reviews-Dulcis_Malta-Pieta_Island_of_Malta.html</foaf:primaryTopic>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Dulcis_Malta_Address.html"/>
+    <j.0:city>http://dbpedia.org/resource/Pieta</j.0:city>
+    <j.0:city>http://sws.geonames.org/8299740/</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Pieta</foaf:based_near>
+    <foaf:based_near>http://sws.geonames.org/8299740/</foaf:based_near>
+    <rdfs:label>Dulcis Malta is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+(356)99913287</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

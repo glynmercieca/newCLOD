@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Santa_Venera_Kunsill_Lokali_Is-Sur_Mangani_Jason_Ernest.html">
+    <rdfs:label>Is-Sur Mangani Jason Ernest</rdfs:label>
+    <j.0:abstract>Is-Sur Mangani Jason Ernest is a member of Santa Venera Local Council</j.0:abstract>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Santa_Venera"/>
+    <foaf:firstName>Mangani</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:based_near>http://www.geonames.org/8299752</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Santa_Venera_Kunsill_Lokali.html"/>
+    <foaf:family_name>Ernest</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

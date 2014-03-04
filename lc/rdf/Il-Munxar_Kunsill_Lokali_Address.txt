@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Munxar_Kunsill_Lokali_Address.html">
+    <vcard:hasTelephoneURI>21558755</vcard:hasTelephoneURI>
+    <rdfs:label>Il-Munxar site address</rdfs:label>
+    <vcard:street-address>Triq il-Profs. Ġuże' Aquilina</vcard:street-address>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Munxar_Kunsill_Lokali_Fax.html"/>
+    <vcard:postal-code>MXR1012</vcard:postal-code>
+    <vcard:locality>Il-Munxar</vcard:locality>
+    <vcard:extended-address>Il-Munxar Kunsill Lokali</vcard:extended-address>
+    <j.0:abstract>This Site Address is the address of the Il-Munxar Kunsill Lokali Site.</j.0:abstract>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

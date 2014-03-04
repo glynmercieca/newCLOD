@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/The_Bell_Pub.html">
+    <vcard:hasTelephone>356 21585110</vcard:hasTelephone>
+    <schema:name>The Bell Pub</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/BarOrPub</rdf:type>
+    <foaf:name>The Bell Pub</foaf:name>
+    <foaf:based_near>http://www.geonames.org/2562641/</foaf:based_near>
+    <rdfs:label>The Bell Pub is an entertainment venue in Malta.</rdfs:label>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g608947-d3982258-Reviews-The_Bell_Pub-Qawra_Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:based_near>http://dbpedia.org/resource/Qawra</foaf:based_near>
+    <j.0:city>http://dbpedia.org/resource/Qawra</j.0:city>
+    <schema:description>Traditional english pub plenty of outside space to lounge in the sun, also full air con in the bar area.</schema:description>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/The_Bell_Pub_Address.html"/>
+    <j.0:city>http://www.geonames.org/2562641/</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

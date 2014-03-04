@@ -1,0 +1,36 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali.html">
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=52</vcard:hasWebsite>
+    <vcard:hasEmail>tarxien.lc@gov.mt </vcard:hasEmail>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=52</foaf:primaryTopic>
+    <foaf:name>Ħal Tarxien Kunsill Lokali</foaf:name>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Site.html"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Lawrence_Bonavia.html"/>
+    <foaf:based_near>http://www.geonames.org/8299757</foaf:based_near>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Tarxien"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Ismael_Dalli.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Keith_Darmanin.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Paul_Pace.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sa_Maria_Doris_Vella.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Paul_Farrugia.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Joseph_Abela.html"/>
+    <dbpedia:city>8299757</dbpedia:city>
+    <rdfs:label>Ħal Tarxien Kunsill Lokali</rdfs:label>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=52</foaf:homepage>
+    <dbpedia:abstract>Ħal Tarxien Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Tarxien_Kunsill_Lokali_Is-Sur_Francis_Agius.html"/>
+  </rdf:Description>
+</rdf:RDF>

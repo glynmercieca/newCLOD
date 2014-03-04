@@ -1,0 +1,12 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Fax.html">
+    <vcard:hasValueURI>+35621450745</vcard:hasValueURI>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#Fax</rdf:type>
+    <rdfs:label>L-Imdina (Città Notabile) fax</rdfs:label>
+    <j.0:abstract>This represents the fax of the L-Imdina (Città Notabile) Kunsill Lokali.</j.0:abstract>
+  </rdf:Description>
+</rdf:RDF>

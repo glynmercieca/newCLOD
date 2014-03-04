@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/BJ&apos;s.html">
+    <schema:name>BJ's</schema:name>
+    <foaf:name>BJ's</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/BJ&apos;s_Address.html"/>
+    <j.0:city>http://sws.geonames.org/8299748/</j.0:city>
+    <j.0:city>http://dbpedia.org/resource/St._Julian's</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:based_near>http://dbpedia.org/resource/St._Julian's</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g227101-d555524-Reviews-BJ_s-Saint_Julian_s_Island_of_Malta.html</foaf:primaryTopic>
+    <vcard:hasTelephone>2133 7642</vcard:hasTelephone>
+    <foaf:based_near>http://sws.geonames.org/8299748/</foaf:based_near>
+    <rdfs:label>BJ's is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

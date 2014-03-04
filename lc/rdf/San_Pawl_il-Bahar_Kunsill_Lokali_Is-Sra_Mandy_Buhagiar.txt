@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali_Is-Sra_Mandy_Buhagiar.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/St._Paul&apos;s_Bay"/>
+    <foaf:family_name>Buhagiar</foaf:family_name>
+    <rdfs:label>Is-Sra Mandy Buhagiar</rdfs:label>
+    <foaf:firstName>Mandy</foaf:firstName>
+    <j.0:abstract>Is-Sra Mandy Buhagiar is a member of San Pawl il-Baħar Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:based_near>http://www.geonames.org/8299751</foaf:based_near>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:title>Is-Sra</foaf:title>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/H&apos;Attard_Kunsill_Lokali_Is-Sra_Marica_Mifsud.html">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <foaf:family_name>Mifsud</foaf:family_name>
+    <j.0:abstract>Is-Sra Marica Mifsud is a member of Ħ'Attard Local Council</j.0:abstract>
+    <foaf:firstName>Marica</foaf:firstName>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Attard"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/H&apos;Attard_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sra Marica Mifsud</rdfs:label>
+    <foaf:title>Is-Sra</foaf:title>
+    <foaf:based_near>http://www.geonames.org/8299700</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

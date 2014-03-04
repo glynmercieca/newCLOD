@@ -1,0 +1,43 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "recommendedVisitLength" : "http://newcsa3221.azurewebsites.net/en/html/recommendedVisitLength",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta.html",
+    "city" : [ "http://dbpedia.org/resource/Paceville", "http://www.geonames.org/7302254/" ],
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Amenities.html",
+    "recommendedVisitLength" : "More than 3 hours",
+    "description" : "The Nordic Bar pride itself in running a classic \"fun bar\" where the focus is on creating an environment where people party hard, sing along, dance... more » The Nordic Bar pride itself in running a classic \"fun bar\" where the focus is on creating an environment where people party hard, sing along, dance and laugh and where the bartenders, DJs and managers participate in the party.Early in the evening the bar will screen all types of sporting events.Check out the Facebook page where the sports program and bar offers are updated daily.",
+    "name" : "The Nordic Bar Malta",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+    "label" : "The Nordic Bar Malta is an entertainment venue in Malta.",
+    "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Address.html",
+    "hasEmail" : "info@nordicbar.eu",
+    "hasTelephone" : "+(356)27532314",
+    "based_near" : [ "http://www.geonames.org/7302254/", "http://dbpedia.org/resource/Paceville" ],
+    "name_" : "The Nordic Bar Malta",
+    "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g776428-d5257016-Reviews-The_Nordic_Bar_Malta-Paceville_Island_of_Malta.html"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/The_Nordic_Bar_Malta_Amenities.html",
+    "hasAmenity" : "Bathroom facilities"
+  } ]
+}

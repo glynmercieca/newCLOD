@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO_Amenities.html",
+    "openingHours" : "Saturday",
+    "description" : "Club Numero Uno is the island’s largest and most magical open air venue which has over the years established itself as a mecca for clubbing events attracting thousands of patrons and creating an endless amount of good times and unforgettable memories. Situated in the centre of Ta’ Qali’s craft village, the surrounding trees, the starry skies and the exquisite thai décor create the perfect setting for a clubbing experience like no other. And that is why Club Numero Uno has been rated in the top 100 clubs by Djmag for the last 4 years. Pete Tong, Deadmaus,Too Many DJs, Steve Iokii, Bob Sinclair,Carl Cox, Axwell ,Steve Angelo are just a few of the elite masters in dance music who have left their signatures @ Club Numero Uno. International promotions with the likes of Hed Kandi, Ministry of Sound and Creamfields have also made Uno their own. Summer 2012 will be no different……there is something hot happening every Saturday night courtesy of the newly established ONE SATURDAYS series, which is set to raise your clubbing experience to new heights.",
+    "name" : "CLUB NUMERO UNO",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/NightClub",
+    "label" : "CLUB NUMERO UNO is an entertainment venue in Malta.",
+    "hasAddress" : "Crafts Village, Ta' Qali Mosta, Malta",
+    "hasEmail" : "admin@clubnumerouno.com",
+    "hasTelephone" : "+356 21415241",
+    "hasWebsite" : "http://clubnumerouno.com/",
+    "homepage" : "http://clubnumerouno.com/",
+    "name_" : "CLUB NUMERO UNO",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/numerouno"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO_Amenities.html",
+    "hasAmenity" : [ "Parking", "Countryside Location", "Bar" ]
+  } ]
+}

@@ -1,0 +1,27 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "region" : "http://www.w3.org/2006/vcard/ns#region",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Ir-Rabat (Città Victoria) Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Ir-Rabat (Città Victoria) site address",
+  "country-name" : "Malta",
+  "extended-address" : "Banca Giuratale",
+  "hasTelephoneURI" : [ "21563344,21561653", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Fax.html"
+  } ],
+  "locality" : "Ir-Rabat (Città Victoria)",
+  "postal-code" : "VCT 1020",
+  "region" : "Gozo",
+  "street-address" : "Pjazza Indipendenza"
+}

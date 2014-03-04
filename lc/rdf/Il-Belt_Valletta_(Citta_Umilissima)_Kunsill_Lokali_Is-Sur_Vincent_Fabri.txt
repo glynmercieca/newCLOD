@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Belt_Valletta_(Citta_Umilissima)_Kunsill_Lokali_Is-Sur_Vincent_Fabri.html">
+    <foaf:firstName>Vincent</foaf:firstName>
+    <rdfs:label>Is-Sur Vincent Fabri</rdfs:label>
+    <foaf:family_name>Fabri</foaf:family_name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:abstract>Is-Sur Vincent Fabri is a member of Il-Belt Valletta (Città Umilissima) Local Council</j.0:abstract>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Belt_Valletta_(Citta_Umilissima)_Kunsill_Lokali.html"/>
+    <foaf:based_near>http://www.geonames.org/8334638</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Valletta"/>
+  </rdf:Description>
+</rdf:RDF>

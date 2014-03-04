@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Lawrence_Attard.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Birgu"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sur Lawrence Attard</rdfs:label>
+    <foaf:family_name>Attard</foaf:family_name>
+    <foaf:based_near>http://www.geonames.org/8299702</foaf:based_near>
+    <j.0:abstract>Is-Sur Lawrence Attard is a member of Il-Birgu (Città Vittoriosa) Local Council</j.0:abstract>
+    <foaf:firstName>Lawrence</foaf:firstName>
+  </rdf:Description>
+</rdf:RDF>

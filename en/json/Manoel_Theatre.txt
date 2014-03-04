@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "The Manoel Theatre, or Teatru Manoel as it is known in Maltese, is an architectural gem. Commissioned and personally funded by António Manoel de Vilhena, Grand Master of the Knights of Malta, the theatre was constructed in just ten months. As stated in the Latin motto inscribed above the main entrance - \"ad honestam populi oblectationem\" – the theatre was built to provide the general public with ‘honest’ entertainment` Opened on the 19th January 1732 with a performance of ‘Merope’, the Manoel has had a long and colourful history. Today it offers a full calendar, ranging from comedy to classics in both English and Maltese. The theatre runs guided tours of the auditorium, back stage and the theatre museum.",
+    "name" : "MANOEL THEATRE",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+    "label" : "MANOEL THEATRE is an entertainment venue in Malta.",
+    "hasAddress" : "115 Old Theatre Street, Valletta, VLT 1426, Malta",
+    "hasEmail" : "bookings@teatrumanoel.com.mt",
+    "hasTelephone" : "+356 21222618",
+    "hasWebsite" : "http://www.teatrumanoel.com.mt",
+    "homepage" : "http://www.teatrumanoel.com.mt",
+    "name_" : "MANOEL THEATRE",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/manoeltheatre"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MANOEL_THEATRE_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Shops within 1 km", "Restaurant", "Public Toilets", "No Smoking", "Major Credit Cards Accepted", "Cafe", "Bar" ]
+  } ]
+}

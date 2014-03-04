@@ -1,0 +1,38 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO_Amenities.html",
+    "description" : "Don Bosco Oratory in Saint Augustine Square was officially opened on the 8th October 1949. The cinema was inaugurated in May 1951 and showed movies uninterruptedly until 1986 when dwindling audiences meant that it was no longer feasible to run the cinema. In early nineties, Malta saw the opening of new cinemas equipped with the latest technology and comfort. These were instrumental in encouraging people back to the cinemas. The Don Bosco Oratory followed suit and on Sunday the 6th of February 1994 opened the cinema doors again with the movie 'Home Alone 2 - Lost In New York'. Today, movies at Oratory Don Bosco are shown every Sunday between October and May at 17.30. From time to time, movies are shown on different occasions, including special screenings for school children and other groups. The Oratorju Don Bosco is also well known for its theatrical productions and family shows.",
+    "name" : "ORATORJU DON BOSCO",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+    "label" : "ORATORJU DON BOSCO is an entertainment venue in Malta.",
+    "hasAddress" : "Pjazza Santu Wistin Victoria, Gozo",
+    "hasEmail" : "admin@donboscogozo.org",
+    "hasTelephone" : "+356 21556616",
+    "hasWebsite" : "http://www.donboscogozo.org",
+    "homepage" : "http://www.donboscogozo.org",
+    "name_" : "ORATORJU DON BOSCO",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/oratorjudonbosco"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Public Toilets", "Public Payphone", "Parking", "Disabled Facilities", "Children Welcome", "Cafe", "Bar" ]
+  } ]
+}

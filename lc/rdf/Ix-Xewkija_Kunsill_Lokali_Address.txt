@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali_Address.html">
+    <vcard:region>Gozo</vcard:region>
+    <vcard:hasTelephoneURI>21565719</vcard:hasTelephoneURI>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <j.0:abstract>This Site Address is the address of the Ix-Xewkija Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali_Fax.html"/>
+    <vcard:street-address>2Malta</vcard:street-address>
+    <vcard:hasTelephoneURI>21558822</vcard:hasTelephoneURI>
+    <vcard:locality>Ix-Xewkija</vcard:locality>
+    <vcard:extended-address>Triq it-Torri Tingi</vcard:extended-address>
+    <rdfs:label>Ix-Xewkija site address</rdfs:label>
+    <vcard:postal-code>XWK 2231</vcard:postal-code>
+    <vcard:country-name>Malta</vcard:country-name>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,74 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/PerformingArtsTheater.html">
+    <rdfs:label>Theatre &amp; Opera</rdfs:label>
+    <rdfs:label>Performances</rdfs:label>
+    <rdfs:label>Theaters</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/VisitorAttractions.html">
+    <rdfs:label>Visitor Attractions</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/ArtGallery.html">
+    <rdfs:label>Art Galleries</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/NightClub.html">
+    <rdfs:label>Clubbing</rdfs:label>
+    <rdfs:label>Dance Club/ Discos</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/BarOrPub.html">
+    <rdfs:label>Bar/ Clubs</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/Tours.html">
+    <rdfs:label>Tours</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/EntertainmentBusiness.html">
+    <rdfs:label>Activity &amp; Fun</rdfs:label>
+    <rdfs:label>Cinemas</rdfs:label>
+    <rdfs:label>Other</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/BowlingAlley.html">
+    <rdfs:label>Bowling Alleys</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/DinnerTheater.html">
+    <rdfs:label>Dinner Theaters</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/fee">
+    <rdfs:domain>http://schema.org/EntertainmentBusiness</rdfs:domain>
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/WaterPark.html">
+    <rdfs:label>Water Parks</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/hasAmenities">
+    <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    <rdfs:domain>http://schema.org/EntertainmentBusiness</rdfs:domain>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/BusTours.html">
+    <rdfs:label>Bus tours</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/BoatTours.html">
+    <rdfs:label>Boat Tours</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/Casino.html">
+    <rdfs:label>Casinos</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://csa3221.azurewebsites.net/en/html/AmusementPark.html">
+    <rdfs:label>Amusement/ Theme Parks</rdfs:label>
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+  </rdf:Description>
+</rdf:RDF>

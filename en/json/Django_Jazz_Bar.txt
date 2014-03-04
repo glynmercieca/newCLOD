@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "aggregateRating" : "http://www.w3.org/2006/vcard/ns#aggregateRating",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Django_Jazz_Bar.html",
+  "city" : [ "http://sws.geonames.org/8334638/", "http://dbpedia.org/resource/Valletta" ],
+  "name" : "Django Jazz Bar",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Django Jazz Bar is an entertainment venue in Malta.",
+  "aggregateRating" : "4.5",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Django_Jazz_Bar_Address.html",
+  "hasEmail" : "djangojazzbar@gmail.com",
+  "hasTelephone" : "+(356)99907249",
+  "based_near" : [ "http://dbpedia.org/resource/Valletta", "http://sws.geonames.org/8334638/" ],
+  "name_" : "Django Jazz Bar",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190328-d4108020-Reviews-Django_Jazz_Bar-Valletta_Island_of_Malta.html"
+}

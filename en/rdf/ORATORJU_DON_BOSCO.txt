@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO.html">
+    <vcard:hasEmail>admin@donboscogozo.org</vcard:hasEmail>
+    <schema:name>ORATORJU DON BOSCO</schema:name>
+    <rdfs:label>ORATORJU DON BOSCO is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+356 21556616</vcard:hasTelephone>
+    <vcard:hasAddress>Pjazza Santu Wistin Victoria, Gozo</vcard:hasAddress>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO_Amenities.html"/>
+    <schema:description>Don Bosco Oratory in Saint Augustine Square was officially opened on the 8th October 1949. The cinema was inaugurated in May 1951 and showed movies uninterruptedly until 1986 when dwindling audiences meant that it was no longer feasible to run the cinema. In early nineties, Malta saw the opening of new cinemas equipped with the latest technology and comfort. These were instrumental in encouraging people back to the cinemas. The Don Bosco Oratory followed suit and on Sunday the 6th of February 1994 opened the cinema doors again with the movie 'Home Alone 2 - Lost In New York'. Today, movies at Oratory Don Bosco are shown every Sunday between October and May at 17.30. From time to time, movies are shown on different occasions, including special screenings for school children and other groups. The Oratorju Don Bosco is also well known for its theatrical productions and family shows.</schema:description>
+    <vcard:hasWebsite>http://www.donboscogozo.org</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/oratorjudonbosco</foaf:primaryTopic>
+    <foaf:homepage>http://www.donboscogozo.org</foaf:homepage>
+    <foaf:name>ORATORJU DON BOSCO</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ORATORJU_DON_BOSCO_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

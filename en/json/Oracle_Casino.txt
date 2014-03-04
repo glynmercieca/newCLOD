@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ORACLE_CASINO.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/ORACLE_CASINO_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "The Oracle Casino is in Qawra - St. Paul's Bay and is open Sun - Thurs 10.00 a.m. to 4.00 a.m and Friday, Saturday until 6.00 a.m. Live gaming tables open daily from 1.00 p.m. The casino hosts 150 slot machines and 11 live gaming tables. The property is located within the Dolmen Resort Hotel.",
+    "name" : "ORACLE CASINO",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/Casino",
+    "label" : "ORACLE CASINO is an entertainment venue in Malta.",
+    "hasAddress" : "Qawra Seafront, St. Paul’s Bay, SPB 05, Malta",
+    "hasEmail" : "win@oraclecasino.com",
+    "hasTelephone" : "+356 21570057",
+    "hasWebsite" : "http://www.oraclecasino.com",
+    "homepage" : "http://www.oraclecasino.com",
+    "name_" : "ORACLE CASINO",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/oraclecasino"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ORACLE_CASINO_Amenities.html",
+    "hasAmenity" : [ "Restaurant", "Public Toilets", "Public Payphone", "Parking", "Major Credit Cards Accepted", "Disabled Parking", "Disabled Facilities", "Coastal Location", "Bar" ]
+  } ]
+}

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zebbug_(Citta_Rohan)_Kunsill_Lokali_Is-Sur_Roderick_Aquilina.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Żebbuġ,_Malta"/>
+    <foaf:family_name>Aquilina</foaf:family_name>
+    <rdfs:label>Is-Sur Roderick Aquilina</rdfs:label>
+    <foaf:based_near>http://www.geonames.org/8299763</foaf:based_near>
+    <j.0:abstract>Is-Sur Roderick Aquilina is a member of Ħaż-Żebbuġ (Città Rohan) Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:firstName>Roderick</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zebbug_(Citta_Rohan)_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

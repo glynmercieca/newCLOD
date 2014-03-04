@@ -1,0 +1,29 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO.html">
+    <vcard:hasEmail>admin@clubnumerouno.com</vcard:hasEmail>
+    <vcard:hasTelephone>+356 21415241</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+    <vcard:hasWebsite>http://clubnumerouno.com/</vcard:hasWebsite>
+    <schema:description>Club Numero Uno is the island’s largest and most magical open air venue which has over the years established itself as a mecca for clubbing events attracting thousands of patrons and creating an endless amount of good times and unforgettable memories. Situated in the centre of Ta’ Qali’s craft village, the surrounding trees, the starry skies and the exquisite thai décor create the perfect setting for a clubbing experience like no other. And that is why Club Numero Uno has been rated in the top 100 clubs by Djmag for the last 4 years. Pete Tong, Deadmaus,Too Many DJs, Steve Iokii, Bob Sinclair,Carl Cox, Axwell ,Steve Angelo are just a few of the elite masters in dance music who have left their signatures @ Club Numero Uno. International promotions with the likes of Hed Kandi, Ministry of Sound and Creamfields have also made Uno their own. Summer 2012 will be no different……there is something hot happening every Saturday night courtesy of the newly established ONE SATURDAYS series, which is set to raise your clubbing experience to new heights.</schema:description>
+    <vcard:hasAddress>Crafts Village, Ta' Qali Mosta, Malta</vcard:hasAddress>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO_Amenities.html"/>
+    <en:openingHours>Saturday</en:openingHours>
+    <schema:name>CLUB NUMERO UNO</schema:name>
+    <foaf:name>CLUB NUMERO UNO</foaf:name>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/numerouno</foaf:primaryTopic>
+    <rdfs:label>CLUB NUMERO UNO is an entertainment venue in Malta.</rdfs:label>
+    <foaf:homepage>http://clubnumerouno.com/</foaf:homepage>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CLUB_NUMERO_UNO_Amenities.html">
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Countryside Location</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

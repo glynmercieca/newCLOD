@@ -1,0 +1,22 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/VOICE_OF_A_GENERATION_(V-GEN)_ROCK_CLUB.html">
+    <foaf:name>VOICE OF A GENERATION (V-GEN) ROCK CLUB</foaf:name>
+    <rdfs:label>VOICE OF A GENERATION (V-GEN) ROCK CLUB is an entertainment venue in Malta.</rdfs:label>
+    <schema:description>Voice of a Generation opened it’s doors in the beginning of May 2011, as a new and much needed rock club dedicated to the local live music scene. V-Gen is not only set to be the right place for anyone just wanting to listen to rock music – all types of rock – but also the place where bands from all musical backgrounds can perform live. The club’s premises are in fact graced with a permanent stage, equipped with nothing less than the right setup for great, loud live performances. V-Gen is located in Ball Street, Paceville, in the place previously known as Ministry of Time. For gig and party bookings and updates, please send an email to v-gen@reciprocalrecords.com or contact us directly through Facebook.  </schema:description>
+    <foaf:homepage>http://www.vgenmalta.com</foaf:homepage>
+    <vcard:hasEmail>v-gen@reciprocalrecords.com</vcard:hasEmail>
+    <vcard:hasTelephone>+356 27333398</vcard:hasTelephone>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/v-genrockclub</foaf:primaryTopic>
+    <schema:name>VOICE OF A GENERATION (V-GEN) ROCK CLUB</schema:name>
+    <vcard:hasAddress>Ball Street Paceville, STJ3125, Malta</vcard:hasAddress>
+    <vcard:hasWebsite>http://www.vgenmalta.com</vcard:hasWebsite>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

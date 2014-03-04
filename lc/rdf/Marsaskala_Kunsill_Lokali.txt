@@ -1,0 +1,38 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali.html">
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_John_Baptist_Camilleri.html"/>
+    <rdfs:label>Marsaskala Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sa_Elizabeth_Cassar.html"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <foaf:based_near>http://www.geonames.org/8299731</foaf:based_near>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Charlot_Cassar.html"/>
+    <dbpedia:city>8299731</dbpedia:city>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Daniel_Spiteri.html"/>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Site.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=47</foaf:homepage>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Carmelo_Mifsud.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Marsaskala"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur _Lawrence_Ciantar.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Executive_Secretary.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <foaf:name>Marsaskala Kunsill Lokali</foaf:name>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=47</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=47</foaf:primaryTopic>
+    <vcard:hasEmail>marsaskala.lc@gov.mt</vcard:hasEmail>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sa_Desiree&apos;_Attard.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <dbpedia:abstract>Marsaskala Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Mario_Calleja                       .html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Josef_Grech.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaskala_Kunsill_Lokali_Is-Sur_Sandro_Gatt.html"/>
+  </rdf:Description>
+</rdf:RDF>

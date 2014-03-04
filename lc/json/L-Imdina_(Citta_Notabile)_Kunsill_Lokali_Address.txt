@@ -1,0 +1,25 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the L-Imdina (Città Notabile) Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "L-Imdina (Città Notabile) site address",
+  "country-name" : "Malta",
+  "extended-address" : "Corte Capitanale",
+  "hasTelephoneURI" : [ "21451226", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Fax.html"
+  }, "21450707" ],
+  "locality" : "L-Imdina (Città Notabile)",
+  "postal-code" : "MDN 1050",
+  "street-address" : "Misraħ il-Kunsill"
+}

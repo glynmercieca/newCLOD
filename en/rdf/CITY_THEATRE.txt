@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CITY_THEATRE.html">
+    <foaf:name>CITY THEATRE</foaf:name>
+    <foaf:homepage>http://corporate.zoo.com.mt/en/we ...</foaf:homepage>
+    <vcard:hasAddress>7, City Theatre, Old Bakery Street, Valletta, Malta</vcard:hasAddress>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/CITY_THEATRE_Amenities.html"/>
+    <schema:description>The City Valletta theatre‘s unique design and accessibility makes it perfect for theatrical performances, seminars, corporate events, musical presentations, Concerts, Award Ceremonies, Fashion shows, exhibitions and more. The City Theatre is a state-of-the-art theatre redesigned to offer more commodities for producers, organisers and the audience alike. The City Theatre has a seating capacity of: 650 approx. Theatre style, 250pax classroom style, 100pax u-shape or boardroom style, 250pax banquet and 500pax cocktail. It also consists of a balcony for easy view.</schema:description>
+    <vcard:hasEmail>info@zoo.com.mt</vcard:hasEmail>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/citytheatre</foaf:primaryTopic>
+    <vcard:hasTelephone>+356 21808080</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <rdfs:label>CITY THEATRE is an entertainment venue in Malta.</rdfs:label>
+    <schema:name>CITY THEATRE</schema:name>
+    <vcard:hasWebsite>http://corporate.zoo.com.mt/en/we ...</vcard:hasWebsite>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/CITY_THEATRE_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

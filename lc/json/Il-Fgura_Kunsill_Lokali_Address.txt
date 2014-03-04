@@ -1,0 +1,25 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Fgura_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Il-Fgura Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Il-Fgura site address",
+  "country-name" : "Malta",
+  "extended-address" : "Il-Fgura Kunsill Lokali",
+  "hasTelephoneURI" : [ "21667649", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Fgura_Kunsill_Lokali_Fax.html"
+  }, "21805907", "21664000" ],
+  "locality" : "Il-Fgura",
+  "postal-code" : "FGR2104",
+  "street-address" : "68'Dar il-Kunsill' Triq il-Karmnu"
+}

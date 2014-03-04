@@ -1,0 +1,38 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/SAGRESTIA_VAULT.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/SAGRESTIA_VAULT_Amenities.html",
+    "description" : "Set in the heart of the Valletta Waterfront, Sagrestia Vault is a vaulted hall which has been beautifully renovated and transformed into a concert hall. It was formerly a humble warehouse, found in a derelict state and full of rubble. It has a door leading to the road and this is used as a back door now. The entrance to the hall is unique as it can be reached through the small chapel of the Waterfront, a tiny but magnificent exemplary of Baroque architecture. Sagrestia Vault is mostly used for recitals and chamber music concerts. However it has also brought to stage chamber choirs and string orchestras. Lately it is also collaborating with the University of Malta to host concerts by emerging student musicians. It has also collaborated with the Johann Strauss School of Music to give a platform to its students too. It can also be used for exhibitions, seminars and conferences.",
+    "name" : "SAGRESTIA VAULT",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+    "label" : "SAGRESTIA VAULT is an entertainment venue in Malta.",
+    "hasAddress" : "45/46 Pinto Wharf Floriana, FRN 1913, Malta",
+    "hasEmail" : "info@vallettacruiseport.com",
+    "hasTelephone" : "+356 21252640",
+    "hasWebsite" : "http://www.vallettacruiseport.com",
+    "homepage" : "http://www.vallettacruiseport.com",
+    "name_" : "SAGRESTIA VAULT",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/sagrestia-vault"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/SAGRESTIA_VAULT_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Shops within 1 km", "Public Toilets", "Parking" ]
+  } ]
+}

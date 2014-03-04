@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Anthony_Dalli.html">
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Amministrazzjoni.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Sindku_Finanzi.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Ordni_Pubblika.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Traffiku_u_Dipartimenti_tal-Gvern..html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Unjoni_Ewropeja.html"/>
+    <foaf:firstName>Anthony</foaf:firstName>
+    <j.0:abstract>Is-Sur Anthony Dalli is a member of L-Iklin Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near>http://www.geonames.org/8299718</foaf:based_near>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Informazzjoni.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Progetti_Kapitali.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Infrastruttura.html"/>
+    <foaf:family_name>Dalli</foaf:family_name>
+    <rdfs:label>Is-Sur Anthony Dalli</rdfs:label>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_  Gemellagg.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_ Ghaqdiet_Lokali.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Iklin"/>
+  </rdf:Description>
+</rdf:RDF>

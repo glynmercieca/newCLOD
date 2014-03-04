@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MARRAKECH.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/MARRAKECH_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "Marrakech  ticks all the boxes when it comes to classifying a sophisticated open-air nightclub: besides being immersed in an idyllic luxury garden and surroundings, Marrakech is blessed by a cool summer breeze (even in the peak of August). All in all Marrakech is a true VIP destination offering supreme tunes by carefully selected DJ, luxury VIP tables and champagne huts, flawless service and an exclusive crowd (both local and visiting) . All key elements which we believe will enhance your WEEKENDS in order to let your hair down and have that great clubbing experience until the early summer hours. Open every Saturday and Sunday June -September.  ",
+    "name" : "MARRAKECH",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/NightClub",
+    "label" : "MARRAKECH is an entertainment venue in Malta.",
+    "hasAddress" : "limits of Rabat, RBT 5032, Malta",
+    "hasEmail" : "info@gianpula.com",
+    "hasTelephone" : "+356 99472133",
+    "hasWebsite" : "http://www.gianpula.com",
+    "homepage" : "http://www.gianpula.com",
+    "name_" : "MARRAKECH",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/marrakech"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MARRAKECH_Amenities.html",
+    "hasAmenity" : [ "Parking", "Bar" ]
+  } ]
+}

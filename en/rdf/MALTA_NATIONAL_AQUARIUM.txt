@@ -1,0 +1,37 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM_Amenities.html">
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Disabled Parking</en:hasAmenity>
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+    <en:hasAmenity>Seaside Location</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM.html">
+    <vcard:hasAddress>Triq it-Trunciera, Qawra, St. Paul’s Bay, SPB 1500, Malta</vcard:hasAddress>
+    <schema:description>The Malta National Aquarium project is spread over approximately 20,000 square meters and comprises a public aquarium, a public landscaped belvedere at promenade level, a multi storey car park, facilities for local dive schools, catering facilities including a beach club, a merchandise outlet and a tourist information kiosk. The public aquarium has 26 display tanks with, amongst others, Mediterranean fish, including fish commonly found in Maltese waters together with replicas of historical artefacts that one can find in the seas around the Maltese islands. The main tank of the aquarium houses species from the Indian Ocean, including eight black tip sharks, horn sharks, rays, eels and other exotic species. The main tank is approximately 12 meters in diameter and has a walk-through tunnel that allows visitors to experience the fish at a much closer range. All tanks are expertly themed to replicate the underwater environment. Additional features of the public aquarium include a class room facility, interpretation, touch pools, a temporary exhibition space, veterinary and quarantine facilities, etc. The national aquarium is in an iconic curved shell structure in the form of a starfish. The adjacent promenade provides additional recreation facilities for pedestrians including a children's play area. The Malta National Aquarium has a car park with a capacity for 140 cars.</schema:description>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM_Amenities.html"/>
+    <en:openingHours>Sunday</en:openingHours>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/VisitorAttractions</rdf:type>
+    <rdfs:label>MALTA NATIONAL AQUARIUM is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+356 22588100</vcard:hasTelephone>
+    <foaf:name>MALTA NATIONAL AQUARIUM</foaf:name>
+    <schema:name>MALTA NATIONAL AQUARIUM</schema:name>
+    <foaf:homepage>http://www.aquarium.com.mt</foaf:homepage>
+    <vcard:hasWebsite>http://www.aquarium.com.mt</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/national-aquarium</foaf:primaryTopic>
+    <vcard:hasEmail>info@aquarium.com.mt</vcard:hasEmail>
+  </rdf:Description>
+</rdf:RDF>

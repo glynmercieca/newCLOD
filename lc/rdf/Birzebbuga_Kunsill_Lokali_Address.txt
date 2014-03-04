@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Birzebbuga_Kunsill_Lokali_Address.html">
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birzebbuga_Kunsill_Lokali_Fax.html"/>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:street-address>Triq Santa Marija</vcard:street-address>
+    <j.0:abstract>This Site Address is the address of the Birżebbuġa Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI>21657503</vcard:hasTelephoneURI>
+    <vcard:extended-address>‘Dar ’</vcard:extended-address>
+    <vcard:locality>Birżebbuġa</vcard:locality>
+    <vcard:postal-code>BBG 1651</vcard:postal-code>
+    <vcard:hasTelephoneURI>21650165</vcard:hasTelephoneURI>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdfs:label>Birżebbuġa site address</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

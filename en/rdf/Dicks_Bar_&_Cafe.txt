@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Dicks_Bar_&amp;_Cafe.html">
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/BarOrPub</rdf:type>
+    <foaf:based_near>http://sws.geonames.org/8299748/</foaf:based_near>
+    <foaf:name>Dicks Bar &amp; Cafe</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Dicks_Bar_&amp;_Cafe_Address.html"/>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g227101-d3181849-Reviews-Dicks_Bar_Cafe-Saint_Julian_s_Island_of_Malta.html</foaf:primaryTopic>
+    <schema:name>Dicks Bar &amp; Cafe</schema:name>
+    <vcard:hasTelephone>21350091</vcard:hasTelephone>
+    <rdfs:label>Dicks Bar &amp; Cafe is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://dbpedia.org/resource/St._Julian's</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/St._Julian's</foaf:based_near>
+    <j.0:city>http://sws.geonames.org/8299748/</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

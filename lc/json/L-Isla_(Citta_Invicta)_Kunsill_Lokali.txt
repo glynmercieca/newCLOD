@@ -1,0 +1,44 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "city" : "http://dbpedia.org/ontology/city",
+    "type" : "http://dbpedia.org/ontology/type",
+    "type_" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "Post" : {
+      "@id" : "http://www.w3.org/ns/org#Post",
+      "@type" : "@id"
+    },
+    "hasMember" : {
+      "@id" : "http://www.w3.org/ns/org#hasMember",
+      "@type" : "@id"
+    },
+    "hasSite" : {
+      "@id" : "http://www.w3.org/ns/org#hasSite",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali.html",
+  "abstract" : "L-Isla (Città Invicta) Kunsill Lokali is a local council in Malta.",
+  "city" : [ "8299724", {
+    "@id" : "http://dbpedia.org/resource/Senglea"
+  } ],
+  "type" : "http://dbpedia.org/ontology/Local_councils_of_Malta",
+  "type_" : "http://www.w3.org/ns/org#FormalOrganization",
+  "label" : "L-Isla (Città Invicta) Kunsill Lokali",
+  "hasEmail" : "isla.lc@gov.mt",
+  "hasWebsite" : "www.islalocalcouncil.com",
+  "Post" : [ "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html", "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html" ],
+  "hasMember" : [ "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Arthur_Perici.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Ramon_Mangion.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Justin_John_Camilleri                                                .html", "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Joseph_Casha.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sur_Christopher_Cocker.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Is-Sra_Charmaine_Gerada.html" ],
+  "hasSite" : "http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Site.html",
+  "based_near" : "http://www.geonames.org/8299724",
+  "homepage" : "www.islalocalcouncil.com",
+  "name" : "L-Isla (Città Invicta) Kunsill Lokali",
+  "primaryTopic" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=60"
+}

@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Is-Swieqi_Kunsill_Lokali_Address.html">
+    <vcard:locality>Is-Swieqi</vcard:locality>
+    <vcard:hasTelephoneURI>21370199</vcard:hasTelephoneURI>
+    <j.0:abstract>This Site Address is the address of the Is-Swieqi Kunsill Lokali Site.</j.0:abstract>
+    <vcard:extended-address>''Silverdawn''</vcard:extended-address>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Is-Swieqi_Kunsill_Lokali_Fax.html"/>
+    <vcard:postal-code>SWQ 9020</vcard:postal-code>
+    <rdfs:label>Is-Swieqi site address</rdfs:label>
+    <vcard:hasTelephoneURI>21373939</vcard:hasTelephoneURI>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:street-address>Triq Sant'Andrija</vcard:street-address>
+    <vcard:country-name>Malta</vcard:country-name>
+  </rdf:Description>
+</rdf:RDF>

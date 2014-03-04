@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/SJI&apos;s_Smooth_Jazzing.html">
+    <j.0:city>http://dbpedia.org/resource/Paceville</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:based_near>http://www.geonames.org/7302254/</foaf:based_near>
+    <foaf:based_near>http://dbpedia.org/resource/Paceville</foaf:based_near>
+    <vcard:hasEmail>info@jazzmalta.com</vcard:hasEmail>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/SJI&apos;s_Smooth_Jazzing_Address.html"/>
+    <foaf:name>SJI's Smooth Jazzing</foaf:name>
+    <rdfs:label>SJI's Smooth Jazzing is an entertainment venue in Malta.</rdfs:label>
+    <schema:name>SJI's Smooth Jazzing</schema:name>
+    <vcard:hasTelephone>21 370252</vcard:hasTelephone>
+    <j.0:city>http://www.geonames.org/7302254/</j.0:city>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g776428-d3191392-Reviews-SJI_s_Smooth_Jazzing-Paceville_Island_of_Malta.html</foaf:primaryTopic>
+  </rdf:Description>
+</rdf:RDF>

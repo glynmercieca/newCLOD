@@ -1,0 +1,22 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.1="http://www.w3.org/2006/vcard/ns#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali_Is-Sur George_Mallia.html">
+    <foaf:firstName>Mallia</foaf:firstName>
+    <foaf:family_name>Mallia</foaf:family_name>
+    <foaf:title>Is-Sur George</foaf:title>
+    <j.0:abstract>Is-Sur George Mallia is a member of San Ġwann Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sur George Mallia</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/San_Ġwann"/>
+    <j.1:hasEmail>email:neville.mallia@gov.mt</j.1:hasEmail>
+    <foaf:based_near>http://www.geonames.org/8299747</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Iz-Zejtun_(Citta_Beland)_Kunsill_Lokali_Is-Sa_Doris_Abela.html">
+    <foaf:title>Is-Sa</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:abstract>Is-Sa Doris Abela is a member of Iż-Żejtun (Città Beland) Local Council</j.0:abstract>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Żejtun"/>
+    <foaf:family_name>Abela</foaf:family_name>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:based_near>http://www.geonames.org/8299765</foaf:based_near>
+    <foaf:firstName>Doris</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Iz-Zejtun_(Citta_Beland)_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sa Doris Abela</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

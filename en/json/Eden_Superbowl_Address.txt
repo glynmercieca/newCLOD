@@ -1,0 +1,11 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Eden_Superbowl_Address.html",
+  "label" : "This is the address resource for Eden Superbowl",
+  "country-name" : "Malta",
+  "locality" : "Saint Julian's"
+}

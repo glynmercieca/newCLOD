@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali.html">
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=40</foaf:primaryTopic>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Agent_Executive_Secretary.html"/>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Site.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sur_Carmel_Farrugia.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sa_Amanda_Abela.html"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=40</foaf:homepage>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:based_near>http://www.geonames.org/8299709</foaf:based_near>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sur_Horace_Micallef.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sur_Victor_Cefai.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sur_Mario_Mercieca.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Fontana,_Gozo"/>
+    <vcard:hasEmail>fontana.lc@gov.mt</vcard:hasEmail>
+    <dbpedia:abstract>Il-Fontana Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <rdfs:label>Il-Fontana Kunsill Lokali</rdfs:label>
+    <foaf:name>Il-Fontana Kunsill Lokali</foaf:name>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=40</vcard:hasWebsite>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Fontana_Kunsill_Lokali_Is-Sur_Saviour_Borg.html"/>
+    <dbpedia:city>8299709</dbpedia:city>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+  </rdf:Description>
+</rdf:RDF>

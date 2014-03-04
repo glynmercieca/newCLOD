@@ -1,0 +1,25 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Qala_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Il-Qala Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Il-Qala site address",
+  "country-name" : "Malta",
+  "extended-address" : "Ċentru Ċiviku Qala",
+  "hasTelephoneURI" : [ "21552555", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Qala_Kunsill_Lokali_Fax.html"
+  } ],
+  "locality" : "Il-Qala",
+  "postal-code" : "QLA 1040",
+  "street-address" : "Triq l-Isqof Mikiel Buttigieg"
+}

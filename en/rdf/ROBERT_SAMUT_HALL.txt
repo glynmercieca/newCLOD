@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ROBERT_SAMUT_HALL_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ROBERT_SAMUT_HALL.html">
+    <schema:description>This Neo-Gothic building, completed in 1883, was originally the Floriana Wesleyan Methodist Church, house of Protestant worship. The architectural style of this building is Neo-Gothic and was designed by architect Thomas Mullet Ellis. Work started in 1881 and was completed in 1883 under the direction of Poulsen. It was inaugurated for religious worship on the 18th March 1883. It was the first building in Malta to use the incandescent light bulb alias electricity. On 4th April 1975, the building now under the control of the Maltese government, was inaugurated as a centre for cultural activities. It was subsequently named for Robert Sammut, the composer of the Maltese national anthem who hailed from Floriana. Robert Samut Hall is presently the resident space of the Malta Philharmonic Orchestra.</schema:description>
+    <rdfs:label>ROBERT SAMUT HALL is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasTelephone>+356 21244473</vcard:hasTelephone>
+    <foaf:name>ROBERT SAMUT HALL</foaf:name>
+    <vcard:hasWebsite>http://www.maltaorchestra.com</vcard:hasWebsite>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/robert-samut-hall--floriana</foaf:primaryTopic>
+    <foaf:homepage>http://www.maltaorchestra.com</foaf:homepage>
+    <schema:name>ROBERT SAMUT HALL</schema:name>
+    <vcard:hasEmail>info@maltaorchestra.com</vcard:hasEmail>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <vcard:hasAddress>Sarrija Road, Floriana Floriana, FRN 1519, Malta</vcard:hasAddress>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/ROBERT_SAMUT_HALL_Amenities.html"/>
+  </rdf:Description>
+</rdf:RDF>

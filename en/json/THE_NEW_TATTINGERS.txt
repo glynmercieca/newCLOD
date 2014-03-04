@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "TNT or The New Tattingers is located at the heart of Rabat, limits of Mdina, Malta. The newly refurbished, rebranded, Tattingers Exclusive Club offers an alternative Friday night out to its unique cosmpolitan crowd. With strict door policy entrance as well as a line-up of posh DJs and live performing gurus on board this TNT formula is indeed explosive. Everything about The New Tattingers (TNT) is comfortable, from the cosy atmosphere that the newly refurbished venue provides so effortlessly to the ample parking facilities available. ",
+    "name" : "THE NEW TATTINGERS",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/NightClub",
+    "label" : "THE NEW TATTINGERS is an entertainment venue in Malta.",
+    "hasAddress" : "Saqqajja Hill Rabat, Malta",
+    "hasEmail" : "eman@marshallpulis.com",
+    "hasTelephone" : "+356 99471813",
+    "hasWebsite" : "http://www.tattingers.com",
+    "homepage" : "http://www.tattingers.com",
+    "name_" : "THE NEW TATTINGERS",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/tattingers"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Public Toilets", "Public Payphone", "Bar" ]
+  } ]
+}

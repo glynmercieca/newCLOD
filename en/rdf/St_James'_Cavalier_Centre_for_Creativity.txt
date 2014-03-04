@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/St_James&apos;_Cavalier_Centre_for_Creativity.html">
+    <vcard:hasTelephone>(356) 21 223200</vcard:hasTelephone>
+    <foaf:based_near>http://sws.geonames.org/8334638/</foaf:based_near>
+    <j.0:city>http://dbpedia.org/resource/Valletta</j.0:city>
+    <rdfs:label>St James' Cavalier Centre for Creativity is an entertainment venue in Malta.</rdfs:label>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/ArtGallery</rdf:type>
+    <schema:description>Traveler  St James Cavalier is one of the finest places in Malta. The large-block sandstone walls built by the Knights are warm and beautiful, and the... more »</schema:description>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/St_James&apos;_Cavalier_Centre_for_Creativity_Address.html"/>
+    <schema:name>St James' Cavalier Centre for Creativity</schema:name>
+    <foaf:based_near>http://dbpedia.org/resource/Valletta</foaf:based_near>
+    <foaf:name>St James' Cavalier Centre for Creativity</foaf:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190328-d1014402-Reviews-St_James_Cavalier_Centre_for_Creativity-Valletta_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://sws.geonames.org/8334638/</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,41 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "headOf" : {
+      "@id" : "http://www.w3.org/ns/org#headOf",
+      "@type" : "@id"
+    },
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "based_near" : {
+      "@id" : "http://xmlns.com/foaf/0.1/based_near",
+      "@type" : "@id"
+    },
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Pembroke_Kunsill_Lokali_L-Avv._is-Sur_Dean_HiliIs.html",
+  "@type" : "Person",
+  "abstract" : "L-Avv. is-Sur Dean HiliIs is a member of Pembroke Local Council",
+  "label" : "L-Avv. is-Sur Dean HiliIs",
+  "headOf" : "http://newcsa3221.azurewebsites.net/lc/html/Pembroke_Kunsill_Lokali.html",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/Pembroke_Kunsill_Lokali.html",
+  "based_near" : "http://dbpedia.org/resource/Pembroke,_Malta",
+  "http://xmlns.com/foaf/0.1/based_near" : "http://www.geonames.org/8299739",
+  "family_name" : "HiliIs",
+  "firstName" : "is-Sur",
+  "title" : "L-Avv."
+}

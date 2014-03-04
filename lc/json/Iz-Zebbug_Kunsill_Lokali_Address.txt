@@ -1,0 +1,29 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+      "@type" : "@id"
+    },
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "region" : "http://www.w3.org/2006/vcard/ns#region",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Iz-Zebbug_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Iż-Żebbuġ Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Iż-Żebbuġ site address",
+  "country-name" : "Malta",
+  "extended-address" : "Iż-Żebbuġ Kunsill Lokali",
+  "hasTelephoneURI" : "http://newcsa3221.azurewebsites.net/lc/html/Iz-Zebbug_Kunsill_Lokali_Fax.html",
+  "http://www.w3.org/2006/vcard/ns#hasTelephoneURI" : "21563056",
+  "locality" : "Iż-Żebbuġ",
+  "postal-code" : "ZBB 1200",
+  "region" : "Gozo",
+  "street-address" : "Triq il-Knisja"
+}

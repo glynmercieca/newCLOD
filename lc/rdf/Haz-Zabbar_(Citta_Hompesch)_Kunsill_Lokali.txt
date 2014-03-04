@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali.html">
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <foaf:name>Ħaż-Żabbar (Città Hompesch) Kunsill Lokali</foaf:name>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Żabbar"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Joseph_Vella.html"/>
+    <vcard:hasEmail>zabbar.lc@gov.mt</vcard:hasEmail>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Joseph_Agius.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_John_J_Pace.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Mark_Grech.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Domenic_Agius.html"/>
+    <foaf:based_near>http://www.geonames.org/8299762</foaf:based_near>
+    <vcard:hasWebsite>www.zabbar.lc.gov.mt</vcard:hasWebsite>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Marc_Vella_Bonnici.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <rdfs:label>Ħaż-Żabbar (Città Hompesch) Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Joseph_Bonnici.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Duncan_Busuttil.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sinjura_Anna_Calleja.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Quinton_Scerri.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Joseph_Buttigieg.html"/>
+    <dbpedia:city>8299762</dbpedia:city>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:homepage>www.zabbar.lc.gov.mt</foaf:homepage>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Brian_Spiteri.html"/>
+    <dbpedia:abstract>Ħaż-Żabbar (Città Hompesch) Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=66</foaf:primaryTopic>
+  </rdf:Description>
+</rdf:RDF>

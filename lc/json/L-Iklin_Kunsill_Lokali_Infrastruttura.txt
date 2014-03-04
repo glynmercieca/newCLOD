@@ -1,0 +1,17 @@
+{
+  "@context" : {
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "prefLabel" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Infrastruttura.html",
+    "type" : "http://www.w3.org/ns/org#Role",
+    "prefLabel" : "Infrastruttura"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Anthony_Dalli.html",
+    "abstract" : "This is a Role of a member of the L-Iklin Kunsill Lokali.",
+    "label" : "L-Iklin Role"
+  } ]
+}

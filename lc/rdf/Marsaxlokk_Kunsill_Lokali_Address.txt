@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Marsaxlokk_Kunsill_Lokali_Address.html">
+    <vcard:locality>Marsaxlokk</vcard:locality>
+    <j.0:abstract>This Site Address is the address of the Marsaxlokk Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI>21652525</vcard:hasTelephoneURI>
+    <vcard:street-address>2Triq Vittorjo Cassar</vcard:street-address>
+    <rdfs:label>Marsaxlokk site address</rdfs:label>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaxlokk_Kunsill_Lokali_Fax.html"/>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:extended-address>Marsaxlokk Kunsill Lokali</vcard:extended-address>
+    <vcard:postal-code>MXK 1051</vcard:postal-code>
+  </rdf:Description>
+</rdf:RDF>

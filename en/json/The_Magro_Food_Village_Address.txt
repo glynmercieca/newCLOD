@@ -1,0 +1,15 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/The_Magro_Food_Village_Address.html",
+  "label" : "This is the address resource for The Magro Food Village",
+  "country-name" : "Malta",
+  "locality" : "Xewkija",
+  "postal-code" : "XWK3000",
+  "street-address" : "Xewkija Industrial Estate"
+}

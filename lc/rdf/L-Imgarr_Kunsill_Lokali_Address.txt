@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imgarr_Kunsill_Lokali_Address.html">
+    <vcard:locality>L-Imġarr</vcard:locality>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imgarr_Kunsill_Lokali_Fax.html"/>
+    <vcard:hasTelephoneURI>27520011</vcard:hasTelephoneURI>
+    <rdfs:label>L-Imġarr site address</rdfs:label>
+    <vcard:postal-code>MGR 1501</vcard:postal-code>
+    <vcard:extended-address>L-Imġarr Kunsill Lokali</vcard:extended-address>
+    <vcard:hasTelephoneURI>21520011</vcard:hasTelephoneURI>
+    <vcard:street-address>22Triq Sir Harry Luke</vcard:street-address>
+    <j.0:abstract>This Site Address is the address of the L-Imġarr Kunsill Lokali Site.</j.0:abstract>
+  </rdf:Description>
+</rdf:RDF>

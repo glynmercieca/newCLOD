@@ -1,0 +1,22 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Bugibba_Water_Park.html">
+    <foaf:based_near>http://dbpedia.org/resource/Bugibba</foaf:based_near>
+    <j.0:city>http://www.geonames.org/2563178/</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Bugibba_Water_Park_Address.html"/>
+    <foaf:based_near>http://www.geonames.org/2563178/</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g608948-d3317921-Reviews-Bugibba_Water_Park-Bugibba_Island_of_Malta.html</foaf:primaryTopic>
+    <schema:name>Bugibba Water Park</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/WaterPark</rdf:type>
+    <foaf:name>Bugibba Water Park</foaf:name>
+    <j.0:city>http://dbpedia.org/resource/Bugibba</j.0:city>
+    <rdfs:label>Bugibba Water Park is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

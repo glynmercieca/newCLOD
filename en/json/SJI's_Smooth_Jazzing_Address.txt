@@ -1,0 +1,13 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/SJI's_Smooth_Jazzing_Address.html",
+  "label" : "This is the address resource for SJI's Smooth Jazzing",
+  "country-name" : "Malta",
+  "locality" : "Paceville",
+  "street-address" : "5A Church Street"
+}

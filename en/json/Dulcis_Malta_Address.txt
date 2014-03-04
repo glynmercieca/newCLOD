@@ -1,0 +1,15 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Dulcis_Malta_Address.html",
+  "label" : "This is the address resource for Dulcis Malta",
+  "country-name" : "Malta",
+  "locality" : "Pieta",
+  "postal-code" : "PTA1318",
+  "street-address" : "Telghet Guardamangia"
+}

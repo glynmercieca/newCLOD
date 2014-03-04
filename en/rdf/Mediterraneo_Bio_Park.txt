@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Mediterraneo_Bio_Park.html">
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/AmusementPark</rdf:type>
+    <vcard:hasEmail>info@mediterraneopark.com</vcard:hasEmail>
+    <vcard:hasTelephone>+356 2137 2218</vcard:hasTelephone>
+    <j.0:city>http://dbpedia.org/resource/Bahar_Ic-Caghaq</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Mediterraneo_Bio_Park_Address.html"/>
+    <j.0:city>http://www.geonames.org/2563230/</j.0:city>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g2689723-d2689724-Reviews-Mediterraneo_Bio_Park-Bahar_ic_Caghaq_Island_of_Malta.html</foaf:primaryTopic>
+    <schema:name>Mediterraneo Bio Park</schema:name>
+    <rdfs:label>Mediterraneo Bio Park is an entertainment venue in Malta.</rdfs:label>
+    <foaf:name>Mediterraneo Bio Park</foaf:name>
+    <foaf:based_near>http://www.geonames.org/2563230/</foaf:based_near>
+    <foaf:based_near>http://dbpedia.org/resource/Bahar_Ic-Caghaq</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

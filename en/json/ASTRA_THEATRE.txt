@@ -1,0 +1,38 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ASTRA_THEATRE.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/ASTRA_THEATRE_Amenities.html",
+    "openingHours" : "Sunday",
+    "name" : "ASTRA THEATRE",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+    "label" : "ASTRA THEATRE is an entertainment venue in Malta.",
+    "hasAddress" : "Republic Street, Victoria, Gozo",
+    "hasEmail" : "lastella@vol.net.mt",
+    "hasTelephone" : "+356 21556256",
+    "hasWebsite" : "http://www.lastella.com.mt",
+    "homepage" : "http://www.lastella.com.mt",
+    "name_" : "ASTRA THEATRE",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/astratheatre"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/ASTRA_THEATRE_Amenities.html",
+    "hasAmenity" : [ "WiFi", "Town/City Location", "Shops within 1 km", "Public Toilets", "Bar" ]
+  } ]
+}

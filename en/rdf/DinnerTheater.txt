@@ -1,0 +1,9 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/DinnerTheater.html">
+    <rdfs:subClassOf>http://schema.org/EntertainmentBusiness</rdfs:subClassOf>
+    <rdfs:label>Dinner Theaters</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

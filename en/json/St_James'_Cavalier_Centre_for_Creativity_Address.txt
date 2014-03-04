@@ -1,0 +1,17 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/St_James'_Cavalier_Centre_for_Creativity_Address.html",
+  "label" : "This is the address resource for St James' Cavalier Centre for Creativity",
+  "country-name" : "Malta",
+  "extended-address" : "Valletta",
+  "locality" : "Valletta",
+  "postal-code" : "VLT 1060",
+  "street-address" : "Castille Place"
+}

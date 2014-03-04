@@ -1,0 +1,39 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar.html",
+    "city" : [ "http://sws.geonames.org/8299755/", "http://dbpedia.org/resource/Sliema" ],
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Amenities.html",
+    "name" : "Step Down Bar",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+    "label" : "Step Down Bar is an entertainment venue in Malta.",
+    "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Address.html",
+    "hasEmail" : "davsaliba@hotmail.com",
+    "hasTelephone" : "+(356)99592730",
+    "based_near" : [ "http://sws.geonames.org/8299755/", "http://dbpedia.org/resource/Sliema" ],
+    "name_" : "Step Down Bar",
+    "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190327-d4243522-Reviews-Step_Down_Bar-Sliema_Island_of_Malta.html"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/Step_Down_Bar_Amenities.html",
+    "hasAmenity" : [ "Bathroom facilities", "Food available for purchase" ]
+  } ]
+}

@@ -1,0 +1,36 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali.html">
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <rdfs:label>Il-Ħamrun Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Philip_Massa.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Cedric_Valletta.html"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=32</foaf:homepage>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=32</foaf:primaryTopic>
+    <foaf:name>Il-Ħamrun Kunsill Lokali</foaf:name>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Mario_Caruana.html"/>
+    <foaf:based_near>http://www.geonames.org/8299717</foaf:based_near>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Christian_Sammut.html"/>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sra_Judith_Bernardette_Bugeja.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <vcard:hasEmail>hamrun.lc@gov.mt</vcard:hasEmail>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sra_Carmen_Borg.html"/>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=32</vcard:hasWebsite>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Ħamrun"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Gaetano_Cuschieri.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Hamrun_Kunsill_Lokali_Is-Sur_Vincent_Bonello.html"/>
+    <dbpedia:city>8299717</dbpedia:city>
+    <dbpedia:abstract>Il-Ħamrun Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Agent_Executive_Secretary.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+  </rdf:Description>
+</rdf:RDF>

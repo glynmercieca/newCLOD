@@ -1,0 +1,27 @@
+{
+  "@context" : {
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/TEATRU_SALESJAN.html",
+  "description" : "The Teatru Salesjan, which has been in operation since 1908, forms part of the Salesian Oratory, a non profit organization providing educational opportunities for the development of young people. The theatre complex is a formative, family oriented environment for young people to develop their creative and communicative skills and appreciation for the arts through dialogue, driven by education.",
+  "name" : "TEATRU SALESJAN",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+  "label" : "TEATRU SALESJAN is an entertainment venue in Malta.",
+  "hasAddress" : "45, Howard Street Tas-Sliema, Malta",
+  "hasEmail" : "info@teatrusalesjan.com",
+  "hasTelephone" : "+356 21331447",
+  "hasWebsite" : "http://www.teatrusalesjan.com/",
+  "homepage" : "http://www.teatrusalesjan.com/",
+  "name_" : "TEATRU SALESJAN",
+  "primaryTopic" : "http://www.visitmalta.com/en/info/teatrusalesjan"
+}

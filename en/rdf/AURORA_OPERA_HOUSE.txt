@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/AURORA_OPERA_HOUSE_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/AURORA_OPERA_HOUSE.html">
+    <rdfs:label>AURORA OPERA HOUSE is an entertainment venue in Malta.</rdfs:label>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/AURORA_OPERA_HOUSE_Amenities.html"/>
+    <vcard:hasEmail>info@leone.org.mt</vcard:hasEmail>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <vcard:hasWebsite>http://www.teatruaurora.com</vcard:hasWebsite>
+    <en:openingHours>Sunday</en:openingHours>
+    <vcard:hasTelephone>+356 21562974</vcard:hasTelephone>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/auroraoperahouse</foaf:primaryTopic>
+    <foaf:name>AURORA OPERA HOUSE</foaf:name>
+    <vcard:hasAddress>Republic Street, Victoria, Gozo</vcard:hasAddress>
+    <schema:name>AURORA OPERA HOUSE</schema:name>
+    <foaf:homepage>http://www.teatruaurora.com</foaf:homepage>
+  </rdf:Description>
+</rdf:RDF>

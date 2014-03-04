@@ -1,0 +1,38 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali.html">
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Charles_SelvaggiI.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sna_Romina_Galea.html"/>
+    <vcard:hasEmail>msida.lc@gov.mt</vcard:hasEmail>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_s-Sur_Alexander_Sciberras.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Matthew_Agius.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Emanuel_Brincat.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <dbpedia:abstract>L-Imsida Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Carmelo_k/a_Lino_Bartolo.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Msida"/>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=22</vcard:hasWebsite>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:based_near>http://www.geonames.org/8299722</foaf:based_near>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Maurice_Agius.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sur_Alan_Abela_Wadge.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sna_Marita_Portelli.html"/>
+    <rdfs:label>L-Imsida Kunsill Lokali</rdfs:label>
+    <dbpedia:city>8299722</dbpedia:city>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=22</foaf:primaryTopic>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imsida_Kunsill_Lokali_Is-Sna_Margaret_Baldacchino_CefaiI.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:name>L-Imsida Kunsill Lokali</foaf:name>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=22</foaf:homepage>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+  </rdf:Description>
+</rdf:RDF>

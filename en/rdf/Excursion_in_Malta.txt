@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Excursion_in_Malta.html">
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <vcard:hasEmail>info@excursionsinmalta.com</vcard:hasEmail>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Excursion_in_Malta_Address.html"/>
+    <schema:name>Excursion in Malta</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/Tours</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190313-d2315474-Reviews-Excursion_in_Malta-Island_of_Gozo.html</foaf:primaryTopic>
+    <foaf:name>Excursion in Malta</foaf:name>
+    <rdfs:label>Excursion in Malta is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

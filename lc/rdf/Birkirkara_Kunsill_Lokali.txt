@@ -1,0 +1,42 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali.html">
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <dbpedia:city>8299703</dbpedia:city>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Birkirkara"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <vcard:hasWebsite>www.birkirkara.lc.gov.mt</vcard:hasWebsite>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Dr_Josianne_Cardona_Gatt.html"/>
+    <foaf:name>Birkirkara Kunsill Lokali</foaf:name>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_John_Borg.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_John_Mary_Calleja.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sra_Rita_Borg.html"/>
+    <foaf:homepage>www.birkirkara.lc.gov.mt</foaf:homepage>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=44</foaf:primaryTopic>
+    <foaf:based_near>http://www.geonames.org/8299703</foaf:based_near>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <rdfs:label>Birkirkara Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Mark_Abdilla.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Liam_Gauci.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Kaylocke_Buhagiar.html"/>
+    <dbpedia:abstract>Birkirkara Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_John_Mizzi.html"/>
+    <vcard:hasEmail>birkirkara.lc@gov.mt</vcard:hasEmail>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Anthony_Buttigieg.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sra_Joanne_Debono_Grech.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Michael_Fenech_Adami.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Arthur_Pizzuto.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sur_Herbert_Conti.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Agent_Executive_Secretary.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Birkirkara_Kunsill_Lokali_Is-Sra_Marie_Claire_Zammit.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+  </rdf:Description>
+</rdf:RDF>

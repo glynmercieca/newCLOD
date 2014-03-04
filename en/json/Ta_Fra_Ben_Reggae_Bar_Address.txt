@@ -1,0 +1,11 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Ta_Fra_Ben_Reggae_Bar_Address.html",
+  "label" : "This is the address resource for Ta Fra Ben Reggae Bar",
+  "country-name" : "Malta",
+  "locality" : "Qawra"
+}

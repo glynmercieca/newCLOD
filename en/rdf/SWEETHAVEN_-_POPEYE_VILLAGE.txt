@@ -1,0 +1,26 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/SWEETHAVEN_-_POPEYE_VILLAGE.html">
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/SWEETHAVEN_-_POPEYE_VILLAGE_Amenities.html"/>
+    <vcard:hasTelephone>+356 21524782</vcard:hasTelephone>
+    <schema:description>The film set of the 1980 musical production "Popeye", also known as 'POPEYE VILLAGE', was constructed in Anchor Bay during the last 7 months of 1979. Today the "village" has grown into a family attraction featuring a number of colorful fun activities for all young at heart. Here you will meet famous cartoon characters to greet and entertain your kids. Grownups can be part of a filming experience with the animation crew, and enjoy a number of attractions such as boat rides, water trampolines, sun bathing decks, beach lido, food outlets, winery offering free wine tasting, mini golf and Santa's toy town. There is also Malta's largest jump around and a fun park with numerous rides for kids.</schema:description>
+    <foaf:name>SWEETHAVEN - POPEYE VILLAGE</foaf:name>
+    <foaf:homepage>http://www.popeyemalta.com</foaf:homepage>
+    <vcard:hasAddress>Anchor Bay, limits of Mellieħa, Malta</vcard:hasAddress>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/sweethavenvillage</foaf:primaryTopic>
+    <vcard:hasWebsite>http://www.popeyemalta.com</vcard:hasWebsite>
+    <vcard:hasEmail>info@popeyemalta.com</vcard:hasEmail>
+    <rdfs:label>SWEETHAVEN - POPEYE VILLAGE is an entertainment venue in Malta.</rdfs:label>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <schema:name>SWEETHAVEN - POPEYE VILLAGE</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/SWEETHAVEN_-_POPEYE_VILLAGE_Amenities.html">
+    <en:hasAmenity>Coastal Location</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

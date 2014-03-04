@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Alex_House.html">
+    <schema:name>Alex House</schema:name>
+    <j.0:city>http://dbpedia.org/resource/Paceville</j.0:city>
+    <rdfs:label>Alex House is an entertainment venue in Malta.</rdfs:label>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g776428-d4363546-Reviews-Alex_House-Paceville_Island_of_Malta.html</foaf:primaryTopic>
+    <schema:description>Regional Italian food Bar Club Pub Karaoke</schema:description>
+    <vcard:hasTelephone>+356 7745 1645</vcard:hasTelephone>
+    <j.0:city>http://www.geonames.org/7302254/</j.0:city>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Alex_House_Address.html"/>
+    <foaf:name>Alex House</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:based_near>http://www.geonames.org/7302254/</foaf:based_near>
+    <vcard:hasEmail>info@alexhousemalta.com</vcard:hasEmail>
+    <foaf:based_near>http://dbpedia.org/resource/Paceville</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

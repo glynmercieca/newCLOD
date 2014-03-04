@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali_Is-Sur_Teddy_Mizzi.html">
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near>http://www.geonames.org/8299760</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:firstName>Teddy</foaf:firstName>
+    <foaf:family_name>Mizzi</foaf:family_name>
+    <j.0:abstract>Is-Sur Teddy Mizzi is a member of Ix-Xewkija Local Council</j.0:abstract>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Xewkija"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xewkija_Kunsill_Lokali.html"/>
+    <rdfs:label>Is-Sur Teddy Mizzi</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

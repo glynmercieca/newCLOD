@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Luqa_Kunsill_Lokali_Is-Sur_John_Schembri.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Luqa"/>
+    <rdfs:label>Is-Sur John Schembri</rdfs:label>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:based_near>http://www.geonames.org/8299729</foaf:based_near>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Luqa_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Luqa_Kunsill_Lokali.html"/>
+    <foaf:firstName>John</foaf:firstName>
+    <j.0:abstract>Is-Sur John Schembri is a member of Ħal Luqa Local Council</j.0:abstract>
+    <foaf:family_name>Schembri</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

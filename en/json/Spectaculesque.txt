@@ -1,0 +1,28 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Spectaculesque.html",
+  "city" : [ "http://dbpedia.org/resource/Rabat,_Malta", "http://sws.geonames.org/8299745/" ],
+  "name" : "Spectaculesque",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Spectaculesque is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Spectaculesque_Address.html",
+  "hasEmail" : "buskettroadhouse@gmail.com",
+  "hasTelephone" : "00356 21454233",
+  "based_near" : [ "http://sws.geonames.org/8299745/", "http://dbpedia.org/resource/Rabat,_Malta" ],
+  "name_" : "Spectaculesque",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190326-d2526036-Reviews-Spectaculesque-Rabat_Island_of_Malta.html"
+}

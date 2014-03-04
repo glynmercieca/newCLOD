@@ -1,0 +1,15 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Footloose_Fun_Bar_Address.html",
+  "label" : "This is the address resource for Footloose Fun Bar",
+  "country-name" : "Malta",
+  "extended-address" : "Paceville",
+  "locality" : "Saint Julian's",
+  "street-address" : "St. George's Road"
+}

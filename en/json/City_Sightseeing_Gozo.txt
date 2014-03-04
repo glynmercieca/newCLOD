@@ -1,0 +1,32 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "aggregateRating" : "http://www.w3.org/2006/vcard/ns#aggregateRating",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/City_Sightseeing_Gozo.html",
+  "city" : [ "http://dbpedia.org/resource/Victoria,_Gozo", "http://sws.geonames.org/2562619/" ],
+  "description" : "Gozo Hop on Hop Off Open Top Sightseeing Bus Tour",
+  "name" : "City Sightseeing Gozo",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/BusTours",
+  "label" : "City Sightseeing Gozo is an entertainment venue in Malta.",
+  "aggregateRating" : "4.5",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/City_Sightseeing_Gozo_Address.html",
+  "hasEmail" : "info@city-sightseeing.com",
+  "hasTelephone" : "79569996",
+  "based_near" : [ "http://dbpedia.org/resource/Victoria,_Gozo", "http://sws.geonames.org/2562619/" ],
+  "name_" : "City Sightseeing Gozo",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190317-d2615041-Reviews-City_Sightseeing_Gozo-Victoria_Island_of_Gozo.html"
+}

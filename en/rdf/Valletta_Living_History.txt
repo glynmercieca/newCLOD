@@ -1,0 +1,27 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Valletta_Living_History.html">
+    <vcard:hasEmail>info@maltaattraction.com</vcard:hasEmail>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:based_near>http://sws.geonames.org/8334638/</foaf:based_near>
+    <j.0:city>http://sws.geonames.org/8334638/</j.0:city>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190328-d1759697-Reviews-Valletta_Living_History-Valletta_Island_of_Malta.html</foaf:primaryTopic>
+    <en:fee>true</en:fee>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <schema:description>Valletta Living History is a 35 minute, high definition, docudrama, in the form of an audio visual show, depicting the history, culture and lifestyle... more » Valletta Living History is a 35 minute, high definition, docudrama, in the form of an audio visual show, depicting the history, culture and lifestyle of Malta and the Maltese. Re-live the arrival of Valletta’s earliest settlers; the Great Siege that erupted between the Knights of St John and the fierce Ottoman Empire; French and British rule; as well as the city’s heroic role in World War II till present day. An audiovisual spectacular, the show provides great entertainment for all the family, right in the heart of Malta’s capital city Valletta. It provides fantastic insight into the history of the capital, local culture and Maltese society, through a documentary that charts Valletta’s evolution over the centuries. Travel Back Through Time! Valletta Living History takes you on a journey through time to discover Valletta’s incredible past! This leading Maltese attraction showcases the city’s major milestones, its rich architectural heritage and the ways of life of its population at every stage of its development.</schema:description>
+    <rdfs:label>Valletta Living History is an entertainment venue in Malta.</rdfs:label>
+    <schema:name>Valletta Living History</schema:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Valletta_Living_History_Address.html"/>
+    <j.0:city>http://dbpedia.org/resource/Valletta</j.0:city>
+    <foaf:name>Valletta Living History</foaf:name>
+    <vcard:hasTelephone>00356 27220071</vcard:hasTelephone>
+    <foaf:based_near>http://dbpedia.org/resource/Valletta</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+{
+  "@context" : {
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/NOTRE_DAME_THEATRE.html",
+  "description" : "The Notre Dame Theatre is a community theatre in Zabbar which falls under the responsibility of the Zabbar Parish. It is located in Mediatrix Place, on the right hand side of the Zabbar Parish Church. The theatre was built in the 1950s and has a capacity of around 650. In the past it was also used as a cinema. Various plays, concerts and other soirees are staged throughout the year by local organisations, acting groups, the Zabbar Local Council and the Zabbar Parish Church.",
+  "name" : "NOTRE DAME THEATRE",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater",
+  "label" : "NOTRE DAME THEATRE is an entertainment venue in Malta.",
+  "hasAddress" : "Ħaż-Żabbar, Malta",
+  "hasEmail" : "cizzim40@go.net.mt",
+  "hasTelephone" : "+356 99261793",
+  "hasWebsite" : "http://www.mmg.com.mt",
+  "homepage" : "http://www.mmg.com.mt",
+  "name_" : "NOTRE DAME THEATRE",
+  "primaryTopic" : "http://www.visitmalta.com/en/info/notredametheatre"
+}

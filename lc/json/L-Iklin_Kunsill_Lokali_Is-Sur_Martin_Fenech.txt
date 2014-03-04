@@ -1,0 +1,41 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "role" : {
+      "@id" : "http://www.w3.org/ns/org#role",
+      "@type" : "@id"
+    },
+    "based_near" : {
+      "@id" : "http://xmlns.com/foaf/0.1/based_near",
+      "@type" : "@id"
+    },
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Martin_Fenech.html",
+  "@type" : "Person",
+  "abstract" : "Is-Sur Martin Fenech is a member of L-Iklin Local Council",
+  "label" : "Is-Sur Martin Fenech",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html",
+  "role" : [ "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Harsien_ta'_l-annimali..html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Kunsillier_Zghazagh.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Sports.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Drittijiet_tal-Konsumatur.html" ],
+  "based_near" : "http://dbpedia.org/resource/Iklin",
+  "http://xmlns.com/foaf/0.1/based_near" : "http://www.geonames.org/8299718",
+  "family_name" : "Fenech",
+  "firstName" : "Martin",
+  "title" : "Is-Sur"
+}

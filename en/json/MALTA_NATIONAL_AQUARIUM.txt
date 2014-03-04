@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "The Malta National Aquarium project is spread over approximately 20,000 square meters and comprises a public aquarium, a public landscaped belvedere at promenade level, a multi storey car park, facilities for local dive schools, catering facilities including a beach club, a merchandise outlet and a tourist information kiosk. The public aquarium has 26 display tanks with, amongst others, Mediterranean fish, including fish commonly found in Maltese waters together with replicas of historical artefacts that one can find in the seas around the Maltese islands. The main tank of the aquarium houses species from the Indian Ocean, including eight black tip sharks, horn sharks, rays, eels and other exotic species. The main tank is approximately 12 meters in diameter and has a walk-through tunnel that allows visitors to experience the fish at a much closer range. All tanks are expertly themed to replicate the underwater environment. Additional features of the public aquarium include a class room facility, interpretation, touch pools, a temporary exhibition space, veterinary and quarantine facilities, etc. The national aquarium is in an iconic curved shell structure in the form of a starfish. The adjacent promenade provides additional recreation facilities for pedestrians including a children's play area. The Malta National Aquarium has a car park with a capacity for 140 cars.",
+    "name" : "MALTA NATIONAL AQUARIUM",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/VisitorAttractions",
+    "label" : "MALTA NATIONAL AQUARIUM is an entertainment venue in Malta.",
+    "hasAddress" : "Triq it-Trunciera, Qawra, St. Paul’s Bay, SPB 1500, Malta",
+    "hasEmail" : "info@aquarium.com.mt",
+    "hasTelephone" : "+356 22588100",
+    "hasWebsite" : "http://www.aquarium.com.mt",
+    "homepage" : "http://www.aquarium.com.mt",
+    "name_" : "MALTA NATIONAL AQUARIUM",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/national-aquarium"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/MALTA_NATIONAL_AQUARIUM_Amenities.html",
+    "hasAmenity" : [ "Parking", "Public Payphone", "Major Credit Cards Accepted", "Public Toilets", "Disabled Parking", "Restaurant", "Bar", "Children Welcome", "Seaside Location", "Disabled Facilities", "Cafe" ]
+  } ]
+}

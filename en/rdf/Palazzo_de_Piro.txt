@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Palazzo_de_Piro.html">
+    <j.0:city>http://sws.geonames.org/8299719/</j.0:city>
+    <vcard:hasTelephone>0035621450560</vcard:hasTelephone>
+    <j.0:city>http://dbpedia.org/resource/Mdina</j.0:city>
+    <schema:description>Unique in its flexibility as a venue, Palazzo de Piro has been transformed into one of Malta’s premier hubs of culture and activity. The Palazzo... more » Unique in its flexibility as a venue, Palazzo de Piro has been transformed into one of Malta’s premier hubs of culture and activity. The Palazzo features a program of various collections held by the Metropolitan Cathedral Museum and is also host to a wide variety of artistic events (independant art exhibitions, concerts, theatre plays, seminars...) Palazzo de Piro also hosts the Xpresso Cafe which enjoys spectacular views over the Maltese countryside and provides visitors with nothing but the freshest, top class and healthy Maltese dishes and delicacies.</schema:description>
+    <foaf:based_near>http://sws.geonames.org/8299719/</foaf:based_near>
+    <schema:name>Palazzo de Piro</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190324-d2639595-Reviews-Palazzo_de_Piro-Mdina_Island_of_Malta.html</foaf:primaryTopic>
+    <vcard:hasEmail>events@xarapalace.com.mt</vcard:hasEmail>
+    <foaf:name>Palazzo de Piro</foaf:name>
+    <rdfs:label>Palazzo de Piro is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Palazzo_de_Piro_Address.html"/>
+    <foaf:based_near>http://dbpedia.org/resource/Mdina</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

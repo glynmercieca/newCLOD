@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Xlendi_Pleasure_Cruises_Ltd.html">
+    <foaf:based_near>http://sws.geonames.org/2562619/</foaf:based_near>
+    <j.0:city>http://sws.geonames.org/2562619/</j.0:city>
+    <vcard:hasEmail>info@xlendicruises.com</vcard:hasEmail>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Xlendi_Pleasure_Cruises_Ltd_Address.html"/>
+    <rdfs:label>Xlendi Pleasure Cruises Ltd is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://dbpedia.org/resource/Victoria,_Gozo</j.0:city>
+    <schema:name>Xlendi Pleasure Cruises Ltd</schema:name>
+    <vcard:hasTelephone>00356 99478119</vcard:hasTelephone>
+    <foaf:based_near>http://dbpedia.org/resource/Victoria,_Gozo</foaf:based_near>
+    <foaf:name>Xlendi Pleasure Cruises Ltd</foaf:name>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190317-d2178356-Reviews-Xlendi_Pleasure_Cruises_Ltd-Victoria_Island_of_Gozo.html</foaf:primaryTopic>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/BoatTours</rdf:type>
+    <schema:description>With our boat trips you will discover in comfort and style all the beautiful places around Gozo and Comino: Blue Lagoon, Crystal Lagoon, Comino Caves,... more » With our boat trips you will discover in comfort and style all the beautiful places around Gozo and Comino: Blue Lagoon, Crystal Lagoon, Comino Caves, Dwejra Lagoon (where is the Azure Window and the Fungus Rock), Ramla Bay, San Blas Bay, Mgarr Ix-xini and many others.</schema:description>
+  </rdf:Description>
+</rdf:RDF>

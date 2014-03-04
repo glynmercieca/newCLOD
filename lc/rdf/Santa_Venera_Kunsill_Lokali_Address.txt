@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Santa_Venera_Kunsill_Lokali_Address.html">
+    <vcard:locality>Santa Venera</vcard:locality>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:postal-code>SVR 1013</vcard:postal-code>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Santa_Venera_Kunsill_Lokali_Fax.html"/>
+    <vcard:extended-address>Kumpless Umberto Calosso</vcard:extended-address>
+    <rdfs:label>Santa Venera site address</rdfs:label>
+    <vcard:street-address>Triq il-Kbira San Ġużepp</vcard:street-address>
+    <j.0:abstract>This Site Address is the address of the Santa Venera Kunsill Lokali Site.</j.0:abstract>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:hasTelephoneURI>21491030</vcard:hasTelephoneURI>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xaghra_Kunsill_Lokali_Address.html">
+    <vcard:postal-code>XRA 9021</vcard:postal-code>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xaghra_Kunsill_Lokali_Fax.html"/>
+    <j.0:abstract>This Site Address is the address of the Ix-Xagħra Kunsill Lokali Site.</j.0:abstract>
+    <vcard:extended-address>Ix-Xagħra Kunsill Lokali</vcard:extended-address>
+    <vcard:hasTelephoneURI>21563737</vcard:hasTelephoneURI>
+    <rdfs:label>Ix-Xagħra site address</rdfs:label>
+    <vcard:locality>Ix-Xagħra</vcard:locality>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:street-address>8Vjal  ta' Settembru</vcard:street-address>
+  </rdf:Description>
+</rdf:RDF>

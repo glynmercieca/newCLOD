@@ -1,0 +1,25 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "hasTelephoneURI" : "http://www.w3.org/2006/vcard/ns#hasTelephoneURI",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Address.html",
+  "abstract" : "This Site Address is the address of the Ħal Qormi (Città Pinto) Kunsill Lokali Site.",
+  "type" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+  "label" : "Ħal Qormi (Città Pinto) site address",
+  "country-name" : "Malta",
+  "extended-address" : "Ħal Qormi (Città Pinto) Kunsill Lokali",
+  "hasTelephoneURI" : [ "21440101", "21440107", {
+    "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Fax.html"
+  } ],
+  "locality" : "Ħal Qormi (Città Pinto)",
+  "postal-code" : "QRM2507",
+  "street-address" : "Triq il-Vitorja"
+}

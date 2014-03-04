@@ -1,0 +1,9 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "subClassOf" : "http://www.w3.org/2000/01/rdf-schema#subClassOf"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Tours.html",
+  "label" : "Tours",
+  "subClassOf" : "http://schema.org/EntertainmentBusiness"
+}

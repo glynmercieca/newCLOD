@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Ceramiki_Malta_Pottery_Events.html">
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g2208502-d4288019-Reviews-Ceramiki_Malta_Pottery_Events-Ta_Qali_Island_of_Malta.html</foaf:primaryTopic>
+    <rdfs:label>Ceramiki Malta Pottery Events is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Ceramiki_Malta_Pottery_Events_Address.html"/>
+    <j.0:city>http://dbpedia.org/resource/Ta'_Qali</j.0:city>
+    <vcard:hasEmail>ceramiki@mediterraneanceramics.com</vcard:hasEmail>
+    <j.0:city>http://www.geonames.org/2562362/</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Ta'_Qali</foaf:based_near>
+    <foaf:based_near>http://www.geonames.org/2562362/</foaf:based_near>
+    <foaf:name>Ceramiki Malta Pottery Events</foaf:name>
+    <schema:name>Ceramiki Malta Pottery Events</schema:name>
+    <vcard:hasTelephone>+(356)99221677</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

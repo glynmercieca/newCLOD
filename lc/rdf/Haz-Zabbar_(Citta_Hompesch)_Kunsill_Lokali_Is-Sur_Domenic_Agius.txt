@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali_Is-Sur_Domenic_Agius.html">
+    <foaf:title>Is-Sur</foaf:title>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Haz-Zabbar_(Citta_Hompesch)_Kunsill_Lokali.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Żabbar"/>
+    <foaf:based_near>http://www.geonames.org/8299762</foaf:based_near>
+    <j.0:abstract>Is-Sur Domenic Agius is a member of Ħaż-Żabbar (Città Hompesch) Local Council</j.0:abstract>
+    <rdfs:label>Is-Sur Domenic Agius</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:family_name>Agius</foaf:family_name>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:firstName>Domenic</foaf:firstName>
+  </rdf:Description>
+</rdf:RDF>

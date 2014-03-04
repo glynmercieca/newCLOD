@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali_Is-Sinjorina_Margaret_Mercieca.html">
+    <foaf:based_near>http://www.geonames.org/8299742</foaf:based_near>
+    <foaf:firstName>Margaret</foaf:firstName>
+    <rdfs:label>Is-Sinjorina Margaret Mercieca</rdfs:label>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Qormi"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Hal_Qormi_(Citta_Pinto)_Kunsill_Lokali.html"/>
+    <j.0:abstract>Is-Sinjorina Margaret Mercieca is a member of Ħal Qormi (Città Pinto) Local Council</j.0:abstract>
+    <foaf:title>Is-Sinjorina</foaf:title>
+    <foaf:family_name>Mercieca</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

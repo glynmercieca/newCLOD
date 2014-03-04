@@ -1,0 +1,37 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ST._JAMES_CAVALIER_CENTRE_FOR_CREATIVITY_Amenities.html">
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+    <en:hasAmenity>Lifts/Elevators</en:hasAmenity>
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Internet Access</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ST._JAMES_CAVALIER_CENTRE_FOR_CREATIVITY.html">
+    <foaf:name>ST. JAMES CAVALIER CENTRE FOR CREATIVITY</foaf:name>
+    <schema:name>ST. JAMES CAVALIER CENTRE FOR CREATIVITY</schema:name>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/stjcavalier</foaf:primaryTopic>
+    <vcard:hasAddress>Castille Place, Valletta, VLT 1060, Malta</vcard:hasAddress>
+    <foaf:homepage>http://www.sjcav.org</foaf:homepage>
+    <vcard:hasTelephone>+356 21223200</vcard:hasTelephone>
+    <rdfs:label>ST. JAMES CAVALIER CENTRE FOR CREATIVITY is an entertainment venue in Malta.</rdfs:label>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <vcard:hasWebsite>http://www.sjcav.org</vcard:hasWebsite>
+    <vcard:hasEmail>info@sjcav.org</vcard:hasEmail>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/ST._JAMES_CAVALIER_CENTRE_FOR_CREATIVITY_Amenities.html"/>
+    <en:openingHours>Sunday</en:openingHours>
+  </rdf:Description>
+</rdf:RDF>

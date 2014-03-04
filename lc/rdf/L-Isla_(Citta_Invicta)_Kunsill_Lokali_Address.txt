@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Address.html">
+    <vcard:postal-code>ISL 1229</vcard:postal-code>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>L-Isla (Città Invicta) site address</rdfs:label>
+    <j.0:abstract>This Site Address is the address of the L-Isla (Città Invicta) Kunsill Lokali Site.</j.0:abstract>
+    <vcard:locality>L-Isla (Città Invicta)</vcard:locality>
+    <vcard:hasTelephoneURI>27013004</vcard:hasTelephoneURI>
+    <vcard:extended-address>L-Isla (Città Invicta) Kunsill Lokali</vcard:extended-address>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Isla_(Citta_Invicta)_Kunsill_Lokali_Fax.html"/>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:street-address>2Triq San Ġużepp</vcard:street-address>
+    <vcard:hasTelephoneURI>21662424</vcard:hasTelephoneURI>
+  </rdf:Description>
+</rdf:RDF>

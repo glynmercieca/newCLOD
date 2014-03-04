@@ -1,0 +1,30 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS.html">
+    <vcard:hasTelephone>+356 99471813</vcard:hasTelephone>
+    <schema:description>TNT or The New Tattingers is located at the heart of Rabat, limits of Mdina, Malta. The newly refurbished, rebranded, Tattingers Exclusive Club offers an alternative Friday night out to its unique cosmpolitan crowd. With strict door policy entrance as well as a line-up of posh DJs and live performing gurus on board this TNT formula is indeed explosive. Everything about The New Tattingers (TNT) is comfortable, from the cosy atmosphere that the newly refurbished venue provides so effortlessly to the ample parking facilities available. </schema:description>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS_Amenities.html"/>
+    <schema:name>THE NEW TATTINGERS</schema:name>
+    <foaf:homepage>http://www.tattingers.com</foaf:homepage>
+    <en:openingHours>Sunday</en:openingHours>
+    <rdfs:label>THE NEW TATTINGERS is an entertainment venue in Malta.</rdfs:label>
+    <foaf:name>THE NEW TATTINGERS</foaf:name>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/tattingers</foaf:primaryTopic>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/NightClub</rdf:type>
+    <vcard:hasWebsite>http://www.tattingers.com</vcard:hasWebsite>
+    <vcard:hasEmail>eman@marshallpulis.com</vcard:hasEmail>
+    <vcard:hasAddress>Saqqajja Hill Rabat, Malta</vcard:hasAddress>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/THE_NEW_TATTINGERS_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

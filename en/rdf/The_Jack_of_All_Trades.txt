@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/The_Jack_of_All_Trades.html">
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <schema:name>The Jack of All Trades</schema:name>
+    <foaf:based_near>http://sws.geonames.org/8299755/</foaf:based_near>
+    <vcard:hasTelephone>+356 7925 6792</vcard:hasTelephone>
+    <foaf:name>The Jack of All Trades</foaf:name>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/The_Jack_of_All_Trades_Address.html"/>
+    <foaf:based_near>http://dbpedia.org/resource/Sliema</foaf:based_near>
+    <j.0:city>http://sws.geonames.org/8299755/</j.0:city>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190327-d4476174-Reviews-The_Jack_of_All_Trades-Sliema_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://dbpedia.org/resource/Sliema</j.0:city>
+    <rdfs:label>The Jack of All Trades is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

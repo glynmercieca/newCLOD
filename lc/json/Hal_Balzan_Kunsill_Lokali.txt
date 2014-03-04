@@ -1,0 +1,44 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "city" : "http://dbpedia.org/ontology/city",
+    "type" : "http://dbpedia.org/ontology/type",
+    "type_" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "Post" : {
+      "@id" : "http://www.w3.org/ns/org#Post",
+      "@type" : "@id"
+    },
+    "hasMember" : {
+      "@id" : "http://www.w3.org/ns/org#hasMember",
+      "@type" : "@id"
+    },
+    "hasSite" : {
+      "@id" : "http://www.w3.org/ns/org#hasSite",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali.html",
+  "abstract" : "Ħal Balzan Kunsill Lokali is a local council in Malta.",
+  "city" : [ "8299701", {
+    "@id" : "http://dbpedia.org/resource/Balzan"
+  } ],
+  "type" : "http://dbpedia.org/ontology/Local_councils_of_Malta",
+  "type_" : "http://www.w3.org/ns/org#FormalOrganization",
+  "label" : "Ħal Balzan Kunsill Lokali",
+  "hasEmail" : "balzan.lc@gov.mt",
+  "hasWebsite" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=46",
+  "Post" : [ "http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html", "http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html", "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html", "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html" ],
+  "hasMember" : [ "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Dr_John_Zammit_Montebello.html", "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Is-Sur_Stephen_Gatt.html", "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Is-Sur_Guido_Borg.html", "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Is-Sur_Mark_Mallia.html", "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Is-Sur_Joseph_Mary_Galea.html", "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Is-Sur_Desmond_Zammit_Marmara'.html" ],
+  "hasSite" : "http://newcsa3221.azurewebsites.net/lc/html/Hal_Balzan_Kunsill_Lokali_Site.html",
+  "based_near" : "http://www.geonames.org/8299701",
+  "homepage" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=46",
+  "name" : "Ħal Balzan Kunsill Lokali",
+  "primaryTopic" : "http://www.lc.gov.mt/page.aspx?pid=184&catid=46"
+}

@@ -1,0 +1,26 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/BJ's.html",
+  "city" : [ "http://sws.geonames.org/8299748/", "http://dbpedia.org/resource/St._Julian's" ],
+  "name" : "BJ's",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "BJ's is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/BJ's_Address.html",
+  "hasTelephone" : "2133 7642",
+  "based_near" : [ "http://dbpedia.org/resource/St._Julian's", "http://sws.geonames.org/8299748/" ],
+  "name_" : "BJ's",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g227101-d555524-Reviews-BJ_s-Saint_Julian_s_Island_of_Malta.html"
+}

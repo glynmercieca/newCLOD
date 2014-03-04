@@ -1,0 +1,28 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Horatio's_Upper_Deck.html",
+  "city" : [ "http://dbpedia.org/resource/Mgarr", "http://sws.geonames.org/8299720/" ],
+  "description" : "We are a bar situated just off the ferry landing in Mgarr, Gozo. We are close to the Grand Hotel, where we have many patrons visiting us, for summer.... more » We are a bar situated just off the ferry landing in Mgarr, Gozo. We are close to the Grand Hotel, where we have many patrons visiting us, for summer. We play all type of music is played from the 80's to present day, basically all the classic tunes. We are well known as the latest bar open at night, which is that we open from 8pm till last man or woman standing. Every Saturday night, during summer time, we have a band performing live, in an open air terrace.. Where you can let your hair down and have a dance as well.",
+  "name" : "Horatio's Upper Deck",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Horatio's Upper Deck is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Horatio's_Upper_Deck_Address.html",
+  "hasTelephone" : "+35621566669",
+  "based_near" : [ "http://sws.geonames.org/8299720/", "http://dbpedia.org/resource/Mgarr" ],
+  "name_" : "Horatio's Upper Deck",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g230153-d2324389-Reviews-Horatio_s_Upper_Deck-Mgarr_Island_of_Gozo.html"
+}

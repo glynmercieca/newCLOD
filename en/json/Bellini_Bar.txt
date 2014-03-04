@@ -1,0 +1,22 @@
+{
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Bellini_Bar.html",
+  "name" : "Bellini Bar",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/BarOrPub",
+  "label" : "Bellini Bar is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Bellini_Bar_Address.html",
+  "hasTelephone" : "0035627333326",
+  "name_" : "Bellini Bar",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190320-d3735389-Reviews-Bellini_Bar-Island_of_Malta.html"
+}

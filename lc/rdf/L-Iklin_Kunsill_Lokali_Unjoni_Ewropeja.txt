@@ -1,0 +1,14 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Anthony_Dalli.html">
+    <rdfs:label>L-Iklin Role</rdfs:label>
+    <j.0:abstract>This is a Role of a member of the L-Iklin Kunsill Lokali.</j.0:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Unjoni_Ewropeja.html">
+    <skos:prefLabel>Unjoni Ewropeja</skos:prefLabel>
+    <rdf:type>http://www.w3.org/ns/org#Role</rdf:type>
+  </rdf:Description>
+</rdf:RDF>

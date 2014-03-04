@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Ozzi_One_Cruise.html">
+    <rdfs:label>Ozzi One Cruise is an entertainment venue in Malta.</rdfs:label>
+    <foaf:based_near>http://sws.geonames.org/8299720/</foaf:based_near>
+    <vcard:hasTelephone>00356 99866726</vcard:hasTelephone>
+    <j.0:city>http://sws.geonames.org/8299720/</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Mgarr</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g230153-d3575748-Reviews-Ozzi_One_Cruise-Mgarr_Island_of_Gozo.html</foaf:primaryTopic>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Ozzi_One_Cruise_Address.html"/>
+    <foaf:name>Ozzi One Cruise</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <schema:name>Ozzi One Cruise</schema:name>
+    <j.0:city>http://dbpedia.org/resource/Mgarr</j.0:city>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,13 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.0="http://www.w3.org/2006/vcard/ns#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/M_SPACE.html">
+    <j.0:hasTelephone rdf:resource="http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Fax.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/M_SPACE_Fax.html">
+    <rdfs:label>This is the fax resource for M SPACE</rdfs:label>
+    <rdf:value>+356 21242224</rdf:value>
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Fax"/>
+  </rdf:Description>
+</rdf:RDF>

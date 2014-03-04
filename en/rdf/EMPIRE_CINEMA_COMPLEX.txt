@@ -1,0 +1,32 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/EMPIRE_CINEMA_COMPLEX.html">
+    <schema:name>EMPIRE CINEMA COMPLEX</schema:name>
+    <en:openingHours>Sunday</en:openingHours>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <rdfs:label>EMPIRE CINEMA COMPLEX is an entertainment venue in Malta.</rdfs:label>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/empire-cinema</foaf:primaryTopic>
+    <vcard:hasEmail>info@empirecinema.com.mt</vcard:hasEmail>
+    <vcard:hasTelephone>+356 21581787</vcard:hasTelephone>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/EMPIRE_CINEMA_COMPLEX_Amenities.html"/>
+    <foaf:name>EMPIRE CINEMA COMPLEX</foaf:name>
+    <foaf:homepage>http://www.empirecinema.com.mt</foaf:homepage>
+    <vcard:hasWebsite>http://www.empirecinema.com.mt</vcard:hasWebsite>
+    <vcard:hasAddress>Pioneer Road, Buġibba, Malta</vcard:hasAddress>
+    <schema:description>The Empire Cinema Complex is one of Malta's leading theatres having 7 screens all equipped with the latest, state-of-the-art projection equipment and digital sound. In its multi-story complex, the Empire Cinema homes Ciak Pizzeria with its vast, finger-licking choices, the Sweet Shop, jam packed with goodies, and the Main Bar boasting one of Malta's best coffees. </schema:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/EMPIRE_CINEMA_COMPLEX_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+    <en:hasAmenity>Shops within 1 km</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>No Smoking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

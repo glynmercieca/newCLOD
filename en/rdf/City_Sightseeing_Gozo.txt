@@ -1,0 +1,26 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/City_Sightseeing_Gozo.html">
+    <j.0:city>http://dbpedia.org/resource/Victoria,_Gozo</j.0:city>
+    <foaf:based_near>http://dbpedia.org/resource/Victoria,_Gozo</foaf:based_near>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <rdfs:label>City Sightseeing Gozo is an entertainment venue in Malta.</rdfs:label>
+    <foaf:name>City Sightseeing Gozo</foaf:name>
+    <j.0:city>http://sws.geonames.org/2562619/</j.0:city>
+    <vcard:hasTelephone>79569996</vcard:hasTelephone>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190317-d2615041-Reviews-City_Sightseeing_Gozo-Victoria_Island_of_Gozo.html</foaf:primaryTopic>
+    <schema:description>Gozo Hop on Hop Off Open Top Sightseeing Bus Tour</schema:description>
+    <vcard:hasEmail>info@city-sightseeing.com</vcard:hasEmail>
+    <schema:name>City Sightseeing Gozo</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/BusTours</rdf:type>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/City_Sightseeing_Gozo_Address.html"/>
+    <foaf:based_near>http://sws.geonames.org/2562619/</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

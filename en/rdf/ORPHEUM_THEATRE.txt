@@ -1,0 +1,23 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ORPHEUM_THEATRE.html">
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/ORPHEUM_THEATRE_Amenities.html"/>
+    <vcard:hasEmail>gzira.lc@gov.mt</vcard:hasEmail>
+    <vcard:hasAddress>Stuart Street (Corner with Cameron Street), Gżira, Malta</vcard:hasAddress>
+    <schema:name>ORPHEUM THEATRE</schema:name>
+    <schema:description>The former Orpheum Theatre in Gzira is a splendid survivor of the large single screen cinemas on Malta. Like many of the island's old cinemas, it was flat floored in the stalls and had a single balcony. In 2001 it was Grade 1 Listed. The balcony is unaltered and magnificent with Spanish decor on the walls, a panelled ceiling and a painted shield in the centre. The theatre is famed for the filming of a video by the rock group Black Sabbath in 1995. A real delight!</schema:description>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/PerformingArtsTheater</rdf:type>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/orpheum-theatre</foaf:primaryTopic>
+    <foaf:name>ORPHEUM THEATRE</foaf:name>
+    <rdfs:label>ORPHEUM THEATRE is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/ORPHEUM_THEATRE_Amenities.html">
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

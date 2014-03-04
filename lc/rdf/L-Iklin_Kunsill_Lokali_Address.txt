@@ -1,0 +1,18 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Address.html">
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:street-address>11Trejqet ir-Rumanzieri</vcard:street-address>
+    <vcard:extended-address>Three Villages</vcard:extended-address>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:postal-code>IKL 1320</vcard:postal-code>
+    <j.0:abstract>This Site Address is the address of the L-Iklin Kunsill Lokali Site.</j.0:abstract>
+    <vcard:locality>L-Iklin</vcard:locality>
+    <rdfs:label>L-Iklin site address</rdfs:label>
+    <vcard:hasTelephoneURI>21416741</vcard:hasTelephoneURI>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Fax.html"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Jokers_Family_Fun.html">
+    <vcard:hasEmail>info@jokersfamilyfun.com</vcard:hasEmail>
+    <vcard:hasTelephone>00356-21-333653</vcard:hasTelephone>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Jokers_Family_Fun_Address.html"/>
+    <schema:name>Jokers Family Fun</schema:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190320-d1463756-Reviews-Jokers_Family_Fun-Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:name>Jokers Family Fun</foaf:name>
+    <rdfs:label>Jokers Family Fun is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

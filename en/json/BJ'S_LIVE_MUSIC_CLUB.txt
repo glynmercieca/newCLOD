@@ -1,0 +1,40 @@
+{
+  "@context" : {
+    "Amenities" : {
+      "@id" : "http://newcsa3221.azurewebsites.net/en/html/Amenities",
+      "@type" : "@id"
+    },
+    "openingHours" : "http://newcsa3221.azurewebsites.net/en/html/openingHours",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "hasWebsite" : "http://www.w3.org/2006/vcard/ns#hasWebsite",
+    "homepage" : "http://xmlns.com/foaf/0.1/homepage",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic",
+    "hasAmenity" : "http://newcsa3221.azurewebsites.net/en/html/hasAmenity"
+  },
+  "@graph" : [ {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/BJ'S_LIVE_MUSIC_CLUB.html",
+    "Amenities" : "http://newcsa3221.azurewebsites.net/en/html/BJ'S_LIVE_MUSIC_CLUB_Amenities.html",
+    "openingHours" : "Sunday",
+    "description" : "BJ's is for all those who search beyond what any mainstream entertainment has to offer. Its for individuals who like to discover the unknown and the unpredictable. Music that provoke and stimulate the mind. Art for Art's sake. A place where Virtuosity, Sophisticated Artistic Creativity and Achievements are appreciated. Where Art and Technology meet. The Club is equipped with best brand names. Amps, Drums, Percussion and Piano/ Keyboards, and stage mixer are available. So just get your Guitar, Bass, or whatever plug in and play. Also a state of the art full PA system, At the edge of technology Lighting and Audio Video equipment for any LIVE performance situation, or any other similar events.. Come and enjoy a very warm friendly welcome atmosphere with different Genre of music each day of the week. So surely at least once a week, you gonna have a day you don't wanna miss. From soft Jazz, Acoustic, Bluegrass and Classical music on a Monday, Progressive Classic Rock on Tuesdays, Funk, Soul and Dancing on Wednesday, Jazz Night on Thurs, Blues to Rock for both Friday and Saturday. Open day Live on Sunday. Its The Haven for all Local and Foreign Musicians and Artists in the center of Paceville Malta. MAKE LIFE CREATIVE! Come and enjoy our music at the Cafe', Bar and Lounge.",
+    "name" : "BJ'S LIVE MUSIC CLUB",
+    "type" : "http://newcsa3221.azurewebsites.net/en/html/NightClub",
+    "label" : "BJ'S LIVE MUSIC CLUB is an entertainment venue in Malta.",
+    "hasAddress" : "Ball Street, Paceville, St. Julian’s, Malta",
+    "hasEmail" : "Philipfenech@gmail.com",
+    "hasTelephone" : "+356 21337642",
+    "hasWebsite" : "http://www.facebook.com/BJSLiveMu ...",
+    "homepage" : "http://www.facebook.com/BJSLiveMu ...",
+    "name_" : "BJ'S LIVE MUSIC CLUB",
+    "primaryTopic" : "http://www.visitmalta.com/en/info/bjsclub"
+  }, {
+    "@id" : "http://newcsa3221.azurewebsites.net/en/html/BJ'S_LIVE_MUSIC_CLUB_Amenities.html",
+    "hasAmenity" : [ "Town/City Location", "Public Toilets", "Major Credit Cards Accepted", "Cafe", "Bar" ]
+  } ]
+}

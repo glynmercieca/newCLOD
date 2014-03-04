@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali.html">
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sna_Charlene_Zammit.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=14</foaf:primaryTopic>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Mqabba"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sur_Michel_Farrugia.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sur_Paul_Spiteri.html"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <foaf:based_near>http://www.geonames.org/8299721</foaf:based_near>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sur_Nicholas_Briffa.html"/>
+    <foaf:name>L-Imqabba Kunsill Lokali</foaf:name>
+    <vcard:hasEmail>mqabba.lc@gov.mt</vcard:hasEmail>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <rdfs:label>L-Imqabba Kunsill Lokali</rdfs:label>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=14</vcard:hasWebsite>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sna_Grace_Marie_Mallia.html"/>
+    <dbpedia:abstract>L-Imqabba Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <dbpedia:city>8299721</dbpedia:city>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imqabba_Kunsill_Lokali_Is-Sur_Anthony_Bonello.html"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=14</foaf:homepage>
+  </rdf:Description>
+</rdf:RDF>

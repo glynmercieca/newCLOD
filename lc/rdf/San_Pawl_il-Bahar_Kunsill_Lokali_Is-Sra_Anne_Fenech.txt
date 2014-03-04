@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali_Is-Sra_Anne_Marie_Fenech.html">
+    <rdfs:label>Is-Sra Anne Marie Fenech</rdfs:label>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Pawl_il-Bahar_Kunsill_Lokali.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/St._Paul&apos;s_Bay"/>
+    <j.0:abstract>Is-Sra Anne Marie Fenech is a member of San Pawl il-Baħar Local Council</j.0:abstract>
+    <foaf:family_name>Fenech</foaf:family_name>
+    <foaf:firstName>Anne</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:title>Is-Sra</foaf:title>
+    <foaf:based_near>http://www.geonames.org/8299751</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

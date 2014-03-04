@@ -1,0 +1,31 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/SPLASH_&amp;_FUN_WATER_PARK_Amenities.html">
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Outdoor Pool</en:hasAmenity>
+    <en:hasAmenity>Coastal Location</en:hasAmenity>
+    <en:hasAmenity>Children</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/SPLASH_&amp;_FUN_WATER_PARK.html">
+    <vcard:hasWebsite>http://www.splashandfun.com.mt</vcard:hasWebsite>
+    <rdfs:label>SPLASH &amp; FUN WATER PARK is an entertainment venue in Malta.</rdfs:label>
+    <foaf:name>SPLASH &amp; FUN WATER PARK</foaf:name>
+    <vcard:hasTelephone>+356 21374283</vcard:hasTelephone>
+    <schema:description>The Splash &amp; Fun Park at White Rocks has a large swimming pool and deck for adults to enjoy by the sea. The other pool is equipped with chutes and slides as well as a dinosaur park to keep the children happy. Other facilities such as a Snack bar and ample parking space are available for those spending the day at the Splash and fun park.</schema:description>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:homepage>http://www.splashandfun.com.mt</foaf:homepage>
+    <schema:name>SPLASH &amp; FUN WATER PARK</schema:name>
+    <vcard:hasEmail>info@splashandfun.com.mt</vcard:hasEmail>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/splashfunwaterpark</foaf:primaryTopic>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/SPLASH_&amp;_FUN_WATER_PARK_Amenities.html"/>
+    <vcard:hasAddress>Coast Road, Baħar iċ-Ċagħaq, Malta</vcard:hasAddress>
+  </rdf:Description>
+</rdf:RDF>

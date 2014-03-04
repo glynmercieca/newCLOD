@@ -1,0 +1,24 @@
+{
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "aggregateRating" : "http://www.w3.org/2006/vcard/ns#aggregateRating",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Excursion_in_Malta.html",
+  "name" : "Excursion in Malta",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/Tours",
+  "label" : "Excursion in Malta is an entertainment venue in Malta.",
+  "aggregateRating" : "4.5",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Excursion_in_Malta_Address.html",
+  "hasEmail" : "info@excursionsinmalta.com",
+  "name_" : "Excursion in Malta",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190313-d2315474-Reviews-Excursion_in_Malta-Island_of_Gozo.html"
+}

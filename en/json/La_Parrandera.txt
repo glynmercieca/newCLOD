@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/La_Parrandera.html",
+  "city" : [ "http://sws.geonames.org/8299755/", "http://dbpedia.org/resource/Sliema" ],
+  "description" : "The spanish space in Malta. Thursday \"Sheep & Films\", Saturday \"The Parranda\" and Sunday \"The Caneo\" On THURSDAY Sheep & films will be pleased to be... more » The spanish space in Malta. Thursday \"Sheep & Films\", Saturday \"The Parranda\" and Sunday \"The Caneo\" On THURSDAY Sheep & films will be pleased to be Showing a spanish or european films. Original Version. English Subtitles. SPECIAL OFFERS: Free entrance 1 Pizza + 2 pints for 10 euros Pop-corn for everybody On SATURDAY we will continue parrandeando with DJ Kinky Blonde, Spanish copon, pitchers of sangria and calimocho, mojitos, long island and good feeling. Much more than a party at The Parranda. SPECIAL OFFERS: Spanish copon (drink in a big glass): 4€ Coctails: 4€ Pitcher of sangria/calimocho: 6€ (2x10€) On SUNDAY we go The Caneo. Do you know what it means? Cana + Tapa for only 2 euros. Any better plan for a Sunday morning? TAPAS: - Spanish Omelette - Pisto - Spicy potatoes - Salmorejo - Parrandera toast We hope see you at home, at La Parrandera.",
+  "name" : "La Parrandera",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "La Parrandera is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/La_Parrandera_Address.html",
+  "hasEmail" : "theparranda@gmail.com",
+  "hasTelephone" : "+356 9991 3978",
+  "based_near" : [ "http://dbpedia.org/resource/Sliema", "http://sws.geonames.org/8299755/" ],
+  "name_" : "La Parrandera",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190327-d5584605-Reviews-La_Parrandera-Sliema_Island_of_Malta.html"
+}

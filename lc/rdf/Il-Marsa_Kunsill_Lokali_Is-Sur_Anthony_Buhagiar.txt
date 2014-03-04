@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Marsa_Kunsill_Lokali_Is-Sur_Anthony_Buhagiar.html">
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Marsa,_Malta"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Anthony</foaf:firstName>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Marsa_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <j.0:abstract>Is-Sur Anthony Buhagiar is a member of Il-Marsa Local Council</j.0:abstract>
+    <foaf:family_name>Buhagiar</foaf:family_name>
+    <rdfs:label>Is-Sur Anthony Buhagiar</rdfs:label>
+    <foaf:based_near>http://www.geonames.org/8299730</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

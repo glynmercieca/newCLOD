@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Barbarossa_Day_Excursions.html">
+    <schema:name>Barbarossa Day Excursions</schema:name>
+    <rdfs:label>Barbarossa Day Excursions is an entertainment venue in Malta.</rdfs:label>
+    <j.0:city>http://sws.geonames.org/8299760/</j.0:city>
+    <j.0:city>http://dbpedia.org/resource/Xewkija</j.0:city>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/Tours</rdf:type>
+    <foaf:name>Barbarossa Day Excursions</foaf:name>
+    <foaf:based_near>http://sws.geonames.org/8299760/</foaf:based_near>
+    <vcard:hasTelephone>(+356) 21551315</vcard:hasTelephone>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Barbarossa_Day_Excursions_Address.html"/>
+    <foaf:based_near>http://dbpedia.org/resource/Xewkija</foaf:based_near>
+    <vcard:aggregateRating>4.5</vcard:aggregateRating>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190319-d1783094-Reviews-Barbarossa_Day_Excursions-Xewkija_Island_of_Gozo.html</foaf:primaryTopic>
+  </rdf:Description>
+</rdf:RDF>

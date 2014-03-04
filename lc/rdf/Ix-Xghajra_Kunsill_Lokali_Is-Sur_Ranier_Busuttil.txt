@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sur_Ranier_Busuttil.html">
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Executive_Secretary.html"/>
+    <j.0:abstract>Is-Sur Ranier Busuttil is a member of Ix-Xgħajra Local Council</j.0:abstract>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Xgħajra"/>
+    <foaf:firstName>Ranier</foaf:firstName>
+    <foaf:based_near>http://www.geonames.org/8299761</foaf:based_near>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdfs:label>Is-Sur Ranier Busuttil</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:family_name>Busuttil</foaf:family_name>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali.html"/>
+  </rdf:Description>
+</rdf:RDF>

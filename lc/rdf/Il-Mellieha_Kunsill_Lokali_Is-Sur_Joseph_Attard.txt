@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Mellieha_Kunsill_Lokali_Is-Sur_Joseph_Matthew_Attard.html">
+    <foaf:based_near>http://www.geonames.org/8299733</foaf:based_near>
+    <foaf:firstName>Joseph</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:abstract>Is-Sur Joseph Matthew Attard is a member of Il-Mellieħa Local Council</j.0:abstract>
+    <rdfs:label>Is-Sur Joseph Matthew Attard</rdfs:label>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Mellieħa"/>
+    <foaf:family_name>Attard</foaf:family_name>
+    <foaf:title>Is-Sur</foaf:title>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Mellieha_Kunsill_Lokali.html"/>
+  </rdf:Description>
+</rdf:RDF>

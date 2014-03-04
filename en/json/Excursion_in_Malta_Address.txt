@@ -1,0 +1,9 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Excursion_in_Malta_Address.html",
+  "label" : "This is the address resource for Excursion in Malta",
+  "country-name" : "Malta"
+}

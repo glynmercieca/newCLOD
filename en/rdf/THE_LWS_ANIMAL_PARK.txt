@@ -1,0 +1,33 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/THE_LWS_ANIMAL_PARK_Amenities.html">
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Garden</en:hasAmenity>
+    <en:hasAmenity>Disabled Parking</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Countryside Location</en:hasAmenity>
+    <en:hasAmenity>Children Welcome</en:hasAmenity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/THE_LWS_ANIMAL_PARK.html">
+    <vcard:hasTelephone>+356 21636526</vcard:hasTelephone>
+    <schema:name>THE LWS ANIMAL PARK</schema:name>
+    <foaf:homepage>http://www.inspire.org.mt</foaf:homepage>
+    <rdfs:label>THE LWS ANIMAL PARK is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasWebsite>http://www.inspire.org.mt</vcard:hasWebsite>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/THE_LWS_ANIMAL_PARK_Amenities.html"/>
+    <vcard:hasAddress>Zinzell Street, Marsaskala, MSK 4070, Malta</vcard:hasAddress>
+    <en:openingHours>Sunday</en:openingHours>
+    <foaf:name>THE LWS ANIMAL PARK</foaf:name>
+    <schema:description>The LWS animal park offers an educational and fun filled day. The animals in this park are well taken care of and their ambience is much more than a cage. Rabbits are free to roam their ground and so are the mountain goats. Emus, deer, llama and monkeys are only a few of the animals one may see. There is also a train winding through beautiful gardens and round the animal park. In the centre of the park there is a 'Grand Prix' go-karts track. The Park also has a stable area, with horses and ponies which children can ride. All the facilites in the park are specially designed for easy access and use by the disabled. The park is open on weekdays from 9am till 1pm and on Saturdays from 9am till noon (viewing only). On Sundays the park is open all day from 9am till 5pm with train rides and go carts available.</schema:description>
+    <vcard:hasEmail>venues@inspire.org.mt</vcard:hasEmail>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/thelwsanimalpark</foaf:primaryTopic>
+  </rdf:Description>
+</rdf:RDF>

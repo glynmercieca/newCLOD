@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Belt_Valletta_(Citta_Umilissima)_Kunsill_Lokali_Address.html">
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>Il-Belt Valletta (Città Umilissima) site address</rdfs:label>
+    <vcard:hasTelephoneURI>21251396</vcard:hasTelephoneURI>
+    <vcard:hasTelephoneURI>21234141</vcard:hasTelephoneURI>
+    <j.0:abstract>This Site Address is the address of the Il-Belt Valletta (Città Umilissima) Kunsill Lokali Site.</j.0:abstract>
+    <vcard:country-name>Malta</vcard:country-name>
+    <vcard:hasTelephoneURI>21251400</vcard:hasTelephoneURI>
+    <vcard:street-address>31Triq Nofs in-Nhar</vcard:street-address>
+    <vcard:locality>Il-Belt Valletta (Città Umilissima)</vcard:locality>
+    <vcard:postal-code>VLT 1100</vcard:postal-code>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Belt_Valletta_(Citta_Umilissima)_Kunsill_Lokali_Fax.html"/>
+    <vcard:extended-address>Il-Belt Valletta (Città Umilissima) Kunsill Lokali</vcard:extended-address>
+  </rdf:Description>
+</rdf:RDF>

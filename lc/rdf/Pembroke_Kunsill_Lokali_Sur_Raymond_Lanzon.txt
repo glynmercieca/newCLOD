@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Pembroke_Kunsill_Lokali_Sur_Raymond_Lanzon.html">
+    <foaf:family_name>Lanzon</foaf:family_name>
+    <foaf:based_near>http://www.geonames.org/8299739</foaf:based_near>
+    <foaf:title>Sur</foaf:title>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Pembroke,_Malta"/>
+    <rdfs:label>Sur Raymond Lanzon</rdfs:label>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Pembroke_Kunsill_Lokali.html"/>
+    <foaf:firstName>Raymond</foaf:firstName>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <j.0:abstract>Sur Raymond Lanzon is a member of Pembroke Local Council</j.0:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

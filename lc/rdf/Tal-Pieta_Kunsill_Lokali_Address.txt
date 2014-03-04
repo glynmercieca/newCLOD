@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Tal-Pieta_Kunsill_Lokali_Address.html">
+    <rdfs:label>Tal-Pietà site address</rdfs:label>
+    <vcard:extended-address>Tal-Pietà Kunsill Lokali</vcard:extended-address>
+    <vcard:postal-code>PTA 1550</vcard:postal-code>
+    <vcard:hasTelephoneURI>21240404</vcard:hasTelephoneURI>
+    <j.0:abstract>This Site Address is the address of the Tal-Pietà Kunsill Lokali Site.</j.0:abstract>
+    <vcard:locality>Tal-Pietà</vcard:locality>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Tal-Pieta_Kunsill_Lokali_Fax.html"/>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <vcard:street-address>11</vcard:street-address>
+    <vcard:hasTelephoneURI>21230378</vcard:hasTelephoneURI>
+    <vcard:country-name>Malta</vcard:country-name>
+  </rdf:Description>
+</rdf:RDF>

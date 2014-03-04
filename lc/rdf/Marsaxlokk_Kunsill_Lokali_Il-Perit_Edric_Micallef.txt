@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Marsaxlokk_Kunsill_Lokali_Il-Perit_Edric_Micallef.html">
+    <j.0:abstract>Il-Perit Edric Micallef is a member of Marsaxlokk Local Council</j.0:abstract>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <rdfs:label>Il-Perit Edric Micallef</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Edric</foaf:firstName>
+    <foaf:title>Il-Perit</foaf:title>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaxlokk_Kunsill_Lokali.html"/>
+    <foaf:based_near>http://www.geonames.org/8299732</foaf:based_near>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Marsaxlokk"/>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Marsaxlokk_Kunsill_Lokali.html"/>
+    <foaf:family_name>Micallef</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali_Address.html">
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali_Fax.html"/>
+    <vcard:hasTelephoneURI>21373777</vcard:hasTelephoneURI>
+    <vcard:locality>San Ġwann</vcard:locality>
+    <vcard:street-address>55Triq R. Caruana Dingli</vcard:street-address>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <rdfs:label>San Ġwann site address</rdfs:label>
+    <vcard:hasTelephoneURI>21378601</vcard:hasTelephoneURI>
+    <vcard:extended-address>San Ġwann Kunsill Lokali</vcard:extended-address>
+    <vcard:country-name>Malta</vcard:country-name>
+    <j.0:abstract>This Site Address is the address of the San Ġwann Kunsill Lokali Site.</j.0:abstract>
+    <vcard:postal-code>SGN1033</vcard:postal-code>
+  </rdf:Description>
+</rdf:RDF>

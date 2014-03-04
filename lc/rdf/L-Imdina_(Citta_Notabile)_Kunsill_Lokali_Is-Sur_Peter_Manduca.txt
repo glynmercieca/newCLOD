@@ -1,0 +1,21 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali_Is-Sur_Peter_J_Dei_Conti_Sant_Manduca.html">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Mdina"/>
+    <rdfs:label>Is-Sur Peter J Dei Conti Sant Manduca</rdfs:label>
+    <j.0:abstract>Is-Sur Peter J Dei Conti Sant Manduca is a member of L-Imdina (Città Notabile) Local Council</j.0:abstract>
+    <foaf:title>Is-Sur</foaf:title>
+    <foaf:based_near>http://www.geonames.org/8299719</foaf:based_near>
+    <foaf:family_name>Manduca</foaf:family_name>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali.html"/>
+    <org:headOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Imdina_(Citta_Notabile)_Kunsill_Lokali.html"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <foaf:firstName>Peter</foaf:firstName>
+  </rdf:Description>
+</rdf:RDF>

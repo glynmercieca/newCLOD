@@ -1,0 +1,30 @@
+{
+  "@context" : {
+    "city" : "http://dbpedia.org/ontology/city",
+    "description" : "http://schema.org/description",
+    "name" : "http://schema.org/name",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "hasAddress" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#hasAddress",
+      "@type" : "@id"
+    },
+    "hasEmail" : "http://www.w3.org/2006/vcard/ns#hasEmail",
+    "hasTelephone" : "http://www.w3.org/2006/vcard/ns#hasTelephone",
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "name_" : "http://xmlns.com/foaf/0.1/name",
+    "primaryTopic" : "http://xmlns.com/foaf/0.1/primaryTopic"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Mayjo_Private_Day_Tours.html",
+  "city" : [ "http://sws.geonames.org/2562619/", "http://dbpedia.org/resource/Victoria,_Gozo" ],
+  "description" : "We provide private day tours on the wonderful island of Gozo. This means the guests will not be with other unknown people on the taxi or minibus,... more » We provide private day tours on the wonderful island of Gozo. This means the guests will not be with other unknown people on the taxi or minibus, depending on the amount of people. Discover the best sights of Gozo at your own pace!",
+  "name" : "Mayjo Private Day Tours",
+  "type" : "http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness",
+  "label" : "Mayjo Private Day Tours is an entertainment venue in Malta.",
+  "hasAddress" : "http://newcsa3221.azurewebsites.net/en/html/Mayjo_Private_Day_Tours_Address.html",
+  "hasEmail" : "info@mayjocarhire.com",
+  "hasTelephone" : "356 21 55 6678",
+  "based_near" : [ "http://sws.geonames.org/2562619/", "http://dbpedia.org/resource/Victoria,_Gozo" ],
+  "name_" : "Mayjo Private Day Tours",
+  "primaryTopic" : "http://www.tripadvisor.com/Attraction_Review-g190317-d2624771-Reviews-Mayjo_Private_Day_Tours-Victoria_Island_of_Gozo.html"
+}

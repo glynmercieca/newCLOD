@@ -1,0 +1,16 @@
+{
+  "@context" : {
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "siteAddress" : {
+      "@id" : "http://www.w3.org/ns/org#siteAddress",
+      "@type" : "@id"
+    }
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Qala_Kunsill_Lokali_Site.html",
+  "abstract" : "This Site represents the premises of the Il-Qala Kunsill Lokali.",
+  "type" : "http://www.w3.org/ns/org#Site",
+  "label" : "Il-Qala Site",
+  "siteAddress" : "http://newcsa3221.azurewebsites.net/lc/html/Il-Qala_Kunsill_Lokali_Address.html"
+}

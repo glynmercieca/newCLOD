@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Gharb_Kunsill_Lokali_Is-Sur_Louis_Apap.html">
+    <j.0:abstract>Is-Sur Louis Apap is a member of L-Għarb Local Council</j.0:abstract>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label>Is-Sur Louis Apap</rdfs:label>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Gharb_Kunsill_Lokali.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Għarb"/>
+    <foaf:family_name>Apap</foaf:family_name>
+    <foaf:based_near>http://www.geonames.org/8299711</foaf:based_near>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:firstName>Louis</foaf:firstName>
+    <foaf:title>Is-Sur</foaf:title>
+  </rdf:Description>
+</rdf:RDF>

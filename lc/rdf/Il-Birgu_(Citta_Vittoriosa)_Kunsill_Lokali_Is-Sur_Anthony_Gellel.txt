@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali_Is-Sur_Anthony_Gellel.html">
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:family_name>Gellel</foaf:family_name>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Il-Birgu_(Citta_Vittoriosa)_Kunsill_Lokali.html"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Birgu"/>
+    <foaf:based_near>http://www.geonames.org/8299702</foaf:based_near>
+    <foaf:title>Is-Sur</foaf:title>
+    <j.0:abstract>Is-Sur Anthony Gellel is a member of Il-Birgu (Città Vittoriosa) Local Council</j.0:abstract>
+    <foaf:firstName>Anthony</foaf:firstName>
+    <rdfs:label>Is-Sur Anthony Gellel</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

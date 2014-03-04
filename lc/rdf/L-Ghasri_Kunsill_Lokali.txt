@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali.html">
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_L-Av._Daniel_Attard.html"/>
+    <dbpedia:city>8299713</dbpedia:city>
+    <dbpedia:abstract>L-Għasri Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <rdfs:label>L-Għasri Kunsill Lokali</rdfs:label>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Site.html"/>
+    <vcard:hasEmail>ghasri.lc@gov.mt</vcard:hasEmail>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Is-Sur_Joseph_Farrugia.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Is-Sur_Ruben_Cassar.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Is-Sur_Frank_Formosa.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Is-Sur_Emanuel_Mintoff.html"/>
+    <foaf:name>L-Għasri Kunsill Lokali</foaf:name>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Ghasri_Kunsill_Lokali_Is-Sinj._Alexandra_Maria_Mifsud.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Għasri"/>
+    <foaf:homepage>www.ghasri.lc.gov.mt</foaf:homepage>
+    <vcard:hasWebsite>www.ghasri.lc.gov.mt</vcard:hasWebsite>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=58</foaf:primaryTopic>
+    <foaf:based_near>http://www.geonames.org/8299713</foaf:based_near>
+  </rdf:Description>
+</rdf:RDF>

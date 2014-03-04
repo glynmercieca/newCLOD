@@ -1,0 +1,15 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/The_Jack_of_All_Trades_Address.html",
+  "label" : "This is the address resource for The Jack of All Trades",
+  "country-name" : "Malta",
+  "locality" : "Sliema",
+  "postal-code" : "SLM 0035",
+  "street-address" : "Depiro Street"
+}

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Monaco_Millions.html">
+    <vcard:hasEmail>info@monacomillions.com.mt</vcard:hasEmail>
+    <vcard:hasTelephone>00356-21-333653</vcard:hasTelephone>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Monaco_Millions_Address.html"/>
+    <schema:name>Monaco Millions</schema:name>
+    <schema:description>Monaco Millions is set in Malta's most sought after area; occupying part of a 1300 square meter leisure facility it provides gaming with 80 Slot... more » Monaco Millions is set in Malta's most sought after area; occupying part of a 1300 square meter leisure facility it provides gaming with 80 Slot Machines.It is serviced by 12 restaurants and cafeterias, 40 retail outlets and Bay Street Hotel all interconnected by lifts and moving stairs in a top class complex.Open every day from 10.00 am till 4.00 am. Entry is restricted to those who are over the age of 18 and who have a valid form of identification.</schema:description>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g190320-d1465340-Reviews-Monaco_Millions-Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:name>Monaco Millions</foaf:name>
+    <rdfs:label>Monaco Millions is an entertainment venue in Malta.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

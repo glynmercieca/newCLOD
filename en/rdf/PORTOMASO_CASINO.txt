@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/PORTOMASO_CASINO.html">
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/PORTOMASO_CASINO_Amenities.html"/>
+    <vcard:hasTelephone>+356 21383777</vcard:hasTelephone>
+    <vcard:hasWebsite>http://www.portomasocasino.com</vcard:hasWebsite>
+    <en:openingHours>Sunday</en:openingHours>
+    <vcard:hasEmail>win@portomasocasino.com</vcard:hasEmail>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/Casino</rdf:type>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/portomasocasino</foaf:primaryTopic>
+    <schema:description>The Casino at Portomaso is in St. Julian's and is open Sun - Thurs 10.00 a.m to 5.00 a.m. and Friday, Saturday until 6.00a.m. Live gaming tables open daily from 1.30 p.m. The 1100 square metre casino features 150 slot machines and 10 live gaming tables. The property is located within the Hilton Hotel.</schema:description>
+    <rdfs:label>PORTOMASO CASINO is an entertainment venue in Malta.</rdfs:label>
+    <foaf:name>PORTOMASO CASINO</foaf:name>
+    <vcard:hasAddress>Portomaso, St. Julian’s, PTM 01, Malta</vcard:hasAddress>
+    <schema:name>PORTOMASO CASINO</schema:name>
+    <foaf:homepage>http://www.portomasocasino.com</foaf:homepage>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/PORTOMASO_CASINO_Amenities.html">
+    <en:hasAmenity>Seaside Location</en:hasAmenity>
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Disabled Parking</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Bar</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

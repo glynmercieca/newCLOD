@@ -1,0 +1,36 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali.html">
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sur_Josef_Schembri.html"/>
+    <foaf:name>Ir-Rabat (Città Victoria) Kunsill Lokali</foaf:name>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=831 ta’ Ottubru sal-15 ta’Ġunju – 7.15am sa l-4.30pm</vcard:hasWebsite>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sra_Maria_Portelli.html"/>
+    <rdfs:label>Ir-Rabat (Città Victoria) Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sur_Joseph_Debrincat.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sur_Michael_Buttigieg.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Dr_Samuel_Azzopardi.html"/>
+    <dbpedia:abstract>Ir-Rabat (Città Victoria) Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <dbpedia:city>2562619</dbpedia:city>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sur_Anthony_Briffa.html"/>
+    <vcard:hasEmail>rabat.gozo.lc@gov.mt</vcard:hasEmail>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Victoria,_Gozo"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sra_Miriam_Attard.html"/>
+    <foaf:based_near>http://www.geonames.org/2562619</foaf:based_near>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=831 ta’ Ottubru sal-15 ta’Ġunju – 7.15am sa l-4.30pm</foaf:homepage>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=83</foaf:primaryTopic>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Is-Sur_Marcell_Tabone.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Executive_Secretary.html"/>
+  </rdf:Description>
+</rdf:RDF>

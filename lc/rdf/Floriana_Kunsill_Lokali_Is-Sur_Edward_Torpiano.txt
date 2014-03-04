@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali_Is-Sur_Edward_Torpiano.html">
+    <rdfs:label>Is-Sur Edward Torpiano</rdfs:label>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Floriana_Kunsill_Lokali.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Floriana"/>
+    <foaf:based_near>http://www.geonames.org/8299708</foaf:based_near>
+    <j.0:abstract>Is-Sur Edward Torpiano is a member of Floriana Local Council</j.0:abstract>
+    <foaf:firstName>Edward</foaf:firstName>
+    <foaf:family_name>Torpiano</foaf:family_name>
+  </rdf:Description>
+</rdf:RDF>

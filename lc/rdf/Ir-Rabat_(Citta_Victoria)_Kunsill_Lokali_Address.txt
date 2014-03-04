@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Address.html">
+    <vcard:region>Gozo</vcard:region>
+    <vcard:street-address>Pjazza Indipendenza</vcard:street-address>
+    <vcard:extended-address>Banca Giuratale</vcard:extended-address>
+    <vcard:locality>Ir-Rabat (Città Victoria)</vcard:locality>
+    <rdfs:label>Ir-Rabat (Città Victoria) site address</rdfs:label>
+    <vcard:hasTelephoneURI>21563344,21561653</vcard:hasTelephoneURI>
+    <vcard:country-name>Malta</vcard:country-name>
+    <rdf:type>http://www.w3.org/2006/vcard/ns#hasAddress</rdf:type>
+    <j.0:abstract>This Site Address is the address of the Ir-Rabat (Città Victoria) Kunsill Lokali Site.</j.0:abstract>
+    <vcard:hasTelephoneURI rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ir-Rabat_(Citta_Victoria)_Kunsill_Lokali_Fax.html"/>
+    <vcard:postal-code>VCT 1020</vcard:postal-code>
+  </rdf:Description>
+</rdf:RDF>

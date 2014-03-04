@@ -1,0 +1,44 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "headOf" : {
+      "@id" : "http://www.w3.org/ns/org#headOf",
+      "@type" : "@id"
+    },
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "role" : {
+      "@id" : "http://www.w3.org/ns/org#role",
+      "@type" : "@id"
+    },
+    "based_near" : "http://xmlns.com/foaf/0.1/based_near",
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Anthony_Dalli.html",
+  "@type" : "Person",
+  "abstract" : "Is-Sur Anthony Dalli is a member of L-Iklin Local Council",
+  "label" : "Is-Sur Anthony Dalli",
+  "headOf" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Mayor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html",
+  "role" : [ "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Amministrazzjoni.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Sindku_Finanzi.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Ordni_Pubblika.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Traffiku_u_Dipartimenti_tal-Gvern..html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Unjoni_Ewropeja.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Informazzjoni.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Progetti_Kapitali.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Infrastruttura.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_  Gemellagg.html", "http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_ Ghaqdiet_Lokali.html" ],
+  "based_near" : [ "http://www.geonames.org/8299718", {
+    "@id" : "http://dbpedia.org/resource/Iklin"
+  } ],
+  "family_name" : "Dalli",
+  "firstName" : "Anthony",
+  "title" : "Is-Sur"
+}

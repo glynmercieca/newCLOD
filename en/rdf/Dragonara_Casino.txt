@@ -1,0 +1,36 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/DRAGONARA_CASINO.html">
+    <vcard:hasEmail>info@dragonaracasino.com</vcard:hasEmail>
+    <schema:description>The Dragonara Casino is Malta's premier gaming and entertainment destination. This is where you are assured of top-level service and the ultimate gaming experience, in splendid surroundings. The casino is housed in a magnificent 19th-century seaboard summer palace, built by the Marquis Scicluna, with a surrounding colonnaded veranda that abuts directly onto the sea. It retains many of the originalarchitectural and interior design features, which have been successfully adapted to the requirements of casino patrons, a combination of luxury, glamour and excitement, with a beautiful bar and a highly rated restaurant.The Dragonara Palace was first converted for use as a casino in 1964. In 2010, the casino embarked on an extensive refurbishment program, with a fresh design and state of the art gaming equipment. The casino operates more than 300 state of the art slot machines, supplied by the world's leading manufacturers, including Novomatic. There is a spacious non-smoking area with a wide range of 18 live table games: American roulette, blackjack, punto banco, three card poker and Texas Hold'em poker. Those guests who prefer to play these games on individual terminals have a combined Novo Multi-Roulette and Novo Flying Blackjack installation with two wheels and 28 terminals. A new stage of development will allow space for international poker tournaments and increased gaming facilities. The Dragonara Casino is an exclusive and exciting destination, where the ultimate gaming experience awaits you. The Casino is open 24 hrs a day, entrance is free, and 150 secure parking bays are available for patrons. Please note that the minimum age of entry is 25 years for Maltese citizens and 18 years for non-Maltese citizens and that you are to bring a passport or other ID on first visit. Your details will be registered and a players' card will be issued for future visits. This card may also be used as a loyalty card to accumulate cash and promotional points whilst playing on slots and live tables. Dragonara offers quality hospitality packages with an offering of the Best hotels on the island and in 'walking distance' from the Casino. All accomodation and transfers are handle by us, so that allows our patrons to truly enjoy their stay and play at the Dragonara Casino. Dragonara Casino Hospitality packages include lunch and dinner in our brasserie. Free transport is offered to all our guests and patrons. For more information about our hospitality packages kindly visit our website www.dragonaracasino.com or facebook page www.facebook.com/dragonaracasino.</schema:description>
+    <foaf:primaryTopic>http://www.visitmalta.com/en/info/dragonaracasino</foaf:primaryTopic>
+    <vcard:hasAddress>Dragonara Palace St. Julian’s, STJ 3143, Malta</vcard:hasAddress>
+    <foaf:name>DRAGONARA CASINO</foaf:name>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/Casino</rdf:type>
+    <vcard:hasWebsite>http://www.dragonaracasino.com</vcard:hasWebsite>
+    <vcard:hasTelephone>+356 21382362</vcard:hasTelephone>
+    <en:Amenities rdf:resource="http://newcsa3221.azurewebsites.net/en/html/DRAGONARA_CASINO_Amenities.html"/>
+    <foaf:homepage>http://www.dragonaracasino.com</foaf:homepage>
+    <rdfs:label>DRAGONARA CASINO is an entertainment venue in Malta.</rdfs:label>
+    <en:openingHours>Sunday</en:openingHours>
+    <schema:name>DRAGONARA CASINO</schema:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/DRAGONARA_CASINO_Amenities.html">
+    <en:hasAmenity>Bar</en:hasAmenity>
+    <en:hasAmenity>Major Credit Cards Accepted</en:hasAmenity>
+    <en:hasAmenity>Disabled Facilities</en:hasAmenity>
+    <en:hasAmenity>Garden</en:hasAmenity>
+    <en:hasAmenity>Restaurant</en:hasAmenity>
+    <en:hasAmenity>Public Toilets</en:hasAmenity>
+    <en:hasAmenity>Cafe</en:hasAmenity>
+    <en:hasAmenity>Parking</en:hasAmenity>
+    <en:hasAmenity>Public Payphone</en:hasAmenity>
+    <en:hasAmenity>Town/City Location</en:hasAmenity>
+  </rdf:Description>
+</rdf:RDF>

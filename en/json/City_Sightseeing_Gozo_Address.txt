@@ -1,0 +1,13 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/City_Sightseeing_Gozo_Address.html",
+  "label" : "This is the address resource for City Sightseeing Gozo",
+  "country-name" : "Malta",
+  "locality" : "Victoria",
+  "street-address" : "41A Main Gate street"
+}

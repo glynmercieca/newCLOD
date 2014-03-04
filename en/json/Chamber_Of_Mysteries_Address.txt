@@ -1,0 +1,17 @@
+{
+  "@context" : {
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "country-name" : "http://www.w3.org/2006/vcard/ns#country-name",
+    "extended-address" : "http://www.w3.org/2006/vcard/ns#extended-address",
+    "locality" : "http://www.w3.org/2006/vcard/ns#locality",
+    "postal-code" : "http://www.w3.org/2006/vcard/ns#postal-code",
+    "street-address" : "http://www.w3.org/2006/vcard/ns#street-address"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/en/html/Chamber_Of_Mysteries_Address.html",
+  "label" : "This is the address resource for Chamber Of Mysteries",
+  "country-name" : "Malta",
+  "extended-address" : "Valley Road",
+  "locality" : "Qormi",
+  "postal-code" : "QRM 1714",
+  "street-address" : "1743 Razzett L-Antik"
+}

@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali_Is-Sur_Trevor_Fenech.html">
+    <j.0:abstract>Is-Sur Trevor Fenech is a member of San Ġwann Local Council</j.0:abstract>
+    <foaf:family_name>Fenech</foaf:family_name>
+    <foaf:firstName>Trevor</foaf:firstName>
+    <foaf:based_near>http://www.geonames.org/8299747</foaf:based_near>
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/San_Gwann_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <rdfs:label>Is-Sur Trevor Fenech</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/San_Ġwann"/>
+  </rdf:Description>
+</rdf:RDF>

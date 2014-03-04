@@ -1,0 +1,36 @@
+{
+  "@context" : {
+    "Person" : {
+      "@id" : "http://xmlns.com/foaf/0.1/Person",
+      "@type" : "@id"
+    },
+    "abstract" : "http://dbpedia.org/ontology/abstract",
+    "label" : "http://www.w3.org/2000/01/rdf-schema#label",
+    "holds" : {
+      "@id" : "http://www.w3.org/ns/org#holds",
+      "@type" : "@id"
+    },
+    "memberOf" : {
+      "@id" : "http://www.w3.org/ns/org#memberOf",
+      "@type" : "@id"
+    },
+    "based_near" : {
+      "@id" : "http://xmlns.com/foaf/0.1/based_near",
+      "@type" : "@id"
+    },
+    "family_name" : "http://xmlns.com/foaf/0.1/family_name",
+    "firstName" : "http://xmlns.com/foaf/0.1/firstName",
+    "title" : "http://xmlns.com/foaf/0.1/title"
+  },
+  "@id" : "http://newcsa3221.azurewebsites.net/lc/html/Haz-Zebbug_(Citta_Rohan)_Kunsill_Lokali_Is-Sur_Duncan_Bartolo.html",
+  "@type" : "Person",
+  "abstract" : "Is-Sur Duncan Bartolo is a member of Ħaż-Żebbuġ (Città Rohan) Local Council",
+  "label" : "Is-Sur Duncan Bartolo",
+  "holds" : "http://newcsa3221.azurewebsites.net/lc/html/Councillor.html",
+  "memberOf" : "http://newcsa3221.azurewebsites.net/lc/html/Haz-Zebbug_(Citta_Rohan)_Kunsill_Lokali.html",
+  "based_near" : "http://dbpedia.org/resource/Żebbuġ,_Malta",
+  "http://xmlns.com/foaf/0.1/based_near" : "http://www.geonames.org/8299763",
+  "family_name" : "Bartolo",
+  "firstName" : "Duncan",
+  "title" : "Is-Sur"
+}

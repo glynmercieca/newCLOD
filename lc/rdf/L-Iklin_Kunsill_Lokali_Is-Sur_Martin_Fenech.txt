@@ -1,0 +1,24 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Is-Sur_Martin_Fenech.html">
+    <org:memberOf rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali.html"/>
+    <foaf:title>Is-Sur</foaf:title>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Harsien_ta&apos;_l-annimali..html"/>
+    <org:holds rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Kunsillier_Zghazagh.html"/>
+    <rdfs:label>Is-Sur Martin Fenech</rdfs:label>
+    <foaf:based_near rdf:resource="http://dbpedia.org/resource/Iklin"/>
+    <foaf:based_near>http://www.geonames.org/8299718</foaf:based_near>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Sports.html"/>
+    <foaf:family_name>Fenech</foaf:family_name>
+    <org:role rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/L-Iklin_Kunsill_Lokali_Drittijiet_tal-Konsumatur.html"/>
+    <j.0:abstract>Is-Sur Martin Fenech is a member of L-Iklin Local Council</j.0:abstract>
+    <foaf:firstName>Martin</foaf:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

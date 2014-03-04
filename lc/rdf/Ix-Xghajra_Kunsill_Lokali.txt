@@ -1,0 +1,34 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:org="http://www.w3.org/ns/org#"
+    xmlns:dbpedia="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali.html">
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sur_Anthony_Valvo.html"/>
+    <foaf:based_near>http://www.geonames.org/8299761</foaf:based_near>
+    <rdfs:label>Ix-Xgħajra Kunsill Lokali</rdfs:label>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sra_Maria_Claire_Depasquale.html"/>
+    <dbpedia:type>http://dbpedia.org/ontology/Local_councils_of_Malta</dbpedia:type>
+    <org:hasSite rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Site.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sur_Joseph_Azzopardi.html"/>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sra_Antonia_Buttigieg.html"/>
+    <foaf:name>Ix-Xgħajra Kunsill Lokali</foaf:name>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sur_Mario_Buhagiar.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Mayor.html"/>
+    <dbpedia:city rdf:resource="http://dbpedia.org/resource/Xgħajra"/>
+    <foaf:homepage>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=79</foaf:homepage>
+    <rdf:type>http://www.w3.org/ns/org#FormalOrganization</rdf:type>
+    <dbpedia:abstract>Ix-Xgħajra Kunsill Lokali is a local council in Malta.</dbpedia:abstract>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Mayor.html"/>
+    <vcard:hasWebsite>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=79</vcard:hasWebsite>
+    <vcard:hasEmail>xghajra.lc@gov.mt</vcard:hasEmail>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Councillor.html"/>
+    <org:Post rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Deputy_Executive_Secretary.html"/>
+    <foaf:primaryTopic>http://www.lc.gov.mt/page.aspx?pid=184&amp;catid=79</foaf:primaryTopic>
+    <dbpedia:city>8299761</dbpedia:city>
+    <org:hasMember rdf:resource="http://newcsa3221.azurewebsites.net/lc/html/Ix-Xghajra_Kunsill_Lokali_Is-Sur_Ranier_Busuttil.html"/>
+  </rdf:Description>
+</rdf:RDF>

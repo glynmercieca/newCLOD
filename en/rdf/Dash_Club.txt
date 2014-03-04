@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Dash_Club.html">
+    <foaf:name>Dash Club</foaf:name>
+    <j.0:city>http://sws.geonames.org/8299748/</j.0:city>
+    <schema:description>DASH is a fast-growing, newly refurbished, ‘state of the art’ Club in the heart of Paceville – Malta’s entertainment capital. Equipped with the very... more » DASH is a fast-growing, newly refurbished, ‘state of the art’ Club in the heart of Paceville – Malta’s entertainment capital. Equipped with the very best Sound Systems, Intelligent Laser lighting and smoke machines, we guarantee Unforgettable Entertainment. Apart from the excellent location, DASH has one of the largest VIP areas in Paceville which hosts up to 50 people and can also be used exclusively for private events. The Club is known for its style, cultural diversity and elite clientèle. It offers an environment of comfort, leisure and safety in equal measure.DASH is as an original concept never seen before in Paceville. We offer our clients an ‘Experience’ not just a ‘night out’. We promise to deliver, each and every time, a clubbing experience like no other. Quality is of paramount importance to DASH, and that’s exactly what we’re constantly striving to deliver to our esteemed clientèle. From service to music, we will always go that extra mile to satisfy our clients.</schema:description>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Dash_Club_Address.html"/>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/EntertainmentBusiness</rdf:type>
+    <vcard:hasTelephone>2737 6000</vcard:hasTelephone>
+    <rdfs:label>Dash Club is an entertainment venue in Malta.</rdfs:label>
+    <schema:name>Dash Club</schema:name>
+    <foaf:based_near>http://dbpedia.org/resource/St._Julian's</foaf:based_near>
+    <foaf:based_near>http://sws.geonames.org/8299748/</foaf:based_near>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g227101-d4453711-Reviews-Dash_Club-Saint_Julian_s_Island_of_Malta.html</foaf:primaryTopic>
+    <j.0:city>http://dbpedia.org/resource/St._Julian's</j.0:city>
+    <vcard:hasEmail>dashclubmalta@gmail.com</vcard:hasEmail>
+  </rdf:Description>
+</rdf:RDF>

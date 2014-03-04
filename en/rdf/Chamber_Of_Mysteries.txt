@@ -1,0 +1,25 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:gn="http://www.geonames.org/"
+    xmlns:en="http://newcsa3221.azurewebsites.net/en/html/"
+    xmlns:schema="http://schema.org/"
+    xmlns:j.0="http://dbpedia.org/ontology/"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://newcsa3221.azurewebsites.net/en/html/Chamber_Of_Mysteries.html">
+    <j.0:city>http://sws.geonames.org/8299742/</j.0:city>
+    <schema:description>The Chamber of Mysteries is Malta's exclusive Nightlife event for those seeking something unique and different! Enjoy a great night out in Malta... more » The Chamber of Mysteries is Malta's exclusive Nightlife event for those seeking something unique and different! Enjoy a great night out in Malta complete with a traditional Maltese cuisine (three courses), flowing wine and great entertainment combined of music, illusion, magic, mind reading and other amazing feats that defy explanation. The show, presented by top award winning magicians, is set in a secret chamber within an authentic 18th century building. An unforgettable night out whilst in Malta!</schema:description>
+    <foaf:primaryTopic>http://www.tripadvisor.com/Attraction_Review-g2137518-d2304934-Reviews-Chamber_Of_Mysteries-Qormi_Island_of_Malta.html</foaf:primaryTopic>
+    <foaf:based_near>http://sws.geonames.org/8299742/</foaf:based_near>
+    <foaf:name>Chamber Of Mysteries</foaf:name>
+    <vcard:hasEmail>info@chamberofmysteries.com</vcard:hasEmail>
+    <rdfs:label>Chamber Of Mysteries is an entertainment venue in Malta.</rdfs:label>
+    <vcard:hasAddress rdf:resource="http://newcsa3221.azurewebsites.net/en/html/Chamber_Of_Mysteries_Address.html"/>
+    <foaf:based_near>http://dbpedia.org/resource/Qormi</foaf:based_near>
+    <j.0:city>http://dbpedia.org/resource/Qormi</j.0:city>
+    <vcard:hasTelephone>356-21470221</vcard:hasTelephone>
+    <rdf:type>http://newcsa3221.azurewebsites.net/en/html/DinnerTheater</rdf:type>
+    <schema:name>Chamber Of Mysteries</schema:name>
+  </rdf:Description>
+</rdf:RDF>
